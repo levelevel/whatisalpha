@@ -1,0 +1,15 @@
+U+0009	0x9	blank	space	cntrl
+U+0020	 	blank	space
+U+1680	 	blank	space
+U+2000	 	blank	space
+U+2001	 	blank	space
+U+2002	 	blank	space
+U+2003	 	blank	space
+U+2004	 	blank	space
+U+2005	 	blank	space
+U+2006	 	blank	space
+U+2008	 	blank	space
+U+2009	 	blank	space
+U+200a	 	blank	space
+U+205f	 	blank	space
+U+3000	　	blank	space
