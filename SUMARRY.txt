@@ -8,6 +8,6 @@ punct 10027
 blank 15
 space 21
 cntrl 67
-graph 10
-print 10
+graph 137913
+print 137927
 None 5930

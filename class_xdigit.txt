@@ -8,15 +8,15 @@ U+0036	6	DIGIT SIX	alnum	digit	xdigit	graph	print
 U+0037	7	DIGIT SEVEN	alnum	digit	xdigit	graph	print
 U+0038	8	DIGIT EIGHT	alnum	digit	xdigit	graph	print
 U+0039	9	DIGIT NINE	alnum	digit	xdigit	graph	print
-U+0041	A	LATIN CAPITAL LETTER A	alpha	alnum	upper	xdigit
-U+0042	B	LATIN CAPITAL LETTER B	alpha	alnum	upper	xdigit
-U+0043	C	LATIN CAPITAL LETTER C	alpha	alnum	upper	xdigit
-U+0044	D	LATIN CAPITAL LETTER D	alpha	alnum	upper	xdigit
-U+0045	E	LATIN CAPITAL LETTER E	alpha	alnum	upper	xdigit
-U+0046	F	LATIN CAPITAL LETTER F	alpha	alnum	upper	xdigit
-U+0061	a	LATIN SMALL LETTER A	alpha	alnum	lower	xdigit
-U+0062	b	LATIN SMALL LETTER B	alpha	alnum	lower	xdigit
-U+0063	c	LATIN SMALL LETTER C	alpha	alnum	lower	xdigit
-U+0064	d	LATIN SMALL LETTER D	alpha	alnum	lower	xdigit
-U+0065	e	LATIN SMALL LETTER E	alpha	alnum	lower	xdigit
-U+0066	f	LATIN SMALL LETTER F	alpha	alnum	lower	xdigit
+U+0041	A	LATIN CAPITAL LETTER A	alpha	alnum	upper	xdigit	graph	print
+U+0042	B	LATIN CAPITAL LETTER B	alpha	alnum	upper	xdigit	graph	print
+U+0043	C	LATIN CAPITAL LETTER C	alpha	alnum	upper	xdigit	graph	print
+U+0044	D	LATIN CAPITAL LETTER D	alpha	alnum	upper	xdigit	graph	print
+U+0045	E	LATIN CAPITAL LETTER E	alpha	alnum	upper	xdigit	graph	print
+U+0046	F	LATIN CAPITAL LETTER F	alpha	alnum	upper	xdigit	graph	print
+U+0061	a	LATIN SMALL LETTER A	alpha	alnum	lower	xdigit	graph	print
+U+0062	b	LATIN SMALL LETTER B	alpha	alnum	lower	xdigit	graph	print
+U+0063	c	LATIN SMALL LETTER C	alpha	alnum	lower	xdigit	graph	print
+U+0064	d	LATIN SMALL LETTER D	alpha	alnum	lower	xdigit	graph	print
+U+0065	e	LATIN SMALL LETTER E	alpha	alnum	lower	xdigit	graph	print
+U+0066	f	LATIN SMALL LETTER F	alpha	alnum	lower	xdigit	graph	print

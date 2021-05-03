@@ -56,8 +56,8 @@ int write_line(const char *name, wchar_t wc) {
     if (iswblank (wc)) { fputs("\tblank", stdout); match = 1; }
     if (iswspace (wc)) { fputs("\tspace", stdout); match = 1; }
     if (iswcntrl (wc)) { fputs("\tcntrl", stdout); match = 1; }
-    if (iswdigit (wc)) { fputs("\tgraph", stdout); match = 1; }
-    if (iswdigit (wc)) { fputs("\tprint", stdout); match = 1; }
+    if (iswgraph (wc)) { fputs("\tgraph", stdout); match = 1; }
+    if (iswprint (wc)) { fputs("\tprint", stdout); match = 1; }
     if (!match) fputs("\tNone", stdout);
     putchar('\n');
     return 1;

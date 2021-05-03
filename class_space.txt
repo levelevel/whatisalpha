@@ -3,19 +3,19 @@ U+000a	0xa	LINE FEED (LF)	space	cntrl
 U+000b	0xb	LINE TABULATION	space	cntrl
 U+000c	0xc	FORM FEED (FF)	space	cntrl
 U+000d	0xd	CARRIAGE RETURN (CR)	space	cntrl
-U+0020	 	SPACE	blank	space
-U+1680	 	OGHAM SPACE MARK	blank	space
-U+2000	 	EN QUAD	blank	space
-U+2001	 	EM QUAD	blank	space
-U+2002	 	EN SPACE	blank	space
-U+2003	 	EM SPACE	blank	space
-U+2004	 	THREE-PER-EM SPACE	blank	space
-U+2005	 	FOUR-PER-EM SPACE	blank	space
-U+2006	 	SIX-PER-EM SPACE	blank	space
-U+2008	 	PUNCTUATION SPACE	blank	space
-U+2009	 	THIN SPACE	blank	space
-U+200a	 	HAIR SPACE	blank	space
+U+0020	 	SPACE	blank	space	print
+U+1680	 	OGHAM SPACE MARK	blank	space	print
+U+2000	 	EN QUAD	blank	space	print
+U+2001	 	EM QUAD	blank	space	print
+U+2002	 	EN SPACE	blank	space	print
+U+2003	 	EM SPACE	blank	space	print
+U+2004	 	THREE-PER-EM SPACE	blank	space	print
+U+2005	 	FOUR-PER-EM SPACE	blank	space	print
+U+2006	 	SIX-PER-EM SPACE	blank	space	print
+U+2008	 	PUNCTUATION SPACE	blank	space	print
+U+2009	 	THIN SPACE	blank	space	print
+U+200a	 	HAIR SPACE	blank	space	print
 U+2028	0x2028	LINE SEPARATOR	space	cntrl
 U+2029	0x2029	PARAGRAPH SEPARATOR	space	cntrl
-U+205f	 	MEDIUM MATHEMATICAL SPACE	blank	space
-U+3000	　	IDEOGRAPHIC SPACE	blank	space
+U+205f	 	MEDIUM MATHEMATICAL SPACE	blank	space	print
+U+3000	　	IDEOGRAPHIC SPACE	blank	space	print

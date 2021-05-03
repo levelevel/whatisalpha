@@ -7,12 +7,12 @@ ALL=class_ALL.txt
 SUMMARY=SUMARRY.txt
 SH=$(EXE).sh
 
-all:	../$(ALL) $(DATA)
+all:	../$(ALL)
 
 $(DATA):
 	if [ ! -e $(DATA) ]; then wget http://www.unicode.org/Public/UCD/latest/ucd/UnicodeData.txt; fi
 
-../$(ALL):	$(EXE)
+../$(ALL):	$(EXE) $(DATA) 
 	./$(EXE) > $(ALL)
 	./$(SH) | tee $(SUMMARY)
 	mv class_*.txt $(SUMMARY) ..
