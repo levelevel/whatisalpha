@@ -1,10 +1,10 @@
-U+0030	0	alnum	digit	xdigit	graph	print
-U+0031	1	alnum	digit	xdigit	graph	print
-U+0032	2	alnum	digit	xdigit	graph	print
-U+0033	3	alnum	digit	xdigit	graph	print
-U+0034	4	alnum	digit	xdigit	graph	print
-U+0035	5	alnum	digit	xdigit	graph	print
-U+0036	6	alnum	digit	xdigit	graph	print
-U+0037	7	alnum	digit	xdigit	graph	print
-U+0038	8	alnum	digit	xdigit	graph	print
-U+0039	9	alnum	digit	xdigit	graph	print
+U+0030	0	DIGIT ZERO	alnum	digit	xdigit	graph	print
+U+0031	1	DIGIT ONE	alnum	digit	xdigit	graph	print
+U+0032	2	DIGIT TWO	alnum	digit	xdigit	graph	print
+U+0033	3	DIGIT THREE	alnum	digit	xdigit	graph	print
+U+0034	4	DIGIT FOUR	alnum	digit	xdigit	graph	print
+U+0035	5	DIGIT FIVE	alnum	digit	xdigit	graph	print
+U+0036	6	DIGIT SIX	alnum	digit	xdigit	graph	print
+U+0037	7	DIGIT SEVEN	alnum	digit	xdigit	graph	print
+U+0038	8	DIGIT EIGHT	alnum	digit	xdigit	graph	print
+U+0039	9	DIGIT NINE	alnum	digit	xdigit	graph	print

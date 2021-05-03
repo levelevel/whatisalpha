@@ -1,1939 +1,1939 @@
-U+0041	A	alpha	alnum	upper	xdigit
-U+0042	B	alpha	alnum	upper	xdigit
-U+0043	C	alpha	alnum	upper	xdigit
-U+0044	D	alpha	alnum	upper	xdigit
-U+0045	E	alpha	alnum	upper	xdigit
-U+0046	F	alpha	alnum	upper	xdigit
-U+0047	G	alpha	alnum	upper
-U+0048	H	alpha	alnum	upper
-U+0049	I	alpha	alnum	upper
-U+004a	J	alpha	alnum	upper
-U+004b	K	alpha	alnum	upper
-U+004c	L	alpha	alnum	upper
-U+004d	M	alpha	alnum	upper
-U+004e	N	alpha	alnum	upper
-U+004f	O	alpha	alnum	upper
-U+0050	P	alpha	alnum	upper
-U+0051	Q	alpha	alnum	upper
-U+0052	R	alpha	alnum	upper
-U+0053	S	alpha	alnum	upper
-U+0054	T	alpha	alnum	upper
-U+0055	U	alpha	alnum	upper
-U+0056	V	alpha	alnum	upper
-U+0057	W	alpha	alnum	upper
-U+0058	X	alpha	alnum	upper
-U+0059	Y	alpha	alnum	upper
-U+005a	Z	alpha	alnum	upper
-U+00c0	À	alpha	alnum	upper
-U+00c1	Á	alpha	alnum	upper
-U+00c2	Â	alpha	alnum	upper
-U+00c3	Ã	alpha	alnum	upper
-U+00c4	Ä	alpha	alnum	upper
-U+00c5	Å	alpha	alnum	upper
-U+00c6	Æ	alpha	alnum	upper
-U+00c7	Ç	alpha	alnum	upper
-U+00c8	È	alpha	alnum	upper
-U+00c9	É	alpha	alnum	upper
-U+00ca	Ê	alpha	alnum	upper
-U+00cb	Ë	alpha	alnum	upper
-U+00cc	Ì	alpha	alnum	upper
-U+00cd	Í	alpha	alnum	upper
-U+00ce	Î	alpha	alnum	upper
-U+00cf	Ï	alpha	alnum	upper
-U+00d0	Ð	alpha	alnum	upper
-U+00d1	Ñ	alpha	alnum	upper
-U+00d2	Ò	alpha	alnum	upper
-U+00d3	Ó	alpha	alnum	upper
-U+00d4	Ô	alpha	alnum	upper
-U+00d5	Õ	alpha	alnum	upper
-U+00d6	Ö	alpha	alnum	upper
-U+00d8	Ø	alpha	alnum	upper
-U+00d9	Ù	alpha	alnum	upper
-U+00da	Ú	alpha	alnum	upper
-U+00db	Û	alpha	alnum	upper
-U+00dc	Ü	alpha	alnum	upper
-U+00dd	Ý	alpha	alnum	upper
-U+00de	Þ	alpha	alnum	upper
-U+0100	Ā	alpha	alnum	upper
-U+0102	Ă	alpha	alnum	upper
-U+0104	Ą	alpha	alnum	upper
-U+0106	Ć	alpha	alnum	upper
-U+0108	Ĉ	alpha	alnum	upper
-U+010a	Ċ	alpha	alnum	upper
-U+010c	Č	alpha	alnum	upper
-U+010e	Ď	alpha	alnum	upper
-U+0110	Đ	alpha	alnum	upper
-U+0112	Ē	alpha	alnum	upper
-U+0114	Ĕ	alpha	alnum	upper
-U+0116	Ė	alpha	alnum	upper
-U+0118	Ę	alpha	alnum	upper
-U+011a	Ě	alpha	alnum	upper
-U+011c	Ĝ	alpha	alnum	upper
-U+011e	Ğ	alpha	alnum	upper
-U+0120	Ġ	alpha	alnum	upper
-U+0122	Ģ	alpha	alnum	upper
-U+0124	Ĥ	alpha	alnum	upper
-U+0126	Ħ	alpha	alnum	upper
-U+0128	Ĩ	alpha	alnum	upper
-U+012a	Ī	alpha	alnum	upper
-U+012c	Ĭ	alpha	alnum	upper
-U+012e	Į	alpha	alnum	upper
-U+0130	İ	alpha	alnum	upper
-U+0132	Ĳ	alpha	alnum	upper
-U+0134	Ĵ	alpha	alnum	upper
-U+0136	Ķ	alpha	alnum	upper
-U+0139	Ĺ	alpha	alnum	upper
-U+013b	Ļ	alpha	alnum	upper
-U+013d	Ľ	alpha	alnum	upper
-U+013f	Ŀ	alpha	alnum	upper
-U+0141	Ł	alpha	alnum	upper
-U+0143	Ń	alpha	alnum	upper
-U+0145	Ņ	alpha	alnum	upper
-U+0147	Ň	alpha	alnum	upper
-U+014a	Ŋ	alpha	alnum	upper
-U+014c	Ō	alpha	alnum	upper
-U+014e	Ŏ	alpha	alnum	upper
-U+0150	Ő	alpha	alnum	upper
-U+0152	Œ	alpha	alnum	upper
-U+0154	Ŕ	alpha	alnum	upper
-U+0156	Ŗ	alpha	alnum	upper
-U+0158	Ř	alpha	alnum	upper
-U+015a	Ś	alpha	alnum	upper
-U+015c	Ŝ	alpha	alnum	upper
-U+015e	Ş	alpha	alnum	upper
-U+0160	Š	alpha	alnum	upper
-U+0162	Ţ	alpha	alnum	upper
-U+0164	Ť	alpha	alnum	upper
-U+0166	Ŧ	alpha	alnum	upper
-U+0168	Ũ	alpha	alnum	upper
-U+016a	Ū	alpha	alnum	upper
-U+016c	Ŭ	alpha	alnum	upper
-U+016e	Ů	alpha	alnum	upper
-U+0170	Ű	alpha	alnum	upper
-U+0172	Ų	alpha	alnum	upper
-U+0174	Ŵ	alpha	alnum	upper
-U+0176	Ŷ	alpha	alnum	upper
-U+0178	Ÿ	alpha	alnum	upper
-U+0179	Ź	alpha	alnum	upper
-U+017b	Ż	alpha	alnum	upper
-U+017d	Ž	alpha	alnum	upper
-U+0181	Ɓ	alpha	alnum	upper
-U+0182	Ƃ	alpha	alnum	upper
-U+0184	Ƅ	alpha	alnum	upper
-U+0186	Ɔ	alpha	alnum	upper
-U+0187	Ƈ	alpha	alnum	upper
-U+0189	Ɖ	alpha	alnum	upper
-U+018a	Ɗ	alpha	alnum	upper
-U+018b	Ƌ	alpha	alnum	upper
-U+018e	Ǝ	alpha	alnum	upper
-U+018f	Ə	alpha	alnum	upper
-U+0190	Ɛ	alpha	alnum	upper
-U+0191	Ƒ	alpha	alnum	upper
-U+0193	Ɠ	alpha	alnum	upper
-U+0194	Ɣ	alpha	alnum	upper
-U+0196	Ɩ	alpha	alnum	upper
-U+0197	Ɨ	alpha	alnum	upper
-U+0198	Ƙ	alpha	alnum	upper
-U+019c	Ɯ	alpha	alnum	upper
-U+019d	Ɲ	alpha	alnum	upper
-U+019f	Ɵ	alpha	alnum	upper
-U+01a0	Ơ	alpha	alnum	upper
-U+01a2	Ƣ	alpha	alnum	upper
-U+01a4	Ƥ	alpha	alnum	upper
-U+01a6	Ʀ	alpha	alnum	upper
-U+01a7	Ƨ	alpha	alnum	upper
-U+01a9	Ʃ	alpha	alnum	upper
-U+01ac	Ƭ	alpha	alnum	upper
-U+01ae	Ʈ	alpha	alnum	upper
-U+01af	Ư	alpha	alnum	upper
-U+01b1	Ʊ	alpha	alnum	upper
-U+01b2	Ʋ	alpha	alnum	upper
-U+01b3	Ƴ	alpha	alnum	upper
-U+01b5	Ƶ	alpha	alnum	upper
-U+01b7	Ʒ	alpha	alnum	upper
-U+01b8	Ƹ	alpha	alnum	upper
-U+01bc	Ƽ	alpha	alnum	upper
-U+01c4	Ǆ	alpha	alnum	upper
-U+01c5	ǅ	alpha	alnum	upper	lower
-U+01c7	Ǉ	alpha	alnum	upper
-U+01c8	ǈ	alpha	alnum	upper	lower
-U+01ca	Ǌ	alpha	alnum	upper
-U+01cb	ǋ	alpha	alnum	upper	lower
-U+01cd	Ǎ	alpha	alnum	upper
-U+01cf	Ǐ	alpha	alnum	upper
-U+01d1	Ǒ	alpha	alnum	upper
-U+01d3	Ǔ	alpha	alnum	upper
-U+01d5	Ǖ	alpha	alnum	upper
-U+01d7	Ǘ	alpha	alnum	upper
-U+01d9	Ǚ	alpha	alnum	upper
-U+01db	Ǜ	alpha	alnum	upper
-U+01de	Ǟ	alpha	alnum	upper
-U+01e0	Ǡ	alpha	alnum	upper
-U+01e2	Ǣ	alpha	alnum	upper
-U+01e4	Ǥ	alpha	alnum	upper
-U+01e6	Ǧ	alpha	alnum	upper
-U+01e8	Ǩ	alpha	alnum	upper
-U+01ea	Ǫ	alpha	alnum	upper
-U+01ec	Ǭ	alpha	alnum	upper
-U+01ee	Ǯ	alpha	alnum	upper
-U+01f1	Ǳ	alpha	alnum	upper
-U+01f2	ǲ	alpha	alnum	upper	lower
-U+01f4	Ǵ	alpha	alnum	upper
-U+01f6	Ƕ	alpha	alnum	upper
-U+01f7	Ƿ	alpha	alnum	upper
-U+01f8	Ǹ	alpha	alnum	upper
-U+01fa	Ǻ	alpha	alnum	upper
-U+01fc	Ǽ	alpha	alnum	upper
-U+01fe	Ǿ	alpha	alnum	upper
-U+0200	Ȁ	alpha	alnum	upper
-U+0202	Ȃ	alpha	alnum	upper
-U+0204	Ȅ	alpha	alnum	upper
-U+0206	Ȇ	alpha	alnum	upper
-U+0208	Ȉ	alpha	alnum	upper
-U+020a	Ȋ	alpha	alnum	upper
-U+020c	Ȍ	alpha	alnum	upper
-U+020e	Ȏ	alpha	alnum	upper
-U+0210	Ȑ	alpha	alnum	upper
-U+0212	Ȓ	alpha	alnum	upper
-U+0214	Ȕ	alpha	alnum	upper
-U+0216	Ȗ	alpha	alnum	upper
-U+0218	Ș	alpha	alnum	upper
-U+021a	Ț	alpha	alnum	upper
-U+021c	Ȝ	alpha	alnum	upper
-U+021e	Ȟ	alpha	alnum	upper
-U+0220	Ƞ	alpha	alnum	upper
-U+0222	Ȣ	alpha	alnum	upper
-U+0224	Ȥ	alpha	alnum	upper
-U+0226	Ȧ	alpha	alnum	upper
-U+0228	Ȩ	alpha	alnum	upper
-U+022a	Ȫ	alpha	alnum	upper
-U+022c	Ȭ	alpha	alnum	upper
-U+022e	Ȯ	alpha	alnum	upper
-U+0230	Ȱ	alpha	alnum	upper
-U+0232	Ȳ	alpha	alnum	upper
-U+023a	Ⱥ	alpha	alnum	upper
-U+023b	Ȼ	alpha	alnum	upper
-U+023d	Ƚ	alpha	alnum	upper
-U+023e	Ⱦ	alpha	alnum	upper
-U+0241	Ɂ	alpha	alnum	upper
-U+0243	Ƀ	alpha	alnum	upper
-U+0244	Ʉ	alpha	alnum	upper
-U+0245	Ʌ	alpha	alnum	upper
-U+0246	Ɇ	alpha	alnum	upper
-U+0248	Ɉ	alpha	alnum	upper
-U+024a	Ɋ	alpha	alnum	upper
-U+024c	Ɍ	alpha	alnum	upper
-U+024e	Ɏ	alpha	alnum	upper
-U+0370	Ͱ	alpha	alnum	upper
-U+0372	Ͳ	alpha	alnum	upper
-U+0376	Ͷ	alpha	alnum	upper
-U+037f	Ϳ	alpha	alnum	upper
-U+0386	Ά	alpha	alnum	upper
-U+0388	Έ	alpha	alnum	upper
-U+0389	Ή	alpha	alnum	upper
-U+038a	Ί	alpha	alnum	upper
-U+038c	Ό	alpha	alnum	upper
-U+038e	Ύ	alpha	alnum	upper
-U+038f	Ώ	alpha	alnum	upper
-U+0391	Α	alpha	alnum	upper
-U+0392	Β	alpha	alnum	upper
-U+0393	Γ	alpha	alnum	upper
-U+0394	Δ	alpha	alnum	upper
-U+0395	Ε	alpha	alnum	upper
-U+0396	Ζ	alpha	alnum	upper
-U+0397	Η	alpha	alnum	upper
-U+0398	Θ	alpha	alnum	upper
-U+0399	Ι	alpha	alnum	upper
-U+039a	Κ	alpha	alnum	upper
-U+039b	Λ	alpha	alnum	upper
-U+039c	Μ	alpha	alnum	upper
-U+039d	Ν	alpha	alnum	upper
-U+039e	Ξ	alpha	alnum	upper
-U+039f	Ο	alpha	alnum	upper
-U+03a0	Π	alpha	alnum	upper
-U+03a1	Ρ	alpha	alnum	upper
-U+03a3	Σ	alpha	alnum	upper
-U+03a4	Τ	alpha	alnum	upper
-U+03a5	Υ	alpha	alnum	upper
-U+03a6	Φ	alpha	alnum	upper
-U+03a7	Χ	alpha	alnum	upper
-U+03a8	Ψ	alpha	alnum	upper
-U+03a9	Ω	alpha	alnum	upper
-U+03aa	Ϊ	alpha	alnum	upper
-U+03ab	Ϋ	alpha	alnum	upper
-U+03cf	Ϗ	alpha	alnum	upper
-U+03d2	ϒ	alpha	alnum	upper
-U+03d3	ϓ	alpha	alnum	upper
-U+03d4	ϔ	alpha	alnum	upper
-U+03d8	Ϙ	alpha	alnum	upper
-U+03da	Ϛ	alpha	alnum	upper
-U+03dc	Ϝ	alpha	alnum	upper
-U+03de	Ϟ	alpha	alnum	upper
-U+03e0	Ϡ	alpha	alnum	upper
-U+03e2	Ϣ	alpha	alnum	upper
-U+03e4	Ϥ	alpha	alnum	upper
-U+03e6	Ϧ	alpha	alnum	upper
-U+03e8	Ϩ	alpha	alnum	upper
-U+03ea	Ϫ	alpha	alnum	upper
-U+03ec	Ϭ	alpha	alnum	upper
-U+03ee	Ϯ	alpha	alnum	upper
-U+03f4	ϴ	alpha	alnum	upper
-U+03f7	Ϸ	alpha	alnum	upper
-U+03f9	Ϲ	alpha	alnum	upper
-U+03fa	Ϻ	alpha	alnum	upper
-U+03fd	Ͻ	alpha	alnum	upper
-U+03fe	Ͼ	alpha	alnum	upper
-U+03ff	Ͽ	alpha	alnum	upper
-U+0400	Ѐ	alpha	alnum	upper
-U+0401	Ё	alpha	alnum	upper
-U+0402	Ђ	alpha	alnum	upper
-U+0403	Ѓ	alpha	alnum	upper
-U+0404	Є	alpha	alnum	upper
-U+0405	Ѕ	alpha	alnum	upper
-U+0406	І	alpha	alnum	upper
-U+0407	Ї	alpha	alnum	upper
-U+0408	Ј	alpha	alnum	upper
-U+0409	Љ	alpha	alnum	upper
-U+040a	Њ	alpha	alnum	upper
-U+040b	Ћ	alpha	alnum	upper
-U+040c	Ќ	alpha	alnum	upper
-U+040d	Ѝ	alpha	alnum	upper
-U+040e	Ў	alpha	alnum	upper
-U+040f	Џ	alpha	alnum	upper
-U+0410	А	alpha	alnum	upper
-U+0411	Б	alpha	alnum	upper
-U+0412	В	alpha	alnum	upper
-U+0413	Г	alpha	alnum	upper
-U+0414	Д	alpha	alnum	upper
-U+0415	Е	alpha	alnum	upper
-U+0416	Ж	alpha	alnum	upper
-U+0417	З	alpha	alnum	upper
-U+0418	И	alpha	alnum	upper
-U+0419	Й	alpha	alnum	upper
-U+041a	К	alpha	alnum	upper
-U+041b	Л	alpha	alnum	upper
-U+041c	М	alpha	alnum	upper
-U+041d	Н	alpha	alnum	upper
-U+041e	О	alpha	alnum	upper
-U+041f	П	alpha	alnum	upper
-U+0420	Р	alpha	alnum	upper
-U+0421	С	alpha	alnum	upper
-U+0422	Т	alpha	alnum	upper
-U+0423	У	alpha	alnum	upper
-U+0424	Ф	alpha	alnum	upper
-U+0425	Х	alpha	alnum	upper
-U+0426	Ц	alpha	alnum	upper
-U+0427	Ч	alpha	alnum	upper
-U+0428	Ш	alpha	alnum	upper
-U+0429	Щ	alpha	alnum	upper
-U+042a	Ъ	alpha	alnum	upper
-U+042b	Ы	alpha	alnum	upper
-U+042c	Ь	alpha	alnum	upper
-U+042d	Э	alpha	alnum	upper
-U+042e	Ю	alpha	alnum	upper
-U+042f	Я	alpha	alnum	upper
-U+0460	Ѡ	alpha	alnum	upper
-U+0462	Ѣ	alpha	alnum	upper
-U+0464	Ѥ	alpha	alnum	upper
-U+0466	Ѧ	alpha	alnum	upper
-U+0468	Ѩ	alpha	alnum	upper
-U+046a	Ѫ	alpha	alnum	upper
-U+046c	Ѭ	alpha	alnum	upper
-U+046e	Ѯ	alpha	alnum	upper
-U+0470	Ѱ	alpha	alnum	upper
-U+0472	Ѳ	alpha	alnum	upper
-U+0474	Ѵ	alpha	alnum	upper
-U+0476	Ѷ	alpha	alnum	upper
-U+0478	Ѹ	alpha	alnum	upper
-U+047a	Ѻ	alpha	alnum	upper
-U+047c	Ѽ	alpha	alnum	upper
-U+047e	Ѿ	alpha	alnum	upper
-U+0480	Ҁ	alpha	alnum	upper
-U+048a	Ҋ	alpha	alnum	upper
-U+048c	Ҍ	alpha	alnum	upper
-U+048e	Ҏ	alpha	alnum	upper
-U+0490	Ґ	alpha	alnum	upper
-U+0492	Ғ	alpha	alnum	upper
-U+0494	Ҕ	alpha	alnum	upper
-U+0496	Җ	alpha	alnum	upper
-U+0498	Ҙ	alpha	alnum	upper
-U+049a	Қ	alpha	alnum	upper
-U+049c	Ҝ	alpha	alnum	upper
-U+049e	Ҟ	alpha	alnum	upper
-U+04a0	Ҡ	alpha	alnum	upper
-U+04a2	Ң	alpha	alnum	upper
-U+04a4	Ҥ	alpha	alnum	upper
-U+04a6	Ҧ	alpha	alnum	upper
-U+04a8	Ҩ	alpha	alnum	upper
-U+04aa	Ҫ	alpha	alnum	upper
-U+04ac	Ҭ	alpha	alnum	upper
-U+04ae	Ү	alpha	alnum	upper
-U+04b0	Ұ	alpha	alnum	upper
-U+04b2	Ҳ	alpha	alnum	upper
-U+04b4	Ҵ	alpha	alnum	upper
-U+04b6	Ҷ	alpha	alnum	upper
-U+04b8	Ҹ	alpha	alnum	upper
-U+04ba	Һ	alpha	alnum	upper
-U+04bc	Ҽ	alpha	alnum	upper
-U+04be	Ҿ	alpha	alnum	upper
-U+04c0	Ӏ	alpha	alnum	upper
-U+04c1	Ӂ	alpha	alnum	upper
-U+04c3	Ӄ	alpha	alnum	upper
-U+04c5	Ӆ	alpha	alnum	upper
-U+04c7	Ӈ	alpha	alnum	upper
-U+04c9	Ӊ	alpha	alnum	upper
-U+04cb	Ӌ	alpha	alnum	upper
-U+04cd	Ӎ	alpha	alnum	upper
-U+04d0	Ӑ	alpha	alnum	upper
-U+04d2	Ӓ	alpha	alnum	upper
-U+04d4	Ӕ	alpha	alnum	upper
-U+04d6	Ӗ	alpha	alnum	upper
-U+04d8	Ә	alpha	alnum	upper
-U+04da	Ӛ	alpha	alnum	upper
-U+04dc	Ӝ	alpha	alnum	upper
-U+04de	Ӟ	alpha	alnum	upper
-U+04e0	Ӡ	alpha	alnum	upper
-U+04e2	Ӣ	alpha	alnum	upper
-U+04e4	Ӥ	alpha	alnum	upper
-U+04e6	Ӧ	alpha	alnum	upper
-U+04e8	Ө	alpha	alnum	upper
-U+04ea	Ӫ	alpha	alnum	upper
-U+04ec	Ӭ	alpha	alnum	upper
-U+04ee	Ӯ	alpha	alnum	upper
-U+04f0	Ӱ	alpha	alnum	upper
-U+04f2	Ӳ	alpha	alnum	upper
-U+04f4	Ӵ	alpha	alnum	upper
-U+04f6	Ӷ	alpha	alnum	upper
-U+04f8	Ӹ	alpha	alnum	upper
-U+04fa	Ӻ	alpha	alnum	upper
-U+04fc	Ӽ	alpha	alnum	upper
-U+04fe	Ӿ	alpha	alnum	upper
-U+0500	Ԁ	alpha	alnum	upper
-U+0502	Ԃ	alpha	alnum	upper
-U+0504	Ԅ	alpha	alnum	upper
-U+0506	Ԇ	alpha	alnum	upper
-U+0508	Ԉ	alpha	alnum	upper
-U+050a	Ԋ	alpha	alnum	upper
-U+050c	Ԍ	alpha	alnum	upper
-U+050e	Ԏ	alpha	alnum	upper
-U+0510	Ԑ	alpha	alnum	upper
-U+0512	Ԓ	alpha	alnum	upper
-U+0514	Ԕ	alpha	alnum	upper
-U+0516	Ԗ	alpha	alnum	upper
-U+0518	Ԙ	alpha	alnum	upper
-U+051a	Ԛ	alpha	alnum	upper
-U+051c	Ԝ	alpha	alnum	upper
-U+051e	Ԟ	alpha	alnum	upper
-U+0520	Ԡ	alpha	alnum	upper
-U+0522	Ԣ	alpha	alnum	upper
-U+0524	Ԥ	alpha	alnum	upper
-U+0526	Ԧ	alpha	alnum	upper
-U+0528	Ԩ	alpha	alnum	upper
-U+052a	Ԫ	alpha	alnum	upper
-U+052c	Ԭ	alpha	alnum	upper
-U+052e	Ԯ	alpha	alnum	upper
-U+0531	Ա	alpha	alnum	upper
-U+0532	Բ	alpha	alnum	upper
-U+0533	Գ	alpha	alnum	upper
-U+0534	Դ	alpha	alnum	upper
-U+0535	Ե	alpha	alnum	upper
-U+0536	Զ	alpha	alnum	upper
-U+0537	Է	alpha	alnum	upper
-U+0538	Ը	alpha	alnum	upper
-U+0539	Թ	alpha	alnum	upper
-U+053a	Ժ	alpha	alnum	upper
-U+053b	Ի	alpha	alnum	upper
-U+053c	Լ	alpha	alnum	upper
-U+053d	Խ	alpha	alnum	upper
-U+053e	Ծ	alpha	alnum	upper
-U+053f	Կ	alpha	alnum	upper
-U+0540	Հ	alpha	alnum	upper
-U+0541	Ձ	alpha	alnum	upper
-U+0542	Ղ	alpha	alnum	upper
-U+0543	Ճ	alpha	alnum	upper
-U+0544	Մ	alpha	alnum	upper
-U+0545	Յ	alpha	alnum	upper
-U+0546	Ն	alpha	alnum	upper
-U+0547	Շ	alpha	alnum	upper
-U+0548	Ո	alpha	alnum	upper
-U+0549	Չ	alpha	alnum	upper
-U+054a	Պ	alpha	alnum	upper
-U+054b	Ջ	alpha	alnum	upper
-U+054c	Ռ	alpha	alnum	upper
-U+054d	Ս	alpha	alnum	upper
-U+054e	Վ	alpha	alnum	upper
-U+054f	Տ	alpha	alnum	upper
-U+0550	Ր	alpha	alnum	upper
-U+0551	Ց	alpha	alnum	upper
-U+0552	Ւ	alpha	alnum	upper
-U+0553	Փ	alpha	alnum	upper
-U+0554	Ք	alpha	alnum	upper
-U+0555	Օ	alpha	alnum	upper
-U+0556	Ֆ	alpha	alnum	upper
-U+10a0	Ⴀ	alpha	alnum	upper
-U+10a1	Ⴁ	alpha	alnum	upper
-U+10a2	Ⴂ	alpha	alnum	upper
-U+10a3	Ⴃ	alpha	alnum	upper
-U+10a4	Ⴄ	alpha	alnum	upper
-U+10a5	Ⴅ	alpha	alnum	upper
-U+10a6	Ⴆ	alpha	alnum	upper
-U+10a7	Ⴇ	alpha	alnum	upper
-U+10a8	Ⴈ	alpha	alnum	upper
-U+10a9	Ⴉ	alpha	alnum	upper
-U+10aa	Ⴊ	alpha	alnum	upper
-U+10ab	Ⴋ	alpha	alnum	upper
-U+10ac	Ⴌ	alpha	alnum	upper
-U+10ad	Ⴍ	alpha	alnum	upper
-U+10ae	Ⴎ	alpha	alnum	upper
-U+10af	Ⴏ	alpha	alnum	upper
-U+10b0	Ⴐ	alpha	alnum	upper
-U+10b1	Ⴑ	alpha	alnum	upper
-U+10b2	Ⴒ	alpha	alnum	upper
-U+10b3	Ⴓ	alpha	alnum	upper
-U+10b4	Ⴔ	alpha	alnum	upper
-U+10b5	Ⴕ	alpha	alnum	upper
-U+10b6	Ⴖ	alpha	alnum	upper
-U+10b7	Ⴗ	alpha	alnum	upper
-U+10b8	Ⴘ	alpha	alnum	upper
-U+10b9	Ⴙ	alpha	alnum	upper
-U+10ba	Ⴚ	alpha	alnum	upper
-U+10bb	Ⴛ	alpha	alnum	upper
-U+10bc	Ⴜ	alpha	alnum	upper
-U+10bd	Ⴝ	alpha	alnum	upper
-U+10be	Ⴞ	alpha	alnum	upper
-U+10bf	Ⴟ	alpha	alnum	upper
-U+10c0	Ⴠ	alpha	alnum	upper
-U+10c1	Ⴡ	alpha	alnum	upper
-U+10c2	Ⴢ	alpha	alnum	upper
-U+10c3	Ⴣ	alpha	alnum	upper
-U+10c4	Ⴤ	alpha	alnum	upper
-U+10c5	Ⴥ	alpha	alnum	upper
-U+10c7	Ⴧ	alpha	alnum	upper
-U+10cd	Ⴭ	alpha	alnum	upper
-U+13a0	Ꭰ	alpha	alnum	upper
-U+13a1	Ꭱ	alpha	alnum	upper
-U+13a2	Ꭲ	alpha	alnum	upper
-U+13a3	Ꭳ	alpha	alnum	upper
-U+13a4	Ꭴ	alpha	alnum	upper
-U+13a5	Ꭵ	alpha	alnum	upper
-U+13a6	Ꭶ	alpha	alnum	upper
-U+13a7	Ꭷ	alpha	alnum	upper
-U+13a8	Ꭸ	alpha	alnum	upper
-U+13a9	Ꭹ	alpha	alnum	upper
-U+13aa	Ꭺ	alpha	alnum	upper
-U+13ab	Ꭻ	alpha	alnum	upper
-U+13ac	Ꭼ	alpha	alnum	upper
-U+13ad	Ꭽ	alpha	alnum	upper
-U+13ae	Ꭾ	alpha	alnum	upper
-U+13af	Ꭿ	alpha	alnum	upper
-U+13b0	Ꮀ	alpha	alnum	upper
-U+13b1	Ꮁ	alpha	alnum	upper
-U+13b2	Ꮂ	alpha	alnum	upper
-U+13b3	Ꮃ	alpha	alnum	upper
-U+13b4	Ꮄ	alpha	alnum	upper
-U+13b5	Ꮅ	alpha	alnum	upper
-U+13b6	Ꮆ	alpha	alnum	upper
-U+13b7	Ꮇ	alpha	alnum	upper
-U+13b8	Ꮈ	alpha	alnum	upper
-U+13b9	Ꮉ	alpha	alnum	upper
-U+13ba	Ꮊ	alpha	alnum	upper
-U+13bb	Ꮋ	alpha	alnum	upper
-U+13bc	Ꮌ	alpha	alnum	upper
-U+13bd	Ꮍ	alpha	alnum	upper
-U+13be	Ꮎ	alpha	alnum	upper
-U+13bf	Ꮏ	alpha	alnum	upper
-U+13c0	Ꮐ	alpha	alnum	upper
-U+13c1	Ꮑ	alpha	alnum	upper
-U+13c2	Ꮒ	alpha	alnum	upper
-U+13c3	Ꮓ	alpha	alnum	upper
-U+13c4	Ꮔ	alpha	alnum	upper
-U+13c5	Ꮕ	alpha	alnum	upper
-U+13c6	Ꮖ	alpha	alnum	upper
-U+13c7	Ꮗ	alpha	alnum	upper
-U+13c8	Ꮘ	alpha	alnum	upper
-U+13c9	Ꮙ	alpha	alnum	upper
-U+13ca	Ꮚ	alpha	alnum	upper
-U+13cb	Ꮛ	alpha	alnum	upper
-U+13cc	Ꮜ	alpha	alnum	upper
-U+13cd	Ꮝ	alpha	alnum	upper
-U+13ce	Ꮞ	alpha	alnum	upper
-U+13cf	Ꮟ	alpha	alnum	upper
-U+13d0	Ꮠ	alpha	alnum	upper
-U+13d1	Ꮡ	alpha	alnum	upper
-U+13d2	Ꮢ	alpha	alnum	upper
-U+13d3	Ꮣ	alpha	alnum	upper
-U+13d4	Ꮤ	alpha	alnum	upper
-U+13d5	Ꮥ	alpha	alnum	upper
-U+13d6	Ꮦ	alpha	alnum	upper
-U+13d7	Ꮧ	alpha	alnum	upper
-U+13d8	Ꮨ	alpha	alnum	upper
-U+13d9	Ꮩ	alpha	alnum	upper
-U+13da	Ꮪ	alpha	alnum	upper
-U+13db	Ꮫ	alpha	alnum	upper
-U+13dc	Ꮬ	alpha	alnum	upper
-U+13dd	Ꮭ	alpha	alnum	upper
-U+13de	Ꮮ	alpha	alnum	upper
-U+13df	Ꮯ	alpha	alnum	upper
-U+13e0	Ꮰ	alpha	alnum	upper
-U+13e1	Ꮱ	alpha	alnum	upper
-U+13e2	Ꮲ	alpha	alnum	upper
-U+13e3	Ꮳ	alpha	alnum	upper
-U+13e4	Ꮴ	alpha	alnum	upper
-U+13e5	Ꮵ	alpha	alnum	upper
-U+13e6	Ꮶ	alpha	alnum	upper
-U+13e7	Ꮷ	alpha	alnum	upper
-U+13e8	Ꮸ	alpha	alnum	upper
-U+13e9	Ꮹ	alpha	alnum	upper
-U+13ea	Ꮺ	alpha	alnum	upper
-U+13eb	Ꮻ	alpha	alnum	upper
-U+13ec	Ꮼ	alpha	alnum	upper
-U+13ed	Ꮽ	alpha	alnum	upper
-U+13ee	Ꮾ	alpha	alnum	upper
-U+13ef	Ꮿ	alpha	alnum	upper
-U+13f0	Ᏸ	alpha	alnum	upper
-U+13f1	Ᏹ	alpha	alnum	upper
-U+13f2	Ᏺ	alpha	alnum	upper
-U+13f3	Ᏻ	alpha	alnum	upper
-U+13f4	Ᏼ	alpha	alnum	upper
-U+13f5	Ᏽ	alpha	alnum	upper
-U+1c90	Ა	alpha	alnum	upper
-U+1c91	Ბ	alpha	alnum	upper
-U+1c92	Გ	alpha	alnum	upper
-U+1c93	Დ	alpha	alnum	upper
-U+1c94	Ე	alpha	alnum	upper
-U+1c95	Ვ	alpha	alnum	upper
-U+1c96	Ზ	alpha	alnum	upper
-U+1c97	Თ	alpha	alnum	upper
-U+1c98	Ი	alpha	alnum	upper
-U+1c99	Კ	alpha	alnum	upper
-U+1c9a	Ლ	alpha	alnum	upper
-U+1c9b	Მ	alpha	alnum	upper
-U+1c9c	Ნ	alpha	alnum	upper
-U+1c9d	Ო	alpha	alnum	upper
-U+1c9e	Პ	alpha	alnum	upper
-U+1c9f	Ჟ	alpha	alnum	upper
-U+1ca0	Რ	alpha	alnum	upper
-U+1ca1	Ს	alpha	alnum	upper
-U+1ca2	Ტ	alpha	alnum	upper
-U+1ca3	Უ	alpha	alnum	upper
-U+1ca4	Ფ	alpha	alnum	upper
-U+1ca5	Ქ	alpha	alnum	upper
-U+1ca6	Ღ	alpha	alnum	upper
-U+1ca7	Ყ	alpha	alnum	upper
-U+1ca8	Შ	alpha	alnum	upper
-U+1ca9	Ჩ	alpha	alnum	upper
-U+1caa	Ც	alpha	alnum	upper
-U+1cab	Ძ	alpha	alnum	upper
-U+1cac	Წ	alpha	alnum	upper
-U+1cad	Ჭ	alpha	alnum	upper
-U+1cae	Ხ	alpha	alnum	upper
-U+1caf	Ჯ	alpha	alnum	upper
-U+1cb0	Ჰ	alpha	alnum	upper
-U+1cb1	Ჱ	alpha	alnum	upper
-U+1cb2	Ჲ	alpha	alnum	upper
-U+1cb3	Ჳ	alpha	alnum	upper
-U+1cb4	Ჴ	alpha	alnum	upper
-U+1cb5	Ჵ	alpha	alnum	upper
-U+1cb6	Ჶ	alpha	alnum	upper
-U+1cb7	Ჷ	alpha	alnum	upper
-U+1cb8	Ჸ	alpha	alnum	upper
-U+1cb9	Ჹ	alpha	alnum	upper
-U+1cba	Ჺ	alpha	alnum	upper
-U+1cbd	Ჽ	alpha	alnum	upper
-U+1cbe	Ჾ	alpha	alnum	upper
-U+1cbf	Ჿ	alpha	alnum	upper
-U+1e00	Ḁ	alpha	alnum	upper
-U+1e02	Ḃ	alpha	alnum	upper
-U+1e04	Ḅ	alpha	alnum	upper
-U+1e06	Ḇ	alpha	alnum	upper
-U+1e08	Ḉ	alpha	alnum	upper
-U+1e0a	Ḋ	alpha	alnum	upper
-U+1e0c	Ḍ	alpha	alnum	upper
-U+1e0e	Ḏ	alpha	alnum	upper
-U+1e10	Ḑ	alpha	alnum	upper
-U+1e12	Ḓ	alpha	alnum	upper
-U+1e14	Ḕ	alpha	alnum	upper
-U+1e16	Ḗ	alpha	alnum	upper
-U+1e18	Ḙ	alpha	alnum	upper
-U+1e1a	Ḛ	alpha	alnum	upper
-U+1e1c	Ḝ	alpha	alnum	upper
-U+1e1e	Ḟ	alpha	alnum	upper
-U+1e20	Ḡ	alpha	alnum	upper
-U+1e22	Ḣ	alpha	alnum	upper
-U+1e24	Ḥ	alpha	alnum	upper
-U+1e26	Ḧ	alpha	alnum	upper
-U+1e28	Ḩ	alpha	alnum	upper
-U+1e2a	Ḫ	alpha	alnum	upper
-U+1e2c	Ḭ	alpha	alnum	upper
-U+1e2e	Ḯ	alpha	alnum	upper
-U+1e30	Ḱ	alpha	alnum	upper
-U+1e32	Ḳ	alpha	alnum	upper
-U+1e34	Ḵ	alpha	alnum	upper
-U+1e36	Ḷ	alpha	alnum	upper
-U+1e38	Ḹ	alpha	alnum	upper
-U+1e3a	Ḻ	alpha	alnum	upper
-U+1e3c	Ḽ	alpha	alnum	upper
-U+1e3e	Ḿ	alpha	alnum	upper
-U+1e40	Ṁ	alpha	alnum	upper
-U+1e42	Ṃ	alpha	alnum	upper
-U+1e44	Ṅ	alpha	alnum	upper
-U+1e46	Ṇ	alpha	alnum	upper
-U+1e48	Ṉ	alpha	alnum	upper
-U+1e4a	Ṋ	alpha	alnum	upper
-U+1e4c	Ṍ	alpha	alnum	upper
-U+1e4e	Ṏ	alpha	alnum	upper
-U+1e50	Ṑ	alpha	alnum	upper
-U+1e52	Ṓ	alpha	alnum	upper
-U+1e54	Ṕ	alpha	alnum	upper
-U+1e56	Ṗ	alpha	alnum	upper
-U+1e58	Ṙ	alpha	alnum	upper
-U+1e5a	Ṛ	alpha	alnum	upper
-U+1e5c	Ṝ	alpha	alnum	upper
-U+1e5e	Ṟ	alpha	alnum	upper
-U+1e60	Ṡ	alpha	alnum	upper
-U+1e62	Ṣ	alpha	alnum	upper
-U+1e64	Ṥ	alpha	alnum	upper
-U+1e66	Ṧ	alpha	alnum	upper
-U+1e68	Ṩ	alpha	alnum	upper
-U+1e6a	Ṫ	alpha	alnum	upper
-U+1e6c	Ṭ	alpha	alnum	upper
-U+1e6e	Ṯ	alpha	alnum	upper
-U+1e70	Ṱ	alpha	alnum	upper
-U+1e72	Ṳ	alpha	alnum	upper
-U+1e74	Ṵ	alpha	alnum	upper
-U+1e76	Ṷ	alpha	alnum	upper
-U+1e78	Ṹ	alpha	alnum	upper
-U+1e7a	Ṻ	alpha	alnum	upper
-U+1e7c	Ṽ	alpha	alnum	upper
-U+1e7e	Ṿ	alpha	alnum	upper
-U+1e80	Ẁ	alpha	alnum	upper
-U+1e82	Ẃ	alpha	alnum	upper
-U+1e84	Ẅ	alpha	alnum	upper
-U+1e86	Ẇ	alpha	alnum	upper
-U+1e88	Ẉ	alpha	alnum	upper
-U+1e8a	Ẋ	alpha	alnum	upper
-U+1e8c	Ẍ	alpha	alnum	upper
-U+1e8e	Ẏ	alpha	alnum	upper
-U+1e90	Ẑ	alpha	alnum	upper
-U+1e92	Ẓ	alpha	alnum	upper
-U+1e94	Ẕ	alpha	alnum	upper
-U+1e9e	ẞ	alpha	alnum	upper
-U+1ea0	Ạ	alpha	alnum	upper
-U+1ea2	Ả	alpha	alnum	upper
-U+1ea4	Ấ	alpha	alnum	upper
-U+1ea6	Ầ	alpha	alnum	upper
-U+1ea8	Ẩ	alpha	alnum	upper
-U+1eaa	Ẫ	alpha	alnum	upper
-U+1eac	Ậ	alpha	alnum	upper
-U+1eae	Ắ	alpha	alnum	upper
-U+1eb0	Ằ	alpha	alnum	upper
-U+1eb2	Ẳ	alpha	alnum	upper
-U+1eb4	Ẵ	alpha	alnum	upper
-U+1eb6	Ặ	alpha	alnum	upper
-U+1eb8	Ẹ	alpha	alnum	upper
-U+1eba	Ẻ	alpha	alnum	upper
-U+1ebc	Ẽ	alpha	alnum	upper
-U+1ebe	Ế	alpha	alnum	upper
-U+1ec0	Ề	alpha	alnum	upper
-U+1ec2	Ể	alpha	alnum	upper
-U+1ec4	Ễ	alpha	alnum	upper
-U+1ec6	Ệ	alpha	alnum	upper
-U+1ec8	Ỉ	alpha	alnum	upper
-U+1eca	Ị	alpha	alnum	upper
-U+1ecc	Ọ	alpha	alnum	upper
-U+1ece	Ỏ	alpha	alnum	upper
-U+1ed0	Ố	alpha	alnum	upper
-U+1ed2	Ồ	alpha	alnum	upper
-U+1ed4	Ổ	alpha	alnum	upper
-U+1ed6	Ỗ	alpha	alnum	upper
-U+1ed8	Ộ	alpha	alnum	upper
-U+1eda	Ớ	alpha	alnum	upper
-U+1edc	Ờ	alpha	alnum	upper
-U+1ede	Ở	alpha	alnum	upper
-U+1ee0	Ỡ	alpha	alnum	upper
-U+1ee2	Ợ	alpha	alnum	upper
-U+1ee4	Ụ	alpha	alnum	upper
-U+1ee6	Ủ	alpha	alnum	upper
-U+1ee8	Ứ	alpha	alnum	upper
-U+1eea	Ừ	alpha	alnum	upper
-U+1eec	Ử	alpha	alnum	upper
-U+1eee	Ữ	alpha	alnum	upper
-U+1ef0	Ự	alpha	alnum	upper
-U+1ef2	Ỳ	alpha	alnum	upper
-U+1ef4	Ỵ	alpha	alnum	upper
-U+1ef6	Ỷ	alpha	alnum	upper
-U+1ef8	Ỹ	alpha	alnum	upper
-U+1efa	Ỻ	alpha	alnum	upper
-U+1efc	Ỽ	alpha	alnum	upper
-U+1efe	Ỿ	alpha	alnum	upper
-U+1f08	Ἀ	alpha	alnum	upper
-U+1f09	Ἁ	alpha	alnum	upper
-U+1f0a	Ἂ	alpha	alnum	upper
-U+1f0b	Ἃ	alpha	alnum	upper
-U+1f0c	Ἄ	alpha	alnum	upper
-U+1f0d	Ἅ	alpha	alnum	upper
-U+1f0e	Ἆ	alpha	alnum	upper
-U+1f0f	Ἇ	alpha	alnum	upper
-U+1f18	Ἐ	alpha	alnum	upper
-U+1f19	Ἑ	alpha	alnum	upper
-U+1f1a	Ἒ	alpha	alnum	upper
-U+1f1b	Ἓ	alpha	alnum	upper
-U+1f1c	Ἔ	alpha	alnum	upper
-U+1f1d	Ἕ	alpha	alnum	upper
-U+1f28	Ἠ	alpha	alnum	upper
-U+1f29	Ἡ	alpha	alnum	upper
-U+1f2a	Ἢ	alpha	alnum	upper
-U+1f2b	Ἣ	alpha	alnum	upper
-U+1f2c	Ἤ	alpha	alnum	upper
-U+1f2d	Ἥ	alpha	alnum	upper
-U+1f2e	Ἦ	alpha	alnum	upper
-U+1f2f	Ἧ	alpha	alnum	upper
-U+1f38	Ἰ	alpha	alnum	upper
-U+1f39	Ἱ	alpha	alnum	upper
-U+1f3a	Ἲ	alpha	alnum	upper
-U+1f3b	Ἳ	alpha	alnum	upper
-U+1f3c	Ἴ	alpha	alnum	upper
-U+1f3d	Ἵ	alpha	alnum	upper
-U+1f3e	Ἶ	alpha	alnum	upper
-U+1f3f	Ἷ	alpha	alnum	upper
-U+1f48	Ὀ	alpha	alnum	upper
-U+1f49	Ὁ	alpha	alnum	upper
-U+1f4a	Ὂ	alpha	alnum	upper
-U+1f4b	Ὃ	alpha	alnum	upper
-U+1f4c	Ὄ	alpha	alnum	upper
-U+1f4d	Ὅ	alpha	alnum	upper
-U+1f59	Ὑ	alpha	alnum	upper
-U+1f5b	Ὓ	alpha	alnum	upper
-U+1f5d	Ὕ	alpha	alnum	upper
-U+1f5f	Ὗ	alpha	alnum	upper
-U+1f68	Ὠ	alpha	alnum	upper
-U+1f69	Ὡ	alpha	alnum	upper
-U+1f6a	Ὢ	alpha	alnum	upper
-U+1f6b	Ὣ	alpha	alnum	upper
-U+1f6c	Ὤ	alpha	alnum	upper
-U+1f6d	Ὥ	alpha	alnum	upper
-U+1f6e	Ὦ	alpha	alnum	upper
-U+1f6f	Ὧ	alpha	alnum	upper
-U+1f88	ᾈ	alpha	alnum	upper
-U+1f89	ᾉ	alpha	alnum	upper
-U+1f8a	ᾊ	alpha	alnum	upper
-U+1f8b	ᾋ	alpha	alnum	upper
-U+1f8c	ᾌ	alpha	alnum	upper
-U+1f8d	ᾍ	alpha	alnum	upper
-U+1f8e	ᾎ	alpha	alnum	upper
-U+1f8f	ᾏ	alpha	alnum	upper
-U+1f98	ᾘ	alpha	alnum	upper
-U+1f99	ᾙ	alpha	alnum	upper
-U+1f9a	ᾚ	alpha	alnum	upper
-U+1f9b	ᾛ	alpha	alnum	upper
-U+1f9c	ᾜ	alpha	alnum	upper
-U+1f9d	ᾝ	alpha	alnum	upper
-U+1f9e	ᾞ	alpha	alnum	upper
-U+1f9f	ᾟ	alpha	alnum	upper
-U+1fa8	ᾨ	alpha	alnum	upper
-U+1fa9	ᾩ	alpha	alnum	upper
-U+1faa	ᾪ	alpha	alnum	upper
-U+1fab	ᾫ	alpha	alnum	upper
-U+1fac	ᾬ	alpha	alnum	upper
-U+1fad	ᾭ	alpha	alnum	upper
-U+1fae	ᾮ	alpha	alnum	upper
-U+1faf	ᾯ	alpha	alnum	upper
-U+1fb8	Ᾰ	alpha	alnum	upper
-U+1fb9	Ᾱ	alpha	alnum	upper
-U+1fba	Ὰ	alpha	alnum	upper
-U+1fbb	Ά	alpha	alnum	upper
-U+1fbc	ᾼ	alpha	alnum	upper
-U+1fc8	Ὲ	alpha	alnum	upper
-U+1fc9	Έ	alpha	alnum	upper
-U+1fca	Ὴ	alpha	alnum	upper
-U+1fcb	Ή	alpha	alnum	upper
-U+1fcc	ῌ	alpha	alnum	upper
-U+1fd8	Ῐ	alpha	alnum	upper
-U+1fd9	Ῑ	alpha	alnum	upper
-U+1fda	Ὶ	alpha	alnum	upper
-U+1fdb	Ί	alpha	alnum	upper
-U+1fe8	Ῠ	alpha	alnum	upper
-U+1fe9	Ῡ	alpha	alnum	upper
-U+1fea	Ὺ	alpha	alnum	upper
-U+1feb	Ύ	alpha	alnum	upper
-U+1fec	Ῥ	alpha	alnum	upper
-U+1ff8	Ὸ	alpha	alnum	upper
-U+1ff9	Ό	alpha	alnum	upper
-U+1ffa	Ὼ	alpha	alnum	upper
-U+1ffb	Ώ	alpha	alnum	upper
-U+1ffc	ῼ	alpha	alnum	upper
-U+2102	ℂ	alpha	alnum	upper
-U+2107	ℇ	alpha	alnum	upper
-U+210b	ℋ	alpha	alnum	upper
-U+210c	ℌ	alpha	alnum	upper
-U+210d	ℍ	alpha	alnum	upper
-U+2110	ℐ	alpha	alnum	upper
-U+2111	ℑ	alpha	alnum	upper
-U+2112	ℒ	alpha	alnum	upper
-U+2115	ℕ	alpha	alnum	upper
-U+2119	ℙ	alpha	alnum	upper
-U+211a	ℚ	alpha	alnum	upper
-U+211b	ℛ	alpha	alnum	upper
-U+211c	ℜ	alpha	alnum	upper
-U+211d	ℝ	alpha	alnum	upper
-U+2124	ℤ	alpha	alnum	upper
-U+2126	Ω	alpha	alnum	upper
-U+2128	ℨ	alpha	alnum	upper
-U+212a	K	alpha	alnum	upper
-U+212b	Å	alpha	alnum	upper
-U+212c	ℬ	alpha	alnum	upper
-U+212d	ℭ	alpha	alnum	upper
-U+2130	ℰ	alpha	alnum	upper
-U+2131	ℱ	alpha	alnum	upper
-U+2132	Ⅎ	alpha	alnum	upper
-U+2133	ℳ	alpha	alnum	upper
-U+213e	ℾ	alpha	alnum	upper
-U+213f	ℿ	alpha	alnum	upper
-U+2145	ⅅ	alpha	alnum	upper
-U+2160	Ⅰ	alpha	alnum	upper
-U+2161	Ⅱ	alpha	alnum	upper
-U+2162	Ⅲ	alpha	alnum	upper
-U+2163	Ⅳ	alpha	alnum	upper
-U+2164	Ⅴ	alpha	alnum	upper
-U+2165	Ⅵ	alpha	alnum	upper
-U+2166	Ⅶ	alpha	alnum	upper
-U+2167	Ⅷ	alpha	alnum	upper
-U+2168	Ⅸ	alpha	alnum	upper
-U+2169	Ⅹ	alpha	alnum	upper
-U+216a	Ⅺ	alpha	alnum	upper
-U+216b	Ⅻ	alpha	alnum	upper
-U+216c	Ⅼ	alpha	alnum	upper
-U+216d	Ⅽ	alpha	alnum	upper
-U+216e	Ⅾ	alpha	alnum	upper
-U+216f	Ⅿ	alpha	alnum	upper
-U+2183	Ↄ	alpha	alnum	upper
-U+24b6	Ⓐ	alpha	alnum	upper
-U+24b7	Ⓑ	alpha	alnum	upper
-U+24b8	Ⓒ	alpha	alnum	upper
-U+24b9	Ⓓ	alpha	alnum	upper
-U+24ba	Ⓔ	alpha	alnum	upper
-U+24bb	Ⓕ	alpha	alnum	upper
-U+24bc	Ⓖ	alpha	alnum	upper
-U+24bd	Ⓗ	alpha	alnum	upper
-U+24be	Ⓘ	alpha	alnum	upper
-U+24bf	Ⓙ	alpha	alnum	upper
-U+24c0	Ⓚ	alpha	alnum	upper
-U+24c1	Ⓛ	alpha	alnum	upper
-U+24c2	Ⓜ	alpha	alnum	upper
-U+24c3	Ⓝ	alpha	alnum	upper
-U+24c4	Ⓞ	alpha	alnum	upper
-U+24c5	Ⓟ	alpha	alnum	upper
-U+24c6	Ⓠ	alpha	alnum	upper
-U+24c7	Ⓡ	alpha	alnum	upper
-U+24c8	Ⓢ	alpha	alnum	upper
-U+24c9	Ⓣ	alpha	alnum	upper
-U+24ca	Ⓤ	alpha	alnum	upper
-U+24cb	Ⓥ	alpha	alnum	upper
-U+24cc	Ⓦ	alpha	alnum	upper
-U+24cd	Ⓧ	alpha	alnum	upper
-U+24ce	Ⓨ	alpha	alnum	upper
-U+24cf	Ⓩ	alpha	alnum	upper
-U+2c00	Ⰰ	alpha	alnum	upper
-U+2c01	Ⰱ	alpha	alnum	upper
-U+2c02	Ⰲ	alpha	alnum	upper
-U+2c03	Ⰳ	alpha	alnum	upper
-U+2c04	Ⰴ	alpha	alnum	upper
-U+2c05	Ⰵ	alpha	alnum	upper
-U+2c06	Ⰶ	alpha	alnum	upper
-U+2c07	Ⰷ	alpha	alnum	upper
-U+2c08	Ⰸ	alpha	alnum	upper
-U+2c09	Ⰹ	alpha	alnum	upper
-U+2c0a	Ⰺ	alpha	alnum	upper
-U+2c0b	Ⰻ	alpha	alnum	upper
-U+2c0c	Ⰼ	alpha	alnum	upper
-U+2c0d	Ⰽ	alpha	alnum	upper
-U+2c0e	Ⰾ	alpha	alnum	upper
-U+2c0f	Ⰿ	alpha	alnum	upper
-U+2c10	Ⱀ	alpha	alnum	upper
-U+2c11	Ⱁ	alpha	alnum	upper
-U+2c12	Ⱂ	alpha	alnum	upper
-U+2c13	Ⱃ	alpha	alnum	upper
-U+2c14	Ⱄ	alpha	alnum	upper
-U+2c15	Ⱅ	alpha	alnum	upper
-U+2c16	Ⱆ	alpha	alnum	upper
-U+2c17	Ⱇ	alpha	alnum	upper
-U+2c18	Ⱈ	alpha	alnum	upper
-U+2c19	Ⱉ	alpha	alnum	upper
-U+2c1a	Ⱊ	alpha	alnum	upper
-U+2c1b	Ⱋ	alpha	alnum	upper
-U+2c1c	Ⱌ	alpha	alnum	upper
-U+2c1d	Ⱍ	alpha	alnum	upper
-U+2c1e	Ⱎ	alpha	alnum	upper
-U+2c1f	Ⱏ	alpha	alnum	upper
-U+2c20	Ⱐ	alpha	alnum	upper
-U+2c21	Ⱑ	alpha	alnum	upper
-U+2c22	Ⱒ	alpha	alnum	upper
-U+2c23	Ⱓ	alpha	alnum	upper
-U+2c24	Ⱔ	alpha	alnum	upper
-U+2c25	Ⱕ	alpha	alnum	upper
-U+2c26	Ⱖ	alpha	alnum	upper
-U+2c27	Ⱗ	alpha	alnum	upper
-U+2c28	Ⱘ	alpha	alnum	upper
-U+2c29	Ⱙ	alpha	alnum	upper
-U+2c2a	Ⱚ	alpha	alnum	upper
-U+2c2b	Ⱛ	alpha	alnum	upper
-U+2c2c	Ⱜ	alpha	alnum	upper
-U+2c2d	Ⱝ	alpha	alnum	upper
-U+2c2e	Ⱞ	alpha	alnum	upper
-U+2c60	Ⱡ	alpha	alnum	upper
-U+2c62	Ɫ	alpha	alnum	upper
-U+2c63	Ᵽ	alpha	alnum	upper
-U+2c64	Ɽ	alpha	alnum	upper
-U+2c67	Ⱨ	alpha	alnum	upper
-U+2c69	Ⱪ	alpha	alnum	upper
-U+2c6b	Ⱬ	alpha	alnum	upper
-U+2c6d	Ɑ	alpha	alnum	upper
-U+2c6e	Ɱ	alpha	alnum	upper
-U+2c6f	Ɐ	alpha	alnum	upper
-U+2c70	Ɒ	alpha	alnum	upper
-U+2c72	Ⱳ	alpha	alnum	upper
-U+2c75	Ⱶ	alpha	alnum	upper
-U+2c7e	Ȿ	alpha	alnum	upper
-U+2c7f	Ɀ	alpha	alnum	upper
-U+2c80	Ⲁ	alpha	alnum	upper
-U+2c82	Ⲃ	alpha	alnum	upper
-U+2c84	Ⲅ	alpha	alnum	upper
-U+2c86	Ⲇ	alpha	alnum	upper
-U+2c88	Ⲉ	alpha	alnum	upper
-U+2c8a	Ⲋ	alpha	alnum	upper
-U+2c8c	Ⲍ	alpha	alnum	upper
-U+2c8e	Ⲏ	alpha	alnum	upper
-U+2c90	Ⲑ	alpha	alnum	upper
-U+2c92	Ⲓ	alpha	alnum	upper
-U+2c94	Ⲕ	alpha	alnum	upper
-U+2c96	Ⲗ	alpha	alnum	upper
-U+2c98	Ⲙ	alpha	alnum	upper
-U+2c9a	Ⲛ	alpha	alnum	upper
-U+2c9c	Ⲝ	alpha	alnum	upper
-U+2c9e	Ⲟ	alpha	alnum	upper
-U+2ca0	Ⲡ	alpha	alnum	upper
-U+2ca2	Ⲣ	alpha	alnum	upper
-U+2ca4	Ⲥ	alpha	alnum	upper
-U+2ca6	Ⲧ	alpha	alnum	upper
-U+2ca8	Ⲩ	alpha	alnum	upper
-U+2caa	Ⲫ	alpha	alnum	upper
-U+2cac	Ⲭ	alpha	alnum	upper
-U+2cae	Ⲯ	alpha	alnum	upper
-U+2cb0	Ⲱ	alpha	alnum	upper
-U+2cb2	Ⲳ	alpha	alnum	upper
-U+2cb4	Ⲵ	alpha	alnum	upper
-U+2cb6	Ⲷ	alpha	alnum	upper
-U+2cb8	Ⲹ	alpha	alnum	upper
-U+2cba	Ⲻ	alpha	alnum	upper
-U+2cbc	Ⲽ	alpha	alnum	upper
-U+2cbe	Ⲿ	alpha	alnum	upper
-U+2cc0	Ⳁ	alpha	alnum	upper
-U+2cc2	Ⳃ	alpha	alnum	upper
-U+2cc4	Ⳅ	alpha	alnum	upper
-U+2cc6	Ⳇ	alpha	alnum	upper
-U+2cc8	Ⳉ	alpha	alnum	upper
-U+2cca	Ⳋ	alpha	alnum	upper
-U+2ccc	Ⳍ	alpha	alnum	upper
-U+2cce	Ⳏ	alpha	alnum	upper
-U+2cd0	Ⳑ	alpha	alnum	upper
-U+2cd2	Ⳓ	alpha	alnum	upper
-U+2cd4	Ⳕ	alpha	alnum	upper
-U+2cd6	Ⳗ	alpha	alnum	upper
-U+2cd8	Ⳙ	alpha	alnum	upper
-U+2cda	Ⳛ	alpha	alnum	upper
-U+2cdc	Ⳝ	alpha	alnum	upper
-U+2cde	Ⳟ	alpha	alnum	upper
-U+2ce0	Ⳡ	alpha	alnum	upper
-U+2ce2	Ⳣ	alpha	alnum	upper
-U+2ceb	Ⳬ	alpha	alnum	upper
-U+2ced	Ⳮ	alpha	alnum	upper
-U+2cf2	Ⳳ	alpha	alnum	upper
-U+a640	Ꙁ	alpha	alnum	upper
-U+a642	Ꙃ	alpha	alnum	upper
-U+a644	Ꙅ	alpha	alnum	upper
-U+a646	Ꙇ	alpha	alnum	upper
-U+a648	Ꙉ	alpha	alnum	upper
-U+a64a	Ꙋ	alpha	alnum	upper
-U+a64c	Ꙍ	alpha	alnum	upper
-U+a64e	Ꙏ	alpha	alnum	upper
-U+a650	Ꙑ	alpha	alnum	upper
-U+a652	Ꙓ	alpha	alnum	upper
-U+a654	Ꙕ	alpha	alnum	upper
-U+a656	Ꙗ	alpha	alnum	upper
-U+a658	Ꙙ	alpha	alnum	upper
-U+a65a	Ꙛ	alpha	alnum	upper
-U+a65c	Ꙝ	alpha	alnum	upper
-U+a65e	Ꙟ	alpha	alnum	upper
-U+a660	Ꙡ	alpha	alnum	upper
-U+a662	Ꙣ	alpha	alnum	upper
-U+a664	Ꙥ	alpha	alnum	upper
-U+a666	Ꙧ	alpha	alnum	upper
-U+a668	Ꙩ	alpha	alnum	upper
-U+a66a	Ꙫ	alpha	alnum	upper
-U+a66c	Ꙭ	alpha	alnum	upper
-U+a680	Ꚁ	alpha	alnum	upper
-U+a682	Ꚃ	alpha	alnum	upper
-U+a684	Ꚅ	alpha	alnum	upper
-U+a686	Ꚇ	alpha	alnum	upper
-U+a688	Ꚉ	alpha	alnum	upper
-U+a68a	Ꚋ	alpha	alnum	upper
-U+a68c	Ꚍ	alpha	alnum	upper
-U+a68e	Ꚏ	alpha	alnum	upper
-U+a690	Ꚑ	alpha	alnum	upper
-U+a692	Ꚓ	alpha	alnum	upper
-U+a694	Ꚕ	alpha	alnum	upper
-U+a696	Ꚗ	alpha	alnum	upper
-U+a698	Ꚙ	alpha	alnum	upper
-U+a69a	Ꚛ	alpha	alnum	upper
-U+a722	Ꜣ	alpha	alnum	upper
-U+a724	Ꜥ	alpha	alnum	upper
-U+a726	Ꜧ	alpha	alnum	upper
-U+a728	Ꜩ	alpha	alnum	upper
-U+a72a	Ꜫ	alpha	alnum	upper
-U+a72c	Ꜭ	alpha	alnum	upper
-U+a72e	Ꜯ	alpha	alnum	upper
-U+a732	Ꜳ	alpha	alnum	upper
-U+a734	Ꜵ	alpha	alnum	upper
-U+a736	Ꜷ	alpha	alnum	upper
-U+a738	Ꜹ	alpha	alnum	upper
-U+a73a	Ꜻ	alpha	alnum	upper
-U+a73c	Ꜽ	alpha	alnum	upper
-U+a73e	Ꜿ	alpha	alnum	upper
-U+a740	Ꝁ	alpha	alnum	upper
-U+a742	Ꝃ	alpha	alnum	upper
-U+a744	Ꝅ	alpha	alnum	upper
-U+a746	Ꝇ	alpha	alnum	upper
-U+a748	Ꝉ	alpha	alnum	upper
-U+a74a	Ꝋ	alpha	alnum	upper
-U+a74c	Ꝍ	alpha	alnum	upper
-U+a74e	Ꝏ	alpha	alnum	upper
-U+a750	Ꝑ	alpha	alnum	upper
-U+a752	Ꝓ	alpha	alnum	upper
-U+a754	Ꝕ	alpha	alnum	upper
-U+a756	Ꝗ	alpha	alnum	upper
-U+a758	Ꝙ	alpha	alnum	upper
-U+a75a	Ꝛ	alpha	alnum	upper
-U+a75c	Ꝝ	alpha	alnum	upper
-U+a75e	Ꝟ	alpha	alnum	upper
-U+a760	Ꝡ	alpha	alnum	upper
-U+a762	Ꝣ	alpha	alnum	upper
-U+a764	Ꝥ	alpha	alnum	upper
-U+a766	Ꝧ	alpha	alnum	upper
-U+a768	Ꝩ	alpha	alnum	upper
-U+a76a	Ꝫ	alpha	alnum	upper
-U+a76c	Ꝭ	alpha	alnum	upper
-U+a76e	Ꝯ	alpha	alnum	upper
-U+a779	Ꝺ	alpha	alnum	upper
-U+a77b	Ꝼ	alpha	alnum	upper
-U+a77d	Ᵹ	alpha	alnum	upper
-U+a77e	Ꝿ	alpha	alnum	upper
-U+a780	Ꞁ	alpha	alnum	upper
-U+a782	Ꞃ	alpha	alnum	upper
-U+a784	Ꞅ	alpha	alnum	upper
-U+a786	Ꞇ	alpha	alnum	upper
-U+a78b	Ꞌ	alpha	alnum	upper
-U+a78d	Ɥ	alpha	alnum	upper
-U+a790	Ꞑ	alpha	alnum	upper
-U+a792	Ꞓ	alpha	alnum	upper
-U+a796	Ꞗ	alpha	alnum	upper
-U+a798	Ꞙ	alpha	alnum	upper
-U+a79a	Ꞛ	alpha	alnum	upper
-U+a79c	Ꞝ	alpha	alnum	upper
-U+a79e	Ꞟ	alpha	alnum	upper
-U+a7a0	Ꞡ	alpha	alnum	upper
-U+a7a2	Ꞣ	alpha	alnum	upper
-U+a7a4	Ꞥ	alpha	alnum	upper
-U+a7a6	Ꞧ	alpha	alnum	upper
-U+a7a8	Ꞩ	alpha	alnum	upper
-U+a7aa	Ɦ	alpha	alnum	upper
-U+a7ab	Ɜ	alpha	alnum	upper
-U+a7ac	Ɡ	alpha	alnum	upper
-U+a7ad	Ɬ	alpha	alnum	upper
-U+a7ae	Ɪ	alpha	alnum	upper
-U+a7b0	Ʞ	alpha	alnum	upper
-U+a7b1	Ʇ	alpha	alnum	upper
-U+a7b2	Ʝ	alpha	alnum	upper
-U+a7b3	Ꭓ	alpha	alnum	upper
-U+a7b4	Ꞵ	alpha	alnum	upper
-U+a7b6	Ꞷ	alpha	alnum	upper
-U+a7b8	Ꞹ	alpha	alnum	upper
-U+a7ba	Ꞻ	alpha	alnum	upper
-U+a7bc	Ꞽ	alpha	alnum	upper
-U+a7be	Ꞿ	alpha	alnum	upper
-U+a7c2	Ꟃ	alpha	alnum	upper
-U+a7c4	Ꞔ	alpha	alnum	upper
-U+a7c5	Ʂ	alpha	alnum	upper
-U+a7c6	Ᶎ	alpha	alnum	upper
-U+ff21	Ａ	alpha	alnum	upper
-U+ff22	Ｂ	alpha	alnum	upper
-U+ff23	Ｃ	alpha	alnum	upper
-U+ff24	Ｄ	alpha	alnum	upper
-U+ff25	Ｅ	alpha	alnum	upper
-U+ff26	Ｆ	alpha	alnum	upper
-U+ff27	Ｇ	alpha	alnum	upper
-U+ff28	Ｈ	alpha	alnum	upper
-U+ff29	Ｉ	alpha	alnum	upper
-U+ff2a	Ｊ	alpha	alnum	upper
-U+ff2b	Ｋ	alpha	alnum	upper
-U+ff2c	Ｌ	alpha	alnum	upper
-U+ff2d	Ｍ	alpha	alnum	upper
-U+ff2e	Ｎ	alpha	alnum	upper
-U+ff2f	Ｏ	alpha	alnum	upper
-U+ff30	Ｐ	alpha	alnum	upper
-U+ff31	Ｑ	alpha	alnum	upper
-U+ff32	Ｒ	alpha	alnum	upper
-U+ff33	Ｓ	alpha	alnum	upper
-U+ff34	Ｔ	alpha	alnum	upper
-U+ff35	Ｕ	alpha	alnum	upper
-U+ff36	Ｖ	alpha	alnum	upper
-U+ff37	Ｗ	alpha	alnum	upper
-U+ff38	Ｘ	alpha	alnum	upper
-U+ff39	Ｙ	alpha	alnum	upper
-U+ff3a	Ｚ	alpha	alnum	upper
-U+10400	𐐀	alpha	alnum	upper
-U+10401	𐐁	alpha	alnum	upper
-U+10402	𐐂	alpha	alnum	upper
-U+10403	𐐃	alpha	alnum	upper
-U+10404	𐐄	alpha	alnum	upper
-U+10405	𐐅	alpha	alnum	upper
-U+10406	𐐆	alpha	alnum	upper
-U+10407	𐐇	alpha	alnum	upper
-U+10408	𐐈	alpha	alnum	upper
-U+10409	𐐉	alpha	alnum	upper
-U+1040a	𐐊	alpha	alnum	upper
-U+1040b	𐐋	alpha	alnum	upper
-U+1040c	𐐌	alpha	alnum	upper
-U+1040d	𐐍	alpha	alnum	upper
-U+1040e	𐐎	alpha	alnum	upper
-U+1040f	𐐏	alpha	alnum	upper
-U+10410	𐐐	alpha	alnum	upper
-U+10411	𐐑	alpha	alnum	upper
-U+10412	𐐒	alpha	alnum	upper
-U+10413	𐐓	alpha	alnum	upper
-U+10414	𐐔	alpha	alnum	upper
-U+10415	𐐕	alpha	alnum	upper
-U+10416	𐐖	alpha	alnum	upper
-U+10417	𐐗	alpha	alnum	upper
-U+10418	𐐘	alpha	alnum	upper
-U+10419	𐐙	alpha	alnum	upper
-U+1041a	𐐚	alpha	alnum	upper
-U+1041b	𐐛	alpha	alnum	upper
-U+1041c	𐐜	alpha	alnum	upper
-U+1041d	𐐝	alpha	alnum	upper
-U+1041e	𐐞	alpha	alnum	upper
-U+1041f	𐐟	alpha	alnum	upper
-U+10420	𐐠	alpha	alnum	upper
-U+10421	𐐡	alpha	alnum	upper
-U+10422	𐐢	alpha	alnum	upper
-U+10423	𐐣	alpha	alnum	upper
-U+10424	𐐤	alpha	alnum	upper
-U+10425	𐐥	alpha	alnum	upper
-U+10426	𐐦	alpha	alnum	upper
-U+10427	𐐧	alpha	alnum	upper
-U+104b0	𐒰	alpha	alnum	upper
-U+104b1	𐒱	alpha	alnum	upper
-U+104b2	𐒲	alpha	alnum	upper
-U+104b3	𐒳	alpha	alnum	upper
-U+104b4	𐒴	alpha	alnum	upper
-U+104b5	𐒵	alpha	alnum	upper
-U+104b6	𐒶	alpha	alnum	upper
-U+104b7	𐒷	alpha	alnum	upper
-U+104b8	𐒸	alpha	alnum	upper
-U+104b9	𐒹	alpha	alnum	upper
-U+104ba	𐒺	alpha	alnum	upper
-U+104bb	𐒻	alpha	alnum	upper
-U+104bc	𐒼	alpha	alnum	upper
-U+104bd	𐒽	alpha	alnum	upper
-U+104be	𐒾	alpha	alnum	upper
-U+104bf	𐒿	alpha	alnum	upper
-U+104c0	𐓀	alpha	alnum	upper
-U+104c1	𐓁	alpha	alnum	upper
-U+104c2	𐓂	alpha	alnum	upper
-U+104c3	𐓃	alpha	alnum	upper
-U+104c4	𐓄	alpha	alnum	upper
-U+104c5	𐓅	alpha	alnum	upper
-U+104c6	𐓆	alpha	alnum	upper
-U+104c7	𐓇	alpha	alnum	upper
-U+104c8	𐓈	alpha	alnum	upper
-U+104c9	𐓉	alpha	alnum	upper
-U+104ca	𐓊	alpha	alnum	upper
-U+104cb	𐓋	alpha	alnum	upper
-U+104cc	𐓌	alpha	alnum	upper
-U+104cd	𐓍	alpha	alnum	upper
-U+104ce	𐓎	alpha	alnum	upper
-U+104cf	𐓏	alpha	alnum	upper
-U+104d0	𐓐	alpha	alnum	upper
-U+104d1	𐓑	alpha	alnum	upper
-U+104d2	𐓒	alpha	alnum	upper
-U+104d3	𐓓	alpha	alnum	upper
-U+10c80	𐲀	alpha	alnum	upper
-U+10c81	𐲁	alpha	alnum	upper
-U+10c82	𐲂	alpha	alnum	upper
-U+10c83	𐲃	alpha	alnum	upper
-U+10c84	𐲄	alpha	alnum	upper
-U+10c85	𐲅	alpha	alnum	upper
-U+10c86	𐲆	alpha	alnum	upper
-U+10c87	𐲇	alpha	alnum	upper
-U+10c88	𐲈	alpha	alnum	upper
-U+10c89	𐲉	alpha	alnum	upper
-U+10c8a	𐲊	alpha	alnum	upper
-U+10c8b	𐲋	alpha	alnum	upper
-U+10c8c	𐲌	alpha	alnum	upper
-U+10c8d	𐲍	alpha	alnum	upper
-U+10c8e	𐲎	alpha	alnum	upper
-U+10c8f	𐲏	alpha	alnum	upper
-U+10c90	𐲐	alpha	alnum	upper
-U+10c91	𐲑	alpha	alnum	upper
-U+10c92	𐲒	alpha	alnum	upper
-U+10c93	𐲓	alpha	alnum	upper
-U+10c94	𐲔	alpha	alnum	upper
-U+10c95	𐲕	alpha	alnum	upper
-U+10c96	𐲖	alpha	alnum	upper
-U+10c97	𐲗	alpha	alnum	upper
-U+10c98	𐲘	alpha	alnum	upper
-U+10c99	𐲙	alpha	alnum	upper
-U+10c9a	𐲚	alpha	alnum	upper
-U+10c9b	𐲛	alpha	alnum	upper
-U+10c9c	𐲜	alpha	alnum	upper
-U+10c9d	𐲝	alpha	alnum	upper
-U+10c9e	𐲞	alpha	alnum	upper
-U+10c9f	𐲟	alpha	alnum	upper
-U+10ca0	𐲠	alpha	alnum	upper
-U+10ca1	𐲡	alpha	alnum	upper
-U+10ca2	𐲢	alpha	alnum	upper
-U+10ca3	𐲣	alpha	alnum	upper
-U+10ca4	𐲤	alpha	alnum	upper
-U+10ca5	𐲥	alpha	alnum	upper
-U+10ca6	𐲦	alpha	alnum	upper
-U+10ca7	𐲧	alpha	alnum	upper
-U+10ca8	𐲨	alpha	alnum	upper
-U+10ca9	𐲩	alpha	alnum	upper
-U+10caa	𐲪	alpha	alnum	upper
-U+10cab	𐲫	alpha	alnum	upper
-U+10cac	𐲬	alpha	alnum	upper
-U+10cad	𐲭	alpha	alnum	upper
-U+10cae	𐲮	alpha	alnum	upper
-U+10caf	𐲯	alpha	alnum	upper
-U+10cb0	𐲰	alpha	alnum	upper
-U+10cb1	𐲱	alpha	alnum	upper
-U+10cb2	𐲲	alpha	alnum	upper
-U+118a0	𑢠	alpha	alnum	upper
-U+118a1	𑢡	alpha	alnum	upper
-U+118a2	𑢢	alpha	alnum	upper
-U+118a3	𑢣	alpha	alnum	upper
-U+118a4	𑢤	alpha	alnum	upper
-U+118a5	𑢥	alpha	alnum	upper
-U+118a6	𑢦	alpha	alnum	upper
-U+118a7	𑢧	alpha	alnum	upper
-U+118a8	𑢨	alpha	alnum	upper
-U+118a9	𑢩	alpha	alnum	upper
-U+118aa	𑢪	alpha	alnum	upper
-U+118ab	𑢫	alpha	alnum	upper
-U+118ac	𑢬	alpha	alnum	upper
-U+118ad	𑢭	alpha	alnum	upper
-U+118ae	𑢮	alpha	alnum	upper
-U+118af	𑢯	alpha	alnum	upper
-U+118b0	𑢰	alpha	alnum	upper
-U+118b1	𑢱	alpha	alnum	upper
-U+118b2	𑢲	alpha	alnum	upper
-U+118b3	𑢳	alpha	alnum	upper
-U+118b4	𑢴	alpha	alnum	upper
-U+118b5	𑢵	alpha	alnum	upper
-U+118b6	𑢶	alpha	alnum	upper
-U+118b7	𑢷	alpha	alnum	upper
-U+118b8	𑢸	alpha	alnum	upper
-U+118b9	𑢹	alpha	alnum	upper
-U+118ba	𑢺	alpha	alnum	upper
-U+118bb	𑢻	alpha	alnum	upper
-U+118bc	𑢼	alpha	alnum	upper
-U+118bd	𑢽	alpha	alnum	upper
-U+118be	𑢾	alpha	alnum	upper
-U+118bf	𑢿	alpha	alnum	upper
-U+16e40	𖹀	alpha	alnum	upper
-U+16e41	𖹁	alpha	alnum	upper
-U+16e42	𖹂	alpha	alnum	upper
-U+16e43	𖹃	alpha	alnum	upper
-U+16e44	𖹄	alpha	alnum	upper
-U+16e45	𖹅	alpha	alnum	upper
-U+16e46	𖹆	alpha	alnum	upper
-U+16e47	𖹇	alpha	alnum	upper
-U+16e48	𖹈	alpha	alnum	upper
-U+16e49	𖹉	alpha	alnum	upper
-U+16e4a	𖹊	alpha	alnum	upper
-U+16e4b	𖹋	alpha	alnum	upper
-U+16e4c	𖹌	alpha	alnum	upper
-U+16e4d	𖹍	alpha	alnum	upper
-U+16e4e	𖹎	alpha	alnum	upper
-U+16e4f	𖹏	alpha	alnum	upper
-U+16e50	𖹐	alpha	alnum	upper
-U+16e51	𖹑	alpha	alnum	upper
-U+16e52	𖹒	alpha	alnum	upper
-U+16e53	𖹓	alpha	alnum	upper
-U+16e54	𖹔	alpha	alnum	upper
-U+16e55	𖹕	alpha	alnum	upper
-U+16e56	𖹖	alpha	alnum	upper
-U+16e57	𖹗	alpha	alnum	upper
-U+16e58	𖹘	alpha	alnum	upper
-U+16e59	𖹙	alpha	alnum	upper
-U+16e5a	𖹚	alpha	alnum	upper
-U+16e5b	𖹛	alpha	alnum	upper
-U+16e5c	𖹜	alpha	alnum	upper
-U+16e5d	𖹝	alpha	alnum	upper
-U+16e5e	𖹞	alpha	alnum	upper
-U+16e5f	𖹟	alpha	alnum	upper
-U+1d400	𝐀	alpha	alnum	upper
-U+1d401	𝐁	alpha	alnum	upper
-U+1d402	𝐂	alpha	alnum	upper
-U+1d403	𝐃	alpha	alnum	upper
-U+1d404	𝐄	alpha	alnum	upper
-U+1d405	𝐅	alpha	alnum	upper
-U+1d406	𝐆	alpha	alnum	upper
-U+1d407	𝐇	alpha	alnum	upper
-U+1d408	𝐈	alpha	alnum	upper
-U+1d409	𝐉	alpha	alnum	upper
-U+1d40a	𝐊	alpha	alnum	upper
-U+1d40b	𝐋	alpha	alnum	upper
-U+1d40c	𝐌	alpha	alnum	upper
-U+1d40d	𝐍	alpha	alnum	upper
-U+1d40e	𝐎	alpha	alnum	upper
-U+1d40f	𝐏	alpha	alnum	upper
-U+1d410	𝐐	alpha	alnum	upper
-U+1d411	𝐑	alpha	alnum	upper
-U+1d412	𝐒	alpha	alnum	upper
-U+1d413	𝐓	alpha	alnum	upper
-U+1d414	𝐔	alpha	alnum	upper
-U+1d415	𝐕	alpha	alnum	upper
-U+1d416	𝐖	alpha	alnum	upper
-U+1d417	𝐗	alpha	alnum	upper
-U+1d418	𝐘	alpha	alnum	upper
-U+1d419	𝐙	alpha	alnum	upper
-U+1d434	𝐴	alpha	alnum	upper
-U+1d435	𝐵	alpha	alnum	upper
-U+1d436	𝐶	alpha	alnum	upper
-U+1d437	𝐷	alpha	alnum	upper
-U+1d438	𝐸	alpha	alnum	upper
-U+1d439	𝐹	alpha	alnum	upper
-U+1d43a	𝐺	alpha	alnum	upper
-U+1d43b	𝐻	alpha	alnum	upper
-U+1d43c	𝐼	alpha	alnum	upper
-U+1d43d	𝐽	alpha	alnum	upper
-U+1d43e	𝐾	alpha	alnum	upper
-U+1d43f	𝐿	alpha	alnum	upper
-U+1d440	𝑀	alpha	alnum	upper
-U+1d441	𝑁	alpha	alnum	upper
-U+1d442	𝑂	alpha	alnum	upper
-U+1d443	𝑃	alpha	alnum	upper
-U+1d444	𝑄	alpha	alnum	upper
-U+1d445	𝑅	alpha	alnum	upper
-U+1d446	𝑆	alpha	alnum	upper
-U+1d447	𝑇	alpha	alnum	upper
-U+1d448	𝑈	alpha	alnum	upper
-U+1d449	𝑉	alpha	alnum	upper
-U+1d44a	𝑊	alpha	alnum	upper
-U+1d44b	𝑋	alpha	alnum	upper
-U+1d44c	𝑌	alpha	alnum	upper
-U+1d44d	𝑍	alpha	alnum	upper
-U+1d468	𝑨	alpha	alnum	upper
-U+1d469	𝑩	alpha	alnum	upper
-U+1d46a	𝑪	alpha	alnum	upper
-U+1d46b	𝑫	alpha	alnum	upper
-U+1d46c	𝑬	alpha	alnum	upper
-U+1d46d	𝑭	alpha	alnum	upper
-U+1d46e	𝑮	alpha	alnum	upper
-U+1d46f	𝑯	alpha	alnum	upper
-U+1d470	𝑰	alpha	alnum	upper
-U+1d471	𝑱	alpha	alnum	upper
-U+1d472	𝑲	alpha	alnum	upper
-U+1d473	𝑳	alpha	alnum	upper
-U+1d474	𝑴	alpha	alnum	upper
-U+1d475	𝑵	alpha	alnum	upper
-U+1d476	𝑶	alpha	alnum	upper
-U+1d477	𝑷	alpha	alnum	upper
-U+1d478	𝑸	alpha	alnum	upper
-U+1d479	𝑹	alpha	alnum	upper
-U+1d47a	𝑺	alpha	alnum	upper
-U+1d47b	𝑻	alpha	alnum	upper
-U+1d47c	𝑼	alpha	alnum	upper
-U+1d47d	𝑽	alpha	alnum	upper
-U+1d47e	𝑾	alpha	alnum	upper
-U+1d47f	𝑿	alpha	alnum	upper
-U+1d480	𝒀	alpha	alnum	upper
-U+1d481	𝒁	alpha	alnum	upper
-U+1d49c	𝒜	alpha	alnum	upper
-U+1d49e	𝒞	alpha	alnum	upper
-U+1d49f	𝒟	alpha	alnum	upper
-U+1d4a2	𝒢	alpha	alnum	upper
-U+1d4a5	𝒥	alpha	alnum	upper
-U+1d4a6	𝒦	alpha	alnum	upper
-U+1d4a9	𝒩	alpha	alnum	upper
-U+1d4aa	𝒪	alpha	alnum	upper
-U+1d4ab	𝒫	alpha	alnum	upper
-U+1d4ac	𝒬	alpha	alnum	upper
-U+1d4ae	𝒮	alpha	alnum	upper
-U+1d4af	𝒯	alpha	alnum	upper
-U+1d4b0	𝒰	alpha	alnum	upper
-U+1d4b1	𝒱	alpha	alnum	upper
-U+1d4b2	𝒲	alpha	alnum	upper
-U+1d4b3	𝒳	alpha	alnum	upper
-U+1d4b4	𝒴	alpha	alnum	upper
-U+1d4b5	𝒵	alpha	alnum	upper
-U+1d4d0	𝓐	alpha	alnum	upper
-U+1d4d1	𝓑	alpha	alnum	upper
-U+1d4d2	𝓒	alpha	alnum	upper
-U+1d4d3	𝓓	alpha	alnum	upper
-U+1d4d4	𝓔	alpha	alnum	upper
-U+1d4d5	𝓕	alpha	alnum	upper
-U+1d4d6	𝓖	alpha	alnum	upper
-U+1d4d7	𝓗	alpha	alnum	upper
-U+1d4d8	𝓘	alpha	alnum	upper
-U+1d4d9	𝓙	alpha	alnum	upper
-U+1d4da	𝓚	alpha	alnum	upper
-U+1d4db	𝓛	alpha	alnum	upper
-U+1d4dc	𝓜	alpha	alnum	upper
-U+1d4dd	𝓝	alpha	alnum	upper
-U+1d4de	𝓞	alpha	alnum	upper
-U+1d4df	𝓟	alpha	alnum	upper
-U+1d4e0	𝓠	alpha	alnum	upper
-U+1d4e1	𝓡	alpha	alnum	upper
-U+1d4e2	𝓢	alpha	alnum	upper
-U+1d4e3	𝓣	alpha	alnum	upper
-U+1d4e4	𝓤	alpha	alnum	upper
-U+1d4e5	𝓥	alpha	alnum	upper
-U+1d4e6	𝓦	alpha	alnum	upper
-U+1d4e7	𝓧	alpha	alnum	upper
-U+1d4e8	𝓨	alpha	alnum	upper
-U+1d4e9	𝓩	alpha	alnum	upper
-U+1d504	𝔄	alpha	alnum	upper
-U+1d505	𝔅	alpha	alnum	upper
-U+1d507	𝔇	alpha	alnum	upper
-U+1d508	𝔈	alpha	alnum	upper
-U+1d509	𝔉	alpha	alnum	upper
-U+1d50a	𝔊	alpha	alnum	upper
-U+1d50d	𝔍	alpha	alnum	upper
-U+1d50e	𝔎	alpha	alnum	upper
-U+1d50f	𝔏	alpha	alnum	upper
-U+1d510	𝔐	alpha	alnum	upper
-U+1d511	𝔑	alpha	alnum	upper
-U+1d512	𝔒	alpha	alnum	upper
-U+1d513	𝔓	alpha	alnum	upper
-U+1d514	𝔔	alpha	alnum	upper
-U+1d516	𝔖	alpha	alnum	upper
-U+1d517	𝔗	alpha	alnum	upper
-U+1d518	𝔘	alpha	alnum	upper
-U+1d519	𝔙	alpha	alnum	upper
-U+1d51a	𝔚	alpha	alnum	upper
-U+1d51b	𝔛	alpha	alnum	upper
-U+1d51c	𝔜	alpha	alnum	upper
-U+1d538	𝔸	alpha	alnum	upper
-U+1d539	𝔹	alpha	alnum	upper
-U+1d53b	𝔻	alpha	alnum	upper
-U+1d53c	𝔼	alpha	alnum	upper
-U+1d53d	𝔽	alpha	alnum	upper
-U+1d53e	𝔾	alpha	alnum	upper
-U+1d540	𝕀	alpha	alnum	upper
-U+1d541	𝕁	alpha	alnum	upper
-U+1d542	𝕂	alpha	alnum	upper
-U+1d543	𝕃	alpha	alnum	upper
-U+1d544	𝕄	alpha	alnum	upper
-U+1d546	𝕆	alpha	alnum	upper
-U+1d54a	𝕊	alpha	alnum	upper
-U+1d54b	𝕋	alpha	alnum	upper
-U+1d54c	𝕌	alpha	alnum	upper
-U+1d54d	𝕍	alpha	alnum	upper
-U+1d54e	𝕎	alpha	alnum	upper
-U+1d54f	𝕏	alpha	alnum	upper
-U+1d550	𝕐	alpha	alnum	upper
-U+1d56c	𝕬	alpha	alnum	upper
-U+1d56d	𝕭	alpha	alnum	upper
-U+1d56e	𝕮	alpha	alnum	upper
-U+1d56f	𝕯	alpha	alnum	upper
-U+1d570	𝕰	alpha	alnum	upper
-U+1d571	𝕱	alpha	alnum	upper
-U+1d572	𝕲	alpha	alnum	upper
-U+1d573	𝕳	alpha	alnum	upper
-U+1d574	𝕴	alpha	alnum	upper
-U+1d575	𝕵	alpha	alnum	upper
-U+1d576	𝕶	alpha	alnum	upper
-U+1d577	𝕷	alpha	alnum	upper
-U+1d578	𝕸	alpha	alnum	upper
-U+1d579	𝕹	alpha	alnum	upper
-U+1d57a	𝕺	alpha	alnum	upper
-U+1d57b	𝕻	alpha	alnum	upper
-U+1d57c	𝕼	alpha	alnum	upper
-U+1d57d	𝕽	alpha	alnum	upper
-U+1d57e	𝕾	alpha	alnum	upper
-U+1d57f	𝕿	alpha	alnum	upper
-U+1d580	𝖀	alpha	alnum	upper
-U+1d581	𝖁	alpha	alnum	upper
-U+1d582	𝖂	alpha	alnum	upper
-U+1d583	𝖃	alpha	alnum	upper
-U+1d584	𝖄	alpha	alnum	upper
-U+1d585	𝖅	alpha	alnum	upper
-U+1d5a0	𝖠	alpha	alnum	upper
-U+1d5a1	𝖡	alpha	alnum	upper
-U+1d5a2	𝖢	alpha	alnum	upper
-U+1d5a3	𝖣	alpha	alnum	upper
-U+1d5a4	𝖤	alpha	alnum	upper
-U+1d5a5	𝖥	alpha	alnum	upper
-U+1d5a6	𝖦	alpha	alnum	upper
-U+1d5a7	𝖧	alpha	alnum	upper
-U+1d5a8	𝖨	alpha	alnum	upper
-U+1d5a9	𝖩	alpha	alnum	upper
-U+1d5aa	𝖪	alpha	alnum	upper
-U+1d5ab	𝖫	alpha	alnum	upper
-U+1d5ac	𝖬	alpha	alnum	upper
-U+1d5ad	𝖭	alpha	alnum	upper
-U+1d5ae	𝖮	alpha	alnum	upper
-U+1d5af	𝖯	alpha	alnum	upper
-U+1d5b0	𝖰	alpha	alnum	upper
-U+1d5b1	𝖱	alpha	alnum	upper
-U+1d5b2	𝖲	alpha	alnum	upper
-U+1d5b3	𝖳	alpha	alnum	upper
-U+1d5b4	𝖴	alpha	alnum	upper
-U+1d5b5	𝖵	alpha	alnum	upper
-U+1d5b6	𝖶	alpha	alnum	upper
-U+1d5b7	𝖷	alpha	alnum	upper
-U+1d5b8	𝖸	alpha	alnum	upper
-U+1d5b9	𝖹	alpha	alnum	upper
-U+1d5d4	𝗔	alpha	alnum	upper
-U+1d5d5	𝗕	alpha	alnum	upper
-U+1d5d6	𝗖	alpha	alnum	upper
-U+1d5d7	𝗗	alpha	alnum	upper
-U+1d5d8	𝗘	alpha	alnum	upper
-U+1d5d9	𝗙	alpha	alnum	upper
-U+1d5da	𝗚	alpha	alnum	upper
-U+1d5db	𝗛	alpha	alnum	upper
-U+1d5dc	𝗜	alpha	alnum	upper
-U+1d5dd	𝗝	alpha	alnum	upper
-U+1d5de	𝗞	alpha	alnum	upper
-U+1d5df	𝗟	alpha	alnum	upper
-U+1d5e0	𝗠	alpha	alnum	upper
-U+1d5e1	𝗡	alpha	alnum	upper
-U+1d5e2	𝗢	alpha	alnum	upper
-U+1d5e3	𝗣	alpha	alnum	upper
-U+1d5e4	𝗤	alpha	alnum	upper
-U+1d5e5	𝗥	alpha	alnum	upper
-U+1d5e6	𝗦	alpha	alnum	upper
-U+1d5e7	𝗧	alpha	alnum	upper
-U+1d5e8	𝗨	alpha	alnum	upper
-U+1d5e9	𝗩	alpha	alnum	upper
-U+1d5ea	𝗪	alpha	alnum	upper
-U+1d5eb	𝗫	alpha	alnum	upper
-U+1d5ec	𝗬	alpha	alnum	upper
-U+1d5ed	𝗭	alpha	alnum	upper
-U+1d608	𝘈	alpha	alnum	upper
-U+1d609	𝘉	alpha	alnum	upper
-U+1d60a	𝘊	alpha	alnum	upper
-U+1d60b	𝘋	alpha	alnum	upper
-U+1d60c	𝘌	alpha	alnum	upper
-U+1d60d	𝘍	alpha	alnum	upper
-U+1d60e	𝘎	alpha	alnum	upper
-U+1d60f	𝘏	alpha	alnum	upper
-U+1d610	𝘐	alpha	alnum	upper
-U+1d611	𝘑	alpha	alnum	upper
-U+1d612	𝘒	alpha	alnum	upper
-U+1d613	𝘓	alpha	alnum	upper
-U+1d614	𝘔	alpha	alnum	upper
-U+1d615	𝘕	alpha	alnum	upper
-U+1d616	𝘖	alpha	alnum	upper
-U+1d617	𝘗	alpha	alnum	upper
-U+1d618	𝘘	alpha	alnum	upper
-U+1d619	𝘙	alpha	alnum	upper
-U+1d61a	𝘚	alpha	alnum	upper
-U+1d61b	𝘛	alpha	alnum	upper
-U+1d61c	𝘜	alpha	alnum	upper
-U+1d61d	𝘝	alpha	alnum	upper
-U+1d61e	𝘞	alpha	alnum	upper
-U+1d61f	𝘟	alpha	alnum	upper
-U+1d620	𝘠	alpha	alnum	upper
-U+1d621	𝘡	alpha	alnum	upper
-U+1d63c	𝘼	alpha	alnum	upper
-U+1d63d	𝘽	alpha	alnum	upper
-U+1d63e	𝘾	alpha	alnum	upper
-U+1d63f	𝘿	alpha	alnum	upper
-U+1d640	𝙀	alpha	alnum	upper
-U+1d641	𝙁	alpha	alnum	upper
-U+1d642	𝙂	alpha	alnum	upper
-U+1d643	𝙃	alpha	alnum	upper
-U+1d644	𝙄	alpha	alnum	upper
-U+1d645	𝙅	alpha	alnum	upper
-U+1d646	𝙆	alpha	alnum	upper
-U+1d647	𝙇	alpha	alnum	upper
-U+1d648	𝙈	alpha	alnum	upper
-U+1d649	𝙉	alpha	alnum	upper
-U+1d64a	𝙊	alpha	alnum	upper
-U+1d64b	𝙋	alpha	alnum	upper
-U+1d64c	𝙌	alpha	alnum	upper
-U+1d64d	𝙍	alpha	alnum	upper
-U+1d64e	𝙎	alpha	alnum	upper
-U+1d64f	𝙏	alpha	alnum	upper
-U+1d650	𝙐	alpha	alnum	upper
-U+1d651	𝙑	alpha	alnum	upper
-U+1d652	𝙒	alpha	alnum	upper
-U+1d653	𝙓	alpha	alnum	upper
-U+1d654	𝙔	alpha	alnum	upper
-U+1d655	𝙕	alpha	alnum	upper
-U+1d670	𝙰	alpha	alnum	upper
-U+1d671	𝙱	alpha	alnum	upper
-U+1d672	𝙲	alpha	alnum	upper
-U+1d673	𝙳	alpha	alnum	upper
-U+1d674	𝙴	alpha	alnum	upper
-U+1d675	𝙵	alpha	alnum	upper
-U+1d676	𝙶	alpha	alnum	upper
-U+1d677	𝙷	alpha	alnum	upper
-U+1d678	𝙸	alpha	alnum	upper
-U+1d679	𝙹	alpha	alnum	upper
-U+1d67a	𝙺	alpha	alnum	upper
-U+1d67b	𝙻	alpha	alnum	upper
-U+1d67c	𝙼	alpha	alnum	upper
-U+1d67d	𝙽	alpha	alnum	upper
-U+1d67e	𝙾	alpha	alnum	upper
-U+1d67f	𝙿	alpha	alnum	upper
-U+1d680	𝚀	alpha	alnum	upper
-U+1d681	𝚁	alpha	alnum	upper
-U+1d682	𝚂	alpha	alnum	upper
-U+1d683	𝚃	alpha	alnum	upper
-U+1d684	𝚄	alpha	alnum	upper
-U+1d685	𝚅	alpha	alnum	upper
-U+1d686	𝚆	alpha	alnum	upper
-U+1d687	𝚇	alpha	alnum	upper
-U+1d688	𝚈	alpha	alnum	upper
-U+1d689	𝚉	alpha	alnum	upper
-U+1d6a8	𝚨	alpha	alnum	upper
-U+1d6a9	𝚩	alpha	alnum	upper
-U+1d6aa	𝚪	alpha	alnum	upper
-U+1d6ab	𝚫	alpha	alnum	upper
-U+1d6ac	𝚬	alpha	alnum	upper
-U+1d6ad	𝚭	alpha	alnum	upper
-U+1d6ae	𝚮	alpha	alnum	upper
-U+1d6af	𝚯	alpha	alnum	upper
-U+1d6b0	𝚰	alpha	alnum	upper
-U+1d6b1	𝚱	alpha	alnum	upper
-U+1d6b2	𝚲	alpha	alnum	upper
-U+1d6b3	𝚳	alpha	alnum	upper
-U+1d6b4	𝚴	alpha	alnum	upper
-U+1d6b5	𝚵	alpha	alnum	upper
-U+1d6b6	𝚶	alpha	alnum	upper
-U+1d6b7	𝚷	alpha	alnum	upper
-U+1d6b8	𝚸	alpha	alnum	upper
-U+1d6b9	𝚹	alpha	alnum	upper
-U+1d6ba	𝚺	alpha	alnum	upper
-U+1d6bb	𝚻	alpha	alnum	upper
-U+1d6bc	𝚼	alpha	alnum	upper
-U+1d6bd	𝚽	alpha	alnum	upper
-U+1d6be	𝚾	alpha	alnum	upper
-U+1d6bf	𝚿	alpha	alnum	upper
-U+1d6c0	𝛀	alpha	alnum	upper
-U+1d6e2	𝛢	alpha	alnum	upper
-U+1d6e3	𝛣	alpha	alnum	upper
-U+1d6e4	𝛤	alpha	alnum	upper
-U+1d6e5	𝛥	alpha	alnum	upper
-U+1d6e6	𝛦	alpha	alnum	upper
-U+1d6e7	𝛧	alpha	alnum	upper
-U+1d6e8	𝛨	alpha	alnum	upper
-U+1d6e9	𝛩	alpha	alnum	upper
-U+1d6ea	𝛪	alpha	alnum	upper
-U+1d6eb	𝛫	alpha	alnum	upper
-U+1d6ec	𝛬	alpha	alnum	upper
-U+1d6ed	𝛭	alpha	alnum	upper
-U+1d6ee	𝛮	alpha	alnum	upper
-U+1d6ef	𝛯	alpha	alnum	upper
-U+1d6f0	𝛰	alpha	alnum	upper
-U+1d6f1	𝛱	alpha	alnum	upper
-U+1d6f2	𝛲	alpha	alnum	upper
-U+1d6f3	𝛳	alpha	alnum	upper
-U+1d6f4	𝛴	alpha	alnum	upper
-U+1d6f5	𝛵	alpha	alnum	upper
-U+1d6f6	𝛶	alpha	alnum	upper
-U+1d6f7	𝛷	alpha	alnum	upper
-U+1d6f8	𝛸	alpha	alnum	upper
-U+1d6f9	𝛹	alpha	alnum	upper
-U+1d6fa	𝛺	alpha	alnum	upper
-U+1d71c	𝜜	alpha	alnum	upper
-U+1d71d	𝜝	alpha	alnum	upper
-U+1d71e	𝜞	alpha	alnum	upper
-U+1d71f	𝜟	alpha	alnum	upper
-U+1d720	𝜠	alpha	alnum	upper
-U+1d721	𝜡	alpha	alnum	upper
-U+1d722	𝜢	alpha	alnum	upper
-U+1d723	𝜣	alpha	alnum	upper
-U+1d724	𝜤	alpha	alnum	upper
-U+1d725	𝜥	alpha	alnum	upper
-U+1d726	𝜦	alpha	alnum	upper
-U+1d727	𝜧	alpha	alnum	upper
-U+1d728	𝜨	alpha	alnum	upper
-U+1d729	𝜩	alpha	alnum	upper
-U+1d72a	𝜪	alpha	alnum	upper
-U+1d72b	𝜫	alpha	alnum	upper
-U+1d72c	𝜬	alpha	alnum	upper
-U+1d72d	𝜭	alpha	alnum	upper
-U+1d72e	𝜮	alpha	alnum	upper
-U+1d72f	𝜯	alpha	alnum	upper
-U+1d730	𝜰	alpha	alnum	upper
-U+1d731	𝜱	alpha	alnum	upper
-U+1d732	𝜲	alpha	alnum	upper
-U+1d733	𝜳	alpha	alnum	upper
-U+1d734	𝜴	alpha	alnum	upper
-U+1d756	𝝖	alpha	alnum	upper
-U+1d757	𝝗	alpha	alnum	upper
-U+1d758	𝝘	alpha	alnum	upper
-U+1d759	𝝙	alpha	alnum	upper
-U+1d75a	𝝚	alpha	alnum	upper
-U+1d75b	𝝛	alpha	alnum	upper
-U+1d75c	𝝜	alpha	alnum	upper
-U+1d75d	𝝝	alpha	alnum	upper
-U+1d75e	𝝞	alpha	alnum	upper
-U+1d75f	𝝟	alpha	alnum	upper
-U+1d760	𝝠	alpha	alnum	upper
-U+1d761	𝝡	alpha	alnum	upper
-U+1d762	𝝢	alpha	alnum	upper
-U+1d763	𝝣	alpha	alnum	upper
-U+1d764	𝝤	alpha	alnum	upper
-U+1d765	𝝥	alpha	alnum	upper
-U+1d766	𝝦	alpha	alnum	upper
-U+1d767	𝝧	alpha	alnum	upper
-U+1d768	𝝨	alpha	alnum	upper
-U+1d769	𝝩	alpha	alnum	upper
-U+1d76a	𝝪	alpha	alnum	upper
-U+1d76b	𝝫	alpha	alnum	upper
-U+1d76c	𝝬	alpha	alnum	upper
-U+1d76d	𝝭	alpha	alnum	upper
-U+1d76e	𝝮	alpha	alnum	upper
-U+1d790	𝞐	alpha	alnum	upper
-U+1d791	𝞑	alpha	alnum	upper
-U+1d792	𝞒	alpha	alnum	upper
-U+1d793	𝞓	alpha	alnum	upper
-U+1d794	𝞔	alpha	alnum	upper
-U+1d795	𝞕	alpha	alnum	upper
-U+1d796	𝞖	alpha	alnum	upper
-U+1d797	𝞗	alpha	alnum	upper
-U+1d798	𝞘	alpha	alnum	upper
-U+1d799	𝞙	alpha	alnum	upper
-U+1d79a	𝞚	alpha	alnum	upper
-U+1d79b	𝞛	alpha	alnum	upper
-U+1d79c	𝞜	alpha	alnum	upper
-U+1d79d	𝞝	alpha	alnum	upper
-U+1d79e	𝞞	alpha	alnum	upper
-U+1d79f	𝞟	alpha	alnum	upper
-U+1d7a0	𝞠	alpha	alnum	upper
-U+1d7a1	𝞡	alpha	alnum	upper
-U+1d7a2	𝞢	alpha	alnum	upper
-U+1d7a3	𝞣	alpha	alnum	upper
-U+1d7a4	𝞤	alpha	alnum	upper
-U+1d7a5	𝞥	alpha	alnum	upper
-U+1d7a6	𝞦	alpha	alnum	upper
-U+1d7a7	𝞧	alpha	alnum	upper
-U+1d7a8	𝞨	alpha	alnum	upper
-U+1d7ca	𝟊	alpha	alnum	upper
-U+1e900	𞤀	alpha	alnum	upper
-U+1e901	𞤁	alpha	alnum	upper
-U+1e902	𞤂	alpha	alnum	upper
-U+1e903	𞤃	alpha	alnum	upper
-U+1e904	𞤄	alpha	alnum	upper
-U+1e905	𞤅	alpha	alnum	upper
-U+1e906	𞤆	alpha	alnum	upper
-U+1e907	𞤇	alpha	alnum	upper
-U+1e908	𞤈	alpha	alnum	upper
-U+1e909	𞤉	alpha	alnum	upper
-U+1e90a	𞤊	alpha	alnum	upper
-U+1e90b	𞤋	alpha	alnum	upper
-U+1e90c	𞤌	alpha	alnum	upper
-U+1e90d	𞤍	alpha	alnum	upper
-U+1e90e	𞤎	alpha	alnum	upper
-U+1e90f	𞤏	alpha	alnum	upper
-U+1e910	𞤐	alpha	alnum	upper
-U+1e911	𞤑	alpha	alnum	upper
-U+1e912	𞤒	alpha	alnum	upper
-U+1e913	𞤓	alpha	alnum	upper
-U+1e914	𞤔	alpha	alnum	upper
-U+1e915	𞤕	alpha	alnum	upper
-U+1e916	𞤖	alpha	alnum	upper
-U+1e917	𞤗	alpha	alnum	upper
-U+1e918	𞤘	alpha	alnum	upper
-U+1e919	𞤙	alpha	alnum	upper
-U+1e91a	𞤚	alpha	alnum	upper
-U+1e91b	𞤛	alpha	alnum	upper
-U+1e91c	𞤜	alpha	alnum	upper
-U+1e91d	𞤝	alpha	alnum	upper
-U+1e91e	𞤞	alpha	alnum	upper
-U+1e91f	𞤟	alpha	alnum	upper
-U+1e920	𞤠	alpha	alnum	upper
-U+1e921	𞤡	alpha	alnum	upper
-U+1f130	🄰	alpha	alnum	upper
-U+1f131	🄱	alpha	alnum	upper
-U+1f132	🄲	alpha	alnum	upper
-U+1f133	🄳	alpha	alnum	upper
-U+1f134	🄴	alpha	alnum	upper
-U+1f135	🄵	alpha	alnum	upper
-U+1f136	🄶	alpha	alnum	upper
-U+1f137	🄷	alpha	alnum	upper
-U+1f138	🄸	alpha	alnum	upper
-U+1f139	🄹	alpha	alnum	upper
-U+1f13a	🄺	alpha	alnum	upper
-U+1f13b	🄻	alpha	alnum	upper
-U+1f13c	🄼	alpha	alnum	upper
-U+1f13d	🄽	alpha	alnum	upper
-U+1f13e	🄾	alpha	alnum	upper
-U+1f13f	🄿	alpha	alnum	upper
-U+1f140	🅀	alpha	alnum	upper
-U+1f141	🅁	alpha	alnum	upper
-U+1f142	🅂	alpha	alnum	upper
-U+1f143	🅃	alpha	alnum	upper
-U+1f144	🅄	alpha	alnum	upper
-U+1f145	🅅	alpha	alnum	upper
-U+1f146	🅆	alpha	alnum	upper
-U+1f147	🅇	alpha	alnum	upper
-U+1f148	🅈	alpha	alnum	upper
-U+1f149	🅉	alpha	alnum	upper
-U+1f150	🅐	alpha	alnum	upper
-U+1f151	🅑	alpha	alnum	upper
-U+1f152	🅒	alpha	alnum	upper
-U+1f153	🅓	alpha	alnum	upper
-U+1f154	🅔	alpha	alnum	upper
-U+1f155	🅕	alpha	alnum	upper
-U+1f156	🅖	alpha	alnum	upper
-U+1f157	🅗	alpha	alnum	upper
-U+1f158	🅘	alpha	alnum	upper
-U+1f159	🅙	alpha	alnum	upper
-U+1f15a	🅚	alpha	alnum	upper
-U+1f15b	🅛	alpha	alnum	upper
-U+1f15c	🅜	alpha	alnum	upper
-U+1f15d	🅝	alpha	alnum	upper
-U+1f15e	🅞	alpha	alnum	upper
-U+1f15f	🅟	alpha	alnum	upper
-U+1f160	🅠	alpha	alnum	upper
-U+1f161	🅡	alpha	alnum	upper
-U+1f162	🅢	alpha	alnum	upper
-U+1f163	🅣	alpha	alnum	upper
-U+1f164	🅤	alpha	alnum	upper
-U+1f165	🅥	alpha	alnum	upper
-U+1f166	🅦	alpha	alnum	upper
-U+1f167	🅧	alpha	alnum	upper
-U+1f168	🅨	alpha	alnum	upper
-U+1f169	🅩	alpha	alnum	upper
-U+1f170	🅰	alpha	alnum	upper
-U+1f171	🅱	alpha	alnum	upper
-U+1f172	🅲	alpha	alnum	upper
-U+1f173	🅳	alpha	alnum	upper
-U+1f174	🅴	alpha	alnum	upper
-U+1f175	🅵	alpha	alnum	upper
-U+1f176	🅶	alpha	alnum	upper
-U+1f177	🅷	alpha	alnum	upper
-U+1f178	🅸	alpha	alnum	upper
-U+1f179	🅹	alpha	alnum	upper
-U+1f17a	🅺	alpha	alnum	upper
-U+1f17b	🅻	alpha	alnum	upper
-U+1f17c	🅼	alpha	alnum	upper
-U+1f17d	🅽	alpha	alnum	upper
-U+1f17e	🅾	alpha	alnum	upper
-U+1f17f	🅿	alpha	alnum	upper
-U+1f180	🆀	alpha	alnum	upper
-U+1f181	🆁	alpha	alnum	upper
-U+1f182	🆂	alpha	alnum	upper
-U+1f183	🆃	alpha	alnum	upper
-U+1f184	🆄	alpha	alnum	upper
-U+1f185	🆅	alpha	alnum	upper
-U+1f186	🆆	alpha	alnum	upper
-U+1f187	🆇	alpha	alnum	upper
-U+1f188	🆈	alpha	alnum	upper
-U+1f189	🆉	alpha	alnum	upper
+U+0041	A	LATIN CAPITAL LETTER A	alpha	alnum	upper	xdigit
+U+0042	B	LATIN CAPITAL LETTER B	alpha	alnum	upper	xdigit
+U+0043	C	LATIN CAPITAL LETTER C	alpha	alnum	upper	xdigit
+U+0044	D	LATIN CAPITAL LETTER D	alpha	alnum	upper	xdigit
+U+0045	E	LATIN CAPITAL LETTER E	alpha	alnum	upper	xdigit
+U+0046	F	LATIN CAPITAL LETTER F	alpha	alnum	upper	xdigit
+U+0047	G	LATIN CAPITAL LETTER G	alpha	alnum	upper
+U+0048	H	LATIN CAPITAL LETTER H	alpha	alnum	upper
+U+0049	I	LATIN CAPITAL LETTER I	alpha	alnum	upper
+U+004a	J	LATIN CAPITAL LETTER J	alpha	alnum	upper
+U+004b	K	LATIN CAPITAL LETTER K	alpha	alnum	upper
+U+004c	L	LATIN CAPITAL LETTER L	alpha	alnum	upper
+U+004d	M	LATIN CAPITAL LETTER M	alpha	alnum	upper
+U+004e	N	LATIN CAPITAL LETTER N	alpha	alnum	upper
+U+004f	O	LATIN CAPITAL LETTER O	alpha	alnum	upper
+U+0050	P	LATIN CAPITAL LETTER P	alpha	alnum	upper
+U+0051	Q	LATIN CAPITAL LETTER Q	alpha	alnum	upper
+U+0052	R	LATIN CAPITAL LETTER R	alpha	alnum	upper
+U+0053	S	LATIN CAPITAL LETTER S	alpha	alnum	upper
+U+0054	T	LATIN CAPITAL LETTER T	alpha	alnum	upper
+U+0055	U	LATIN CAPITAL LETTER U	alpha	alnum	upper
+U+0056	V	LATIN CAPITAL LETTER V	alpha	alnum	upper
+U+0057	W	LATIN CAPITAL LETTER W	alpha	alnum	upper
+U+0058	X	LATIN CAPITAL LETTER X	alpha	alnum	upper
+U+0059	Y	LATIN CAPITAL LETTER Y	alpha	alnum	upper
+U+005a	Z	LATIN CAPITAL LETTER Z	alpha	alnum	upper
+U+00c0	À	LATIN CAPITAL LETTER A WITH GRAVE	alpha	alnum	upper
+U+00c1	Á	LATIN CAPITAL LETTER A WITH ACUTE	alpha	alnum	upper
+U+00c2	Â	LATIN CAPITAL LETTER A WITH CIRCUMFLEX	alpha	alnum	upper
+U+00c3	Ã	LATIN CAPITAL LETTER A WITH TILDE	alpha	alnum	upper
+U+00c4	Ä	LATIN CAPITAL LETTER A WITH DIAERESIS	alpha	alnum	upper
+U+00c5	Å	LATIN CAPITAL LETTER A WITH RING ABOVE	alpha	alnum	upper
+U+00c6	Æ	LATIN CAPITAL LETTER AE	alpha	alnum	upper
+U+00c7	Ç	LATIN CAPITAL LETTER C WITH CEDILLA	alpha	alnum	upper
+U+00c8	È	LATIN CAPITAL LETTER E WITH GRAVE	alpha	alnum	upper
+U+00c9	É	LATIN CAPITAL LETTER E WITH ACUTE	alpha	alnum	upper
+U+00ca	Ê	LATIN CAPITAL LETTER E WITH CIRCUMFLEX	alpha	alnum	upper
+U+00cb	Ë	LATIN CAPITAL LETTER E WITH DIAERESIS	alpha	alnum	upper
+U+00cc	Ì	LATIN CAPITAL LETTER I WITH GRAVE	alpha	alnum	upper
+U+00cd	Í	LATIN CAPITAL LETTER I WITH ACUTE	alpha	alnum	upper
+U+00ce	Î	LATIN CAPITAL LETTER I WITH CIRCUMFLEX	alpha	alnum	upper
+U+00cf	Ï	LATIN CAPITAL LETTER I WITH DIAERESIS	alpha	alnum	upper
+U+00d0	Ð	LATIN CAPITAL LETTER ETH	alpha	alnum	upper
+U+00d1	Ñ	LATIN CAPITAL LETTER N WITH TILDE	alpha	alnum	upper
+U+00d2	Ò	LATIN CAPITAL LETTER O WITH GRAVE	alpha	alnum	upper
+U+00d3	Ó	LATIN CAPITAL LETTER O WITH ACUTE	alpha	alnum	upper
+U+00d4	Ô	LATIN CAPITAL LETTER O WITH CIRCUMFLEX	alpha	alnum	upper
+U+00d5	Õ	LATIN CAPITAL LETTER O WITH TILDE	alpha	alnum	upper
+U+00d6	Ö	LATIN CAPITAL LETTER O WITH DIAERESIS	alpha	alnum	upper
+U+00d8	Ø	LATIN CAPITAL LETTER O WITH STROKE	alpha	alnum	upper
+U+00d9	Ù	LATIN CAPITAL LETTER U WITH GRAVE	alpha	alnum	upper
+U+00da	Ú	LATIN CAPITAL LETTER U WITH ACUTE	alpha	alnum	upper
+U+00db	Û	LATIN CAPITAL LETTER U WITH CIRCUMFLEX	alpha	alnum	upper
+U+00dc	Ü	LATIN CAPITAL LETTER U WITH DIAERESIS	alpha	alnum	upper
+U+00dd	Ý	LATIN CAPITAL LETTER Y WITH ACUTE	alpha	alnum	upper
+U+00de	Þ	LATIN CAPITAL LETTER THORN	alpha	alnum	upper
+U+0100	Ā	LATIN CAPITAL LETTER A WITH MACRON	alpha	alnum	upper
+U+0102	Ă	LATIN CAPITAL LETTER A WITH BREVE	alpha	alnum	upper
+U+0104	Ą	LATIN CAPITAL LETTER A WITH OGONEK	alpha	alnum	upper
+U+0106	Ć	LATIN CAPITAL LETTER C WITH ACUTE	alpha	alnum	upper
+U+0108	Ĉ	LATIN CAPITAL LETTER C WITH CIRCUMFLEX	alpha	alnum	upper
+U+010a	Ċ	LATIN CAPITAL LETTER C WITH DOT ABOVE	alpha	alnum	upper
+U+010c	Č	LATIN CAPITAL LETTER C WITH CARON	alpha	alnum	upper
+U+010e	Ď	LATIN CAPITAL LETTER D WITH CARON	alpha	alnum	upper
+U+0110	Đ	LATIN CAPITAL LETTER D WITH STROKE	alpha	alnum	upper
+U+0112	Ē	LATIN CAPITAL LETTER E WITH MACRON	alpha	alnum	upper
+U+0114	Ĕ	LATIN CAPITAL LETTER E WITH BREVE	alpha	alnum	upper
+U+0116	Ė	LATIN CAPITAL LETTER E WITH DOT ABOVE	alpha	alnum	upper
+U+0118	Ę	LATIN CAPITAL LETTER E WITH OGONEK	alpha	alnum	upper
+U+011a	Ě	LATIN CAPITAL LETTER E WITH CARON	alpha	alnum	upper
+U+011c	Ĝ	LATIN CAPITAL LETTER G WITH CIRCUMFLEX	alpha	alnum	upper
+U+011e	Ğ	LATIN CAPITAL LETTER G WITH BREVE	alpha	alnum	upper
+U+0120	Ġ	LATIN CAPITAL LETTER G WITH DOT ABOVE	alpha	alnum	upper
+U+0122	Ģ	LATIN CAPITAL LETTER G WITH CEDILLA	alpha	alnum	upper
+U+0124	Ĥ	LATIN CAPITAL LETTER H WITH CIRCUMFLEX	alpha	alnum	upper
+U+0126	Ħ	LATIN CAPITAL LETTER H WITH STROKE	alpha	alnum	upper
+U+0128	Ĩ	LATIN CAPITAL LETTER I WITH TILDE	alpha	alnum	upper
+U+012a	Ī	LATIN CAPITAL LETTER I WITH MACRON	alpha	alnum	upper
+U+012c	Ĭ	LATIN CAPITAL LETTER I WITH BREVE	alpha	alnum	upper
+U+012e	Į	LATIN CAPITAL LETTER I WITH OGONEK	alpha	alnum	upper
+U+0130	İ	LATIN CAPITAL LETTER I WITH DOT ABOVE	alpha	alnum	upper
+U+0132	Ĳ	LATIN CAPITAL LIGATURE IJ	alpha	alnum	upper
+U+0134	Ĵ	LATIN CAPITAL LETTER J WITH CIRCUMFLEX	alpha	alnum	upper
+U+0136	Ķ	LATIN CAPITAL LETTER K WITH CEDILLA	alpha	alnum	upper
+U+0139	Ĺ	LATIN CAPITAL LETTER L WITH ACUTE	alpha	alnum	upper
+U+013b	Ļ	LATIN CAPITAL LETTER L WITH CEDILLA	alpha	alnum	upper
+U+013d	Ľ	LATIN CAPITAL LETTER L WITH CARON	alpha	alnum	upper
+U+013f	Ŀ	LATIN CAPITAL LETTER L WITH MIDDLE DOT	alpha	alnum	upper
+U+0141	Ł	LATIN CAPITAL LETTER L WITH STROKE	alpha	alnum	upper
+U+0143	Ń	LATIN CAPITAL LETTER N WITH ACUTE	alpha	alnum	upper
+U+0145	Ņ	LATIN CAPITAL LETTER N WITH CEDILLA	alpha	alnum	upper
+U+0147	Ň	LATIN CAPITAL LETTER N WITH CARON	alpha	alnum	upper
+U+014a	Ŋ	LATIN CAPITAL LETTER ENG	alpha	alnum	upper
+U+014c	Ō	LATIN CAPITAL LETTER O WITH MACRON	alpha	alnum	upper
+U+014e	Ŏ	LATIN CAPITAL LETTER O WITH BREVE	alpha	alnum	upper
+U+0150	Ő	LATIN CAPITAL LETTER O WITH DOUBLE ACUTE	alpha	alnum	upper
+U+0152	Œ	LATIN CAPITAL LIGATURE OE	alpha	alnum	upper
+U+0154	Ŕ	LATIN CAPITAL LETTER R WITH ACUTE	alpha	alnum	upper
+U+0156	Ŗ	LATIN CAPITAL LETTER R WITH CEDILLA	alpha	alnum	upper
+U+0158	Ř	LATIN CAPITAL LETTER R WITH CARON	alpha	alnum	upper
+U+015a	Ś	LATIN CAPITAL LETTER S WITH ACUTE	alpha	alnum	upper
+U+015c	Ŝ	LATIN CAPITAL LETTER S WITH CIRCUMFLEX	alpha	alnum	upper
+U+015e	Ş	LATIN CAPITAL LETTER S WITH CEDILLA	alpha	alnum	upper
+U+0160	Š	LATIN CAPITAL LETTER S WITH CARON	alpha	alnum	upper
+U+0162	Ţ	LATIN CAPITAL LETTER T WITH CEDILLA	alpha	alnum	upper
+U+0164	Ť	LATIN CAPITAL LETTER T WITH CARON	alpha	alnum	upper
+U+0166	Ŧ	LATIN CAPITAL LETTER T WITH STROKE	alpha	alnum	upper
+U+0168	Ũ	LATIN CAPITAL LETTER U WITH TILDE	alpha	alnum	upper
+U+016a	Ū	LATIN CAPITAL LETTER U WITH MACRON	alpha	alnum	upper
+U+016c	Ŭ	LATIN CAPITAL LETTER U WITH BREVE	alpha	alnum	upper
+U+016e	Ů	LATIN CAPITAL LETTER U WITH RING ABOVE	alpha	alnum	upper
+U+0170	Ű	LATIN CAPITAL LETTER U WITH DOUBLE ACUTE	alpha	alnum	upper
+U+0172	Ų	LATIN CAPITAL LETTER U WITH OGONEK	alpha	alnum	upper
+U+0174	Ŵ	LATIN CAPITAL LETTER W WITH CIRCUMFLEX	alpha	alnum	upper
+U+0176	Ŷ	LATIN CAPITAL LETTER Y WITH CIRCUMFLEX	alpha	alnum	upper
+U+0178	Ÿ	LATIN CAPITAL LETTER Y WITH DIAERESIS	alpha	alnum	upper
+U+0179	Ź	LATIN CAPITAL LETTER Z WITH ACUTE	alpha	alnum	upper
+U+017b	Ż	LATIN CAPITAL LETTER Z WITH DOT ABOVE	alpha	alnum	upper
+U+017d	Ž	LATIN CAPITAL LETTER Z WITH CARON	alpha	alnum	upper
+U+0181	Ɓ	LATIN CAPITAL LETTER B WITH HOOK	alpha	alnum	upper
+U+0182	Ƃ	LATIN CAPITAL LETTER B WITH TOPBAR	alpha	alnum	upper
+U+0184	Ƅ	LATIN CAPITAL LETTER TONE SIX	alpha	alnum	upper
+U+0186	Ɔ	LATIN CAPITAL LETTER OPEN O	alpha	alnum	upper
+U+0187	Ƈ	LATIN CAPITAL LETTER C WITH HOOK	alpha	alnum	upper
+U+0189	Ɖ	LATIN CAPITAL LETTER AFRICAN D	alpha	alnum	upper
+U+018a	Ɗ	LATIN CAPITAL LETTER D WITH HOOK	alpha	alnum	upper
+U+018b	Ƌ	LATIN CAPITAL LETTER D WITH TOPBAR	alpha	alnum	upper
+U+018e	Ǝ	LATIN CAPITAL LETTER REVERSED E	alpha	alnum	upper
+U+018f	Ə	LATIN CAPITAL LETTER SCHWA	alpha	alnum	upper
+U+0190	Ɛ	LATIN CAPITAL LETTER OPEN E	alpha	alnum	upper
+U+0191	Ƒ	LATIN CAPITAL LETTER F WITH HOOK	alpha	alnum	upper
+U+0193	Ɠ	LATIN CAPITAL LETTER G WITH HOOK	alpha	alnum	upper
+U+0194	Ɣ	LATIN CAPITAL LETTER GAMMA	alpha	alnum	upper
+U+0196	Ɩ	LATIN CAPITAL LETTER IOTA	alpha	alnum	upper
+U+0197	Ɨ	LATIN CAPITAL LETTER I WITH STROKE	alpha	alnum	upper
+U+0198	Ƙ	LATIN CAPITAL LETTER K WITH HOOK	alpha	alnum	upper
+U+019c	Ɯ	LATIN CAPITAL LETTER TURNED M	alpha	alnum	upper
+U+019d	Ɲ	LATIN CAPITAL LETTER N WITH LEFT HOOK	alpha	alnum	upper
+U+019f	Ɵ	LATIN CAPITAL LETTER O WITH MIDDLE TILDE	alpha	alnum	upper
+U+01a0	Ơ	LATIN CAPITAL LETTER O WITH HORN	alpha	alnum	upper
+U+01a2	Ƣ	LATIN CAPITAL LETTER OI	alpha	alnum	upper
+U+01a4	Ƥ	LATIN CAPITAL LETTER P WITH HOOK	alpha	alnum	upper
+U+01a6	Ʀ	LATIN LETTER YR	alpha	alnum	upper
+U+01a7	Ƨ	LATIN CAPITAL LETTER TONE TWO	alpha	alnum	upper
+U+01a9	Ʃ	LATIN CAPITAL LETTER ESH	alpha	alnum	upper
+U+01ac	Ƭ	LATIN CAPITAL LETTER T WITH HOOK	alpha	alnum	upper
+U+01ae	Ʈ	LATIN CAPITAL LETTER T WITH RETROFLEX HOOK	alpha	alnum	upper
+U+01af	Ư	LATIN CAPITAL LETTER U WITH HORN	alpha	alnum	upper
+U+01b1	Ʊ	LATIN CAPITAL LETTER UPSILON	alpha	alnum	upper
+U+01b2	Ʋ	LATIN CAPITAL LETTER V WITH HOOK	alpha	alnum	upper
+U+01b3	Ƴ	LATIN CAPITAL LETTER Y WITH HOOK	alpha	alnum	upper
+U+01b5	Ƶ	LATIN CAPITAL LETTER Z WITH STROKE	alpha	alnum	upper
+U+01b7	Ʒ	LATIN CAPITAL LETTER EZH	alpha	alnum	upper
+U+01b8	Ƹ	LATIN CAPITAL LETTER EZH REVERSED	alpha	alnum	upper
+U+01bc	Ƽ	LATIN CAPITAL LETTER TONE FIVE	alpha	alnum	upper
+U+01c4	Ǆ	LATIN CAPITAL LETTER DZ WITH CARON	alpha	alnum	upper
+U+01c5	ǅ	LATIN CAPITAL LETTER D WITH SMALL LETTER Z WITH CARON	alpha	alnum	upper	lower
+U+01c7	Ǉ	LATIN CAPITAL LETTER LJ	alpha	alnum	upper
+U+01c8	ǈ	LATIN CAPITAL LETTER L WITH SMALL LETTER J	alpha	alnum	upper	lower
+U+01ca	Ǌ	LATIN CAPITAL LETTER NJ	alpha	alnum	upper
+U+01cb	ǋ	LATIN CAPITAL LETTER N WITH SMALL LETTER J	alpha	alnum	upper	lower
+U+01cd	Ǎ	LATIN CAPITAL LETTER A WITH CARON	alpha	alnum	upper
+U+01cf	Ǐ	LATIN CAPITAL LETTER I WITH CARON	alpha	alnum	upper
+U+01d1	Ǒ	LATIN CAPITAL LETTER O WITH CARON	alpha	alnum	upper
+U+01d3	Ǔ	LATIN CAPITAL LETTER U WITH CARON	alpha	alnum	upper
+U+01d5	Ǖ	LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON	alpha	alnum	upper
+U+01d7	Ǘ	LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE	alpha	alnum	upper
+U+01d9	Ǚ	LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON	alpha	alnum	upper
+U+01db	Ǜ	LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE	alpha	alnum	upper
+U+01de	Ǟ	LATIN CAPITAL LETTER A WITH DIAERESIS AND MACRON	alpha	alnum	upper
+U+01e0	Ǡ	LATIN CAPITAL LETTER A WITH DOT ABOVE AND MACRON	alpha	alnum	upper
+U+01e2	Ǣ	LATIN CAPITAL LETTER AE WITH MACRON	alpha	alnum	upper
+U+01e4	Ǥ	LATIN CAPITAL LETTER G WITH STROKE	alpha	alnum	upper
+U+01e6	Ǧ	LATIN CAPITAL LETTER G WITH CARON	alpha	alnum	upper
+U+01e8	Ǩ	LATIN CAPITAL LETTER K WITH CARON	alpha	alnum	upper
+U+01ea	Ǫ	LATIN CAPITAL LETTER O WITH OGONEK	alpha	alnum	upper
+U+01ec	Ǭ	LATIN CAPITAL LETTER O WITH OGONEK AND MACRON	alpha	alnum	upper
+U+01ee	Ǯ	LATIN CAPITAL LETTER EZH WITH CARON	alpha	alnum	upper
+U+01f1	Ǳ	LATIN CAPITAL LETTER DZ	alpha	alnum	upper
+U+01f2	ǲ	LATIN CAPITAL LETTER D WITH SMALL LETTER Z	alpha	alnum	upper	lower
+U+01f4	Ǵ	LATIN CAPITAL LETTER G WITH ACUTE	alpha	alnum	upper
+U+01f6	Ƕ	LATIN CAPITAL LETTER HWAIR	alpha	alnum	upper
+U+01f7	Ƿ	LATIN CAPITAL LETTER WYNN	alpha	alnum	upper
+U+01f8	Ǹ	LATIN CAPITAL LETTER N WITH GRAVE	alpha	alnum	upper
+U+01fa	Ǻ	LATIN CAPITAL LETTER A WITH RING ABOVE AND ACUTE	alpha	alnum	upper
+U+01fc	Ǽ	LATIN CAPITAL LETTER AE WITH ACUTE	alpha	alnum	upper
+U+01fe	Ǿ	LATIN CAPITAL LETTER O WITH STROKE AND ACUTE	alpha	alnum	upper
+U+0200	Ȁ	LATIN CAPITAL LETTER A WITH DOUBLE GRAVE	alpha	alnum	upper
+U+0202	Ȃ	LATIN CAPITAL LETTER A WITH INVERTED BREVE	alpha	alnum	upper
+U+0204	Ȅ	LATIN CAPITAL LETTER E WITH DOUBLE GRAVE	alpha	alnum	upper
+U+0206	Ȇ	LATIN CAPITAL LETTER E WITH INVERTED BREVE	alpha	alnum	upper
+U+0208	Ȉ	LATIN CAPITAL LETTER I WITH DOUBLE GRAVE	alpha	alnum	upper
+U+020a	Ȋ	LATIN CAPITAL LETTER I WITH INVERTED BREVE	alpha	alnum	upper
+U+020c	Ȍ	LATIN CAPITAL LETTER O WITH DOUBLE GRAVE	alpha	alnum	upper
+U+020e	Ȏ	LATIN CAPITAL LETTER O WITH INVERTED BREVE	alpha	alnum	upper
+U+0210	Ȑ	LATIN CAPITAL LETTER R WITH DOUBLE GRAVE	alpha	alnum	upper
+U+0212	Ȓ	LATIN CAPITAL LETTER R WITH INVERTED BREVE	alpha	alnum	upper
+U+0214	Ȕ	LATIN CAPITAL LETTER U WITH DOUBLE GRAVE	alpha	alnum	upper
+U+0216	Ȗ	LATIN CAPITAL LETTER U WITH INVERTED BREVE	alpha	alnum	upper
+U+0218	Ș	LATIN CAPITAL LETTER S WITH COMMA BELOW	alpha	alnum	upper
+U+021a	Ț	LATIN CAPITAL LETTER T WITH COMMA BELOW	alpha	alnum	upper
+U+021c	Ȝ	LATIN CAPITAL LETTER YOGH	alpha	alnum	upper
+U+021e	Ȟ	LATIN CAPITAL LETTER H WITH CARON	alpha	alnum	upper
+U+0220	Ƞ	LATIN CAPITAL LETTER N WITH LONG RIGHT LEG	alpha	alnum	upper
+U+0222	Ȣ	LATIN CAPITAL LETTER OU	alpha	alnum	upper
+U+0224	Ȥ	LATIN CAPITAL LETTER Z WITH HOOK	alpha	alnum	upper
+U+0226	Ȧ	LATIN CAPITAL LETTER A WITH DOT ABOVE	alpha	alnum	upper
+U+0228	Ȩ	LATIN CAPITAL LETTER E WITH CEDILLA	alpha	alnum	upper
+U+022a	Ȫ	LATIN CAPITAL LETTER O WITH DIAERESIS AND MACRON	alpha	alnum	upper
+U+022c	Ȭ	LATIN CAPITAL LETTER O WITH TILDE AND MACRON	alpha	alnum	upper
+U+022e	Ȯ	LATIN CAPITAL LETTER O WITH DOT ABOVE	alpha	alnum	upper
+U+0230	Ȱ	LATIN CAPITAL LETTER O WITH DOT ABOVE AND MACRON	alpha	alnum	upper
+U+0232	Ȳ	LATIN CAPITAL LETTER Y WITH MACRON	alpha	alnum	upper
+U+023a	Ⱥ	LATIN CAPITAL LETTER A WITH STROKE	alpha	alnum	upper
+U+023b	Ȼ	LATIN CAPITAL LETTER C WITH STROKE	alpha	alnum	upper
+U+023d	Ƚ	LATIN CAPITAL LETTER L WITH BAR	alpha	alnum	upper
+U+023e	Ⱦ	LATIN CAPITAL LETTER T WITH DIAGONAL STROKE	alpha	alnum	upper
+U+0241	Ɂ	LATIN CAPITAL LETTER GLOTTAL STOP	alpha	alnum	upper
+U+0243	Ƀ	LATIN CAPITAL LETTER B WITH STROKE	alpha	alnum	upper
+U+0244	Ʉ	LATIN CAPITAL LETTER U BAR	alpha	alnum	upper
+U+0245	Ʌ	LATIN CAPITAL LETTER TURNED V	alpha	alnum	upper
+U+0246	Ɇ	LATIN CAPITAL LETTER E WITH STROKE	alpha	alnum	upper
+U+0248	Ɉ	LATIN CAPITAL LETTER J WITH STROKE	alpha	alnum	upper
+U+024a	Ɋ	LATIN CAPITAL LETTER SMALL Q WITH HOOK TAIL	alpha	alnum	upper
+U+024c	Ɍ	LATIN CAPITAL LETTER R WITH STROKE	alpha	alnum	upper
+U+024e	Ɏ	LATIN CAPITAL LETTER Y WITH STROKE	alpha	alnum	upper
+U+0370	Ͱ	GREEK CAPITAL LETTER HETA	alpha	alnum	upper
+U+0372	Ͳ	GREEK CAPITAL LETTER ARCHAIC SAMPI	alpha	alnum	upper
+U+0376	Ͷ	GREEK CAPITAL LETTER PAMPHYLIAN DIGAMMA	alpha	alnum	upper
+U+037f	Ϳ	GREEK CAPITAL LETTER YOT	alpha	alnum	upper
+U+0386	Ά	GREEK CAPITAL LETTER ALPHA WITH TONOS	alpha	alnum	upper
+U+0388	Έ	GREEK CAPITAL LETTER EPSILON WITH TONOS	alpha	alnum	upper
+U+0389	Ή	GREEK CAPITAL LETTER ETA WITH TONOS	alpha	alnum	upper
+U+038a	Ί	GREEK CAPITAL LETTER IOTA WITH TONOS	alpha	alnum	upper
+U+038c	Ό	GREEK CAPITAL LETTER OMICRON WITH TONOS	alpha	alnum	upper
+U+038e	Ύ	GREEK CAPITAL LETTER UPSILON WITH TONOS	alpha	alnum	upper
+U+038f	Ώ	GREEK CAPITAL LETTER OMEGA WITH TONOS	alpha	alnum	upper
+U+0391	Α	GREEK CAPITAL LETTER ALPHA	alpha	alnum	upper
+U+0392	Β	GREEK CAPITAL LETTER BETA	alpha	alnum	upper
+U+0393	Γ	GREEK CAPITAL LETTER GAMMA	alpha	alnum	upper
+U+0394	Δ	GREEK CAPITAL LETTER DELTA	alpha	alnum	upper
+U+0395	Ε	GREEK CAPITAL LETTER EPSILON	alpha	alnum	upper
+U+0396	Ζ	GREEK CAPITAL LETTER ZETA	alpha	alnum	upper
+U+0397	Η	GREEK CAPITAL LETTER ETA	alpha	alnum	upper
+U+0398	Θ	GREEK CAPITAL LETTER THETA	alpha	alnum	upper
+U+0399	Ι	GREEK CAPITAL LETTER IOTA	alpha	alnum	upper
+U+039a	Κ	GREEK CAPITAL LETTER KAPPA	alpha	alnum	upper
+U+039b	Λ	GREEK CAPITAL LETTER LAMDA	alpha	alnum	upper
+U+039c	Μ	GREEK CAPITAL LETTER MU	alpha	alnum	upper
+U+039d	Ν	GREEK CAPITAL LETTER NU	alpha	alnum	upper
+U+039e	Ξ	GREEK CAPITAL LETTER XI	alpha	alnum	upper
+U+039f	Ο	GREEK CAPITAL LETTER OMICRON	alpha	alnum	upper
+U+03a0	Π	GREEK CAPITAL LETTER PI	alpha	alnum	upper
+U+03a1	Ρ	GREEK CAPITAL LETTER RHO	alpha	alnum	upper
+U+03a3	Σ	GREEK CAPITAL LETTER SIGMA	alpha	alnum	upper
+U+03a4	Τ	GREEK CAPITAL LETTER TAU	alpha	alnum	upper
+U+03a5	Υ	GREEK CAPITAL LETTER UPSILON	alpha	alnum	upper
+U+03a6	Φ	GREEK CAPITAL LETTER PHI	alpha	alnum	upper
+U+03a7	Χ	GREEK CAPITAL LETTER CHI	alpha	alnum	upper
+U+03a8	Ψ	GREEK CAPITAL LETTER PSI	alpha	alnum	upper
+U+03a9	Ω	GREEK CAPITAL LETTER OMEGA	alpha	alnum	upper
+U+03aa	Ϊ	GREEK CAPITAL LETTER IOTA WITH DIALYTIKA	alpha	alnum	upper
+U+03ab	Ϋ	GREEK CAPITAL LETTER UPSILON WITH DIALYTIKA	alpha	alnum	upper
+U+03cf	Ϗ	GREEK CAPITAL KAI SYMBOL	alpha	alnum	upper
+U+03d2	ϒ	GREEK UPSILON WITH HOOK SYMBOL	alpha	alnum	upper
+U+03d3	ϓ	GREEK UPSILON WITH ACUTE AND HOOK SYMBOL	alpha	alnum	upper
+U+03d4	ϔ	GREEK UPSILON WITH DIAERESIS AND HOOK SYMBOL	alpha	alnum	upper
+U+03d8	Ϙ	GREEK LETTER ARCHAIC KOPPA	alpha	alnum	upper
+U+03da	Ϛ	GREEK LETTER STIGMA	alpha	alnum	upper
+U+03dc	Ϝ	GREEK LETTER DIGAMMA	alpha	alnum	upper
+U+03de	Ϟ	GREEK LETTER KOPPA	alpha	alnum	upper
+U+03e0	Ϡ	GREEK LETTER SAMPI	alpha	alnum	upper
+U+03e2	Ϣ	COPTIC CAPITAL LETTER SHEI	alpha	alnum	upper
+U+03e4	Ϥ	COPTIC CAPITAL LETTER FEI	alpha	alnum	upper
+U+03e6	Ϧ	COPTIC CAPITAL LETTER KHEI	alpha	alnum	upper
+U+03e8	Ϩ	COPTIC CAPITAL LETTER HORI	alpha	alnum	upper
+U+03ea	Ϫ	COPTIC CAPITAL LETTER GANGIA	alpha	alnum	upper
+U+03ec	Ϭ	COPTIC CAPITAL LETTER SHIMA	alpha	alnum	upper
+U+03ee	Ϯ	COPTIC CAPITAL LETTER DEI	alpha	alnum	upper
+U+03f4	ϴ	GREEK CAPITAL THETA SYMBOL	alpha	alnum	upper
+U+03f7	Ϸ	GREEK CAPITAL LETTER SHO	alpha	alnum	upper
+U+03f9	Ϲ	GREEK CAPITAL LUNATE SIGMA SYMBOL	alpha	alnum	upper
+U+03fa	Ϻ	GREEK CAPITAL LETTER SAN	alpha	alnum	upper
+U+03fd	Ͻ	GREEK CAPITAL REVERSED LUNATE SIGMA SYMBOL	alpha	alnum	upper
+U+03fe	Ͼ	GREEK CAPITAL DOTTED LUNATE SIGMA SYMBOL	alpha	alnum	upper
+U+03ff	Ͽ	GREEK CAPITAL REVERSED DOTTED LUNATE SIGMA SYMBOL	alpha	alnum	upper
+U+0400	Ѐ	CYRILLIC CAPITAL LETTER IE WITH GRAVE	alpha	alnum	upper
+U+0401	Ё	CYRILLIC CAPITAL LETTER IO	alpha	alnum	upper
+U+0402	Ђ	CYRILLIC CAPITAL LETTER DJE	alpha	alnum	upper
+U+0403	Ѓ	CYRILLIC CAPITAL LETTER GJE	alpha	alnum	upper
+U+0404	Є	CYRILLIC CAPITAL LETTER UKRAINIAN IE	alpha	alnum	upper
+U+0405	Ѕ	CYRILLIC CAPITAL LETTER DZE	alpha	alnum	upper
+U+0406	І	CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I	alpha	alnum	upper
+U+0407	Ї	CYRILLIC CAPITAL LETTER YI	alpha	alnum	upper
+U+0408	Ј	CYRILLIC CAPITAL LETTER JE	alpha	alnum	upper
+U+0409	Љ	CYRILLIC CAPITAL LETTER LJE	alpha	alnum	upper
+U+040a	Њ	CYRILLIC CAPITAL LETTER NJE	alpha	alnum	upper
+U+040b	Ћ	CYRILLIC CAPITAL LETTER TSHE	alpha	alnum	upper
+U+040c	Ќ	CYRILLIC CAPITAL LETTER KJE	alpha	alnum	upper
+U+040d	Ѝ	CYRILLIC CAPITAL LETTER I WITH GRAVE	alpha	alnum	upper
+U+040e	Ў	CYRILLIC CAPITAL LETTER SHORT U	alpha	alnum	upper
+U+040f	Џ	CYRILLIC CAPITAL LETTER DZHE	alpha	alnum	upper
+U+0410	А	CYRILLIC CAPITAL LETTER A	alpha	alnum	upper
+U+0411	Б	CYRILLIC CAPITAL LETTER BE	alpha	alnum	upper
+U+0412	В	CYRILLIC CAPITAL LETTER VE	alpha	alnum	upper
+U+0413	Г	CYRILLIC CAPITAL LETTER GHE	alpha	alnum	upper
+U+0414	Д	CYRILLIC CAPITAL LETTER DE	alpha	alnum	upper
+U+0415	Е	CYRILLIC CAPITAL LETTER IE	alpha	alnum	upper
+U+0416	Ж	CYRILLIC CAPITAL LETTER ZHE	alpha	alnum	upper
+U+0417	З	CYRILLIC CAPITAL LETTER ZE	alpha	alnum	upper
+U+0418	И	CYRILLIC CAPITAL LETTER I	alpha	alnum	upper
+U+0419	Й	CYRILLIC CAPITAL LETTER SHORT I	alpha	alnum	upper
+U+041a	К	CYRILLIC CAPITAL LETTER KA	alpha	alnum	upper
+U+041b	Л	CYRILLIC CAPITAL LETTER EL	alpha	alnum	upper
+U+041c	М	CYRILLIC CAPITAL LETTER EM	alpha	alnum	upper
+U+041d	Н	CYRILLIC CAPITAL LETTER EN	alpha	alnum	upper
+U+041e	О	CYRILLIC CAPITAL LETTER O	alpha	alnum	upper
+U+041f	П	CYRILLIC CAPITAL LETTER PE	alpha	alnum	upper
+U+0420	Р	CYRILLIC CAPITAL LETTER ER	alpha	alnum	upper
+U+0421	С	CYRILLIC CAPITAL LETTER ES	alpha	alnum	upper
+U+0422	Т	CYRILLIC CAPITAL LETTER TE	alpha	alnum	upper
+U+0423	У	CYRILLIC CAPITAL LETTER U	alpha	alnum	upper
+U+0424	Ф	CYRILLIC CAPITAL LETTER EF	alpha	alnum	upper
+U+0425	Х	CYRILLIC CAPITAL LETTER HA	alpha	alnum	upper
+U+0426	Ц	CYRILLIC CAPITAL LETTER TSE	alpha	alnum	upper
+U+0427	Ч	CYRILLIC CAPITAL LETTER CHE	alpha	alnum	upper
+U+0428	Ш	CYRILLIC CAPITAL LETTER SHA	alpha	alnum	upper
+U+0429	Щ	CYRILLIC CAPITAL LETTER SHCHA	alpha	alnum	upper
+U+042a	Ъ	CYRILLIC CAPITAL LETTER HARD SIGN	alpha	alnum	upper
+U+042b	Ы	CYRILLIC CAPITAL LETTER YERU	alpha	alnum	upper
+U+042c	Ь	CYRILLIC CAPITAL LETTER SOFT SIGN	alpha	alnum	upper
+U+042d	Э	CYRILLIC CAPITAL LETTER E	alpha	alnum	upper
+U+042e	Ю	CYRILLIC CAPITAL LETTER YU	alpha	alnum	upper
+U+042f	Я	CYRILLIC CAPITAL LETTER YA	alpha	alnum	upper
+U+0460	Ѡ	CYRILLIC CAPITAL LETTER OMEGA	alpha	alnum	upper
+U+0462	Ѣ	CYRILLIC CAPITAL LETTER YAT	alpha	alnum	upper
+U+0464	Ѥ	CYRILLIC CAPITAL LETTER IOTIFIED E	alpha	alnum	upper
+U+0466	Ѧ	CYRILLIC CAPITAL LETTER LITTLE YUS	alpha	alnum	upper
+U+0468	Ѩ	CYRILLIC CAPITAL LETTER IOTIFIED LITTLE YUS	alpha	alnum	upper
+U+046a	Ѫ	CYRILLIC CAPITAL LETTER BIG YUS	alpha	alnum	upper
+U+046c	Ѭ	CYRILLIC CAPITAL LETTER IOTIFIED BIG YUS	alpha	alnum	upper
+U+046e	Ѯ	CYRILLIC CAPITAL LETTER KSI	alpha	alnum	upper
+U+0470	Ѱ	CYRILLIC CAPITAL LETTER PSI	alpha	alnum	upper
+U+0472	Ѳ	CYRILLIC CAPITAL LETTER FITA	alpha	alnum	upper
+U+0474	Ѵ	CYRILLIC CAPITAL LETTER IZHITSA	alpha	alnum	upper
+U+0476	Ѷ	CYRILLIC CAPITAL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT	alpha	alnum	upper
+U+0478	Ѹ	CYRILLIC CAPITAL LETTER UK	alpha	alnum	upper
+U+047a	Ѻ	CYRILLIC CAPITAL LETTER ROUND OMEGA	alpha	alnum	upper
+U+047c	Ѽ	CYRILLIC CAPITAL LETTER OMEGA WITH TITLO	alpha	alnum	upper
+U+047e	Ѿ	CYRILLIC CAPITAL LETTER OT	alpha	alnum	upper
+U+0480	Ҁ	CYRILLIC CAPITAL LETTER KOPPA	alpha	alnum	upper
+U+048a	Ҋ	CYRILLIC CAPITAL LETTER SHORT I WITH TAIL	alpha	alnum	upper
+U+048c	Ҍ	CYRILLIC CAPITAL LETTER SEMISOFT SIGN	alpha	alnum	upper
+U+048e	Ҏ	CYRILLIC CAPITAL LETTER ER WITH TICK	alpha	alnum	upper
+U+0490	Ґ	CYRILLIC CAPITAL LETTER GHE WITH UPTURN	alpha	alnum	upper
+U+0492	Ғ	CYRILLIC CAPITAL LETTER GHE WITH STROKE	alpha	alnum	upper
+U+0494	Ҕ	CYRILLIC CAPITAL LETTER GHE WITH MIDDLE HOOK	alpha	alnum	upper
+U+0496	Җ	CYRILLIC CAPITAL LETTER ZHE WITH DESCENDER	alpha	alnum	upper
+U+0498	Ҙ	CYRILLIC CAPITAL LETTER ZE WITH DESCENDER	alpha	alnum	upper
+U+049a	Қ	CYRILLIC CAPITAL LETTER KA WITH DESCENDER	alpha	alnum	upper
+U+049c	Ҝ	CYRILLIC CAPITAL LETTER KA WITH VERTICAL STROKE	alpha	alnum	upper
+U+049e	Ҟ	CYRILLIC CAPITAL LETTER KA WITH STROKE	alpha	alnum	upper
+U+04a0	Ҡ	CYRILLIC CAPITAL LETTER BASHKIR KA	alpha	alnum	upper
+U+04a2	Ң	CYRILLIC CAPITAL LETTER EN WITH DESCENDER	alpha	alnum	upper
+U+04a4	Ҥ	CYRILLIC CAPITAL LIGATURE EN GHE	alpha	alnum	upper
+U+04a6	Ҧ	CYRILLIC CAPITAL LETTER PE WITH MIDDLE HOOK	alpha	alnum	upper
+U+04a8	Ҩ	CYRILLIC CAPITAL LETTER ABKHASIAN HA	alpha	alnum	upper
+U+04aa	Ҫ	CYRILLIC CAPITAL LETTER ES WITH DESCENDER	alpha	alnum	upper
+U+04ac	Ҭ	CYRILLIC CAPITAL LETTER TE WITH DESCENDER	alpha	alnum	upper
+U+04ae	Ү	CYRILLIC CAPITAL LETTER STRAIGHT U	alpha	alnum	upper
+U+04b0	Ұ	CYRILLIC CAPITAL LETTER STRAIGHT U WITH STROKE	alpha	alnum	upper
+U+04b2	Ҳ	CYRILLIC CAPITAL LETTER HA WITH DESCENDER	alpha	alnum	upper
+U+04b4	Ҵ	CYRILLIC CAPITAL LIGATURE TE TSE	alpha	alnum	upper
+U+04b6	Ҷ	CYRILLIC CAPITAL LETTER CHE WITH DESCENDER	alpha	alnum	upper
+U+04b8	Ҹ	CYRILLIC CAPITAL LETTER CHE WITH VERTICAL STROKE	alpha	alnum	upper
+U+04ba	Һ	CYRILLIC CAPITAL LETTER SHHA	alpha	alnum	upper
+U+04bc	Ҽ	CYRILLIC CAPITAL LETTER ABKHASIAN CHE	alpha	alnum	upper
+U+04be	Ҿ	CYRILLIC CAPITAL LETTER ABKHASIAN CHE WITH DESCENDER	alpha	alnum	upper
+U+04c0	Ӏ	CYRILLIC LETTER PALOCHKA	alpha	alnum	upper
+U+04c1	Ӂ	CYRILLIC CAPITAL LETTER ZHE WITH BREVE	alpha	alnum	upper
+U+04c3	Ӄ	CYRILLIC CAPITAL LETTER KA WITH HOOK	alpha	alnum	upper
+U+04c5	Ӆ	CYRILLIC CAPITAL LETTER EL WITH TAIL	alpha	alnum	upper
+U+04c7	Ӈ	CYRILLIC CAPITAL LETTER EN WITH HOOK	alpha	alnum	upper
+U+04c9	Ӊ	CYRILLIC CAPITAL LETTER EN WITH TAIL	alpha	alnum	upper
+U+04cb	Ӌ	CYRILLIC CAPITAL LETTER KHAKASSIAN CHE	alpha	alnum	upper
+U+04cd	Ӎ	CYRILLIC CAPITAL LETTER EM WITH TAIL	alpha	alnum	upper
+U+04d0	Ӑ	CYRILLIC CAPITAL LETTER A WITH BREVE	alpha	alnum	upper
+U+04d2	Ӓ	CYRILLIC CAPITAL LETTER A WITH DIAERESIS	alpha	alnum	upper
+U+04d4	Ӕ	CYRILLIC CAPITAL LIGATURE A IE	alpha	alnum	upper
+U+04d6	Ӗ	CYRILLIC CAPITAL LETTER IE WITH BREVE	alpha	alnum	upper
+U+04d8	Ә	CYRILLIC CAPITAL LETTER SCHWA	alpha	alnum	upper
+U+04da	Ӛ	CYRILLIC CAPITAL LETTER SCHWA WITH DIAERESIS	alpha	alnum	upper
+U+04dc	Ӝ	CYRILLIC CAPITAL LETTER ZHE WITH DIAERESIS	alpha	alnum	upper
+U+04de	Ӟ	CYRILLIC CAPITAL LETTER ZE WITH DIAERESIS	alpha	alnum	upper
+U+04e0	Ӡ	CYRILLIC CAPITAL LETTER ABKHASIAN DZE	alpha	alnum	upper
+U+04e2	Ӣ	CYRILLIC CAPITAL LETTER I WITH MACRON	alpha	alnum	upper
+U+04e4	Ӥ	CYRILLIC CAPITAL LETTER I WITH DIAERESIS	alpha	alnum	upper
+U+04e6	Ӧ	CYRILLIC CAPITAL LETTER O WITH DIAERESIS	alpha	alnum	upper
+U+04e8	Ө	CYRILLIC CAPITAL LETTER BARRED O	alpha	alnum	upper
+U+04ea	Ӫ	CYRILLIC CAPITAL LETTER BARRED O WITH DIAERESIS	alpha	alnum	upper
+U+04ec	Ӭ	CYRILLIC CAPITAL LETTER E WITH DIAERESIS	alpha	alnum	upper
+U+04ee	Ӯ	CYRILLIC CAPITAL LETTER U WITH MACRON	alpha	alnum	upper
+U+04f0	Ӱ	CYRILLIC CAPITAL LETTER U WITH DIAERESIS	alpha	alnum	upper
+U+04f2	Ӳ	CYRILLIC CAPITAL LETTER U WITH DOUBLE ACUTE	alpha	alnum	upper
+U+04f4	Ӵ	CYRILLIC CAPITAL LETTER CHE WITH DIAERESIS	alpha	alnum	upper
+U+04f6	Ӷ	CYRILLIC CAPITAL LETTER GHE WITH DESCENDER	alpha	alnum	upper
+U+04f8	Ӹ	CYRILLIC CAPITAL LETTER YERU WITH DIAERESIS	alpha	alnum	upper
+U+04fa	Ӻ	CYRILLIC CAPITAL LETTER GHE WITH STROKE AND HOOK	alpha	alnum	upper
+U+04fc	Ӽ	CYRILLIC CAPITAL LETTER HA WITH HOOK	alpha	alnum	upper
+U+04fe	Ӿ	CYRILLIC CAPITAL LETTER HA WITH STROKE	alpha	alnum	upper
+U+0500	Ԁ	CYRILLIC CAPITAL LETTER KOMI DE	alpha	alnum	upper
+U+0502	Ԃ	CYRILLIC CAPITAL LETTER KOMI DJE	alpha	alnum	upper
+U+0504	Ԅ	CYRILLIC CAPITAL LETTER KOMI ZJE	alpha	alnum	upper
+U+0506	Ԇ	CYRILLIC CAPITAL LETTER KOMI DZJE	alpha	alnum	upper
+U+0508	Ԉ	CYRILLIC CAPITAL LETTER KOMI LJE	alpha	alnum	upper
+U+050a	Ԋ	CYRILLIC CAPITAL LETTER KOMI NJE	alpha	alnum	upper
+U+050c	Ԍ	CYRILLIC CAPITAL LETTER KOMI SJE	alpha	alnum	upper
+U+050e	Ԏ	CYRILLIC CAPITAL LETTER KOMI TJE	alpha	alnum	upper
+U+0510	Ԑ	CYRILLIC CAPITAL LETTER REVERSED ZE	alpha	alnum	upper
+U+0512	Ԓ	CYRILLIC CAPITAL LETTER EL WITH HOOK	alpha	alnum	upper
+U+0514	Ԕ	CYRILLIC CAPITAL LETTER LHA	alpha	alnum	upper
+U+0516	Ԗ	CYRILLIC CAPITAL LETTER RHA	alpha	alnum	upper
+U+0518	Ԙ	CYRILLIC CAPITAL LETTER YAE	alpha	alnum	upper
+U+051a	Ԛ	CYRILLIC CAPITAL LETTER QA	alpha	alnum	upper
+U+051c	Ԝ	CYRILLIC CAPITAL LETTER WE	alpha	alnum	upper
+U+051e	Ԟ	CYRILLIC CAPITAL LETTER ALEUT KA	alpha	alnum	upper
+U+0520	Ԡ	CYRILLIC CAPITAL LETTER EL WITH MIDDLE HOOK	alpha	alnum	upper
+U+0522	Ԣ	CYRILLIC CAPITAL LETTER EN WITH MIDDLE HOOK	alpha	alnum	upper
+U+0524	Ԥ	CYRILLIC CAPITAL LETTER PE WITH DESCENDER	alpha	alnum	upper
+U+0526	Ԧ	CYRILLIC CAPITAL LETTER SHHA WITH DESCENDER	alpha	alnum	upper
+U+0528	Ԩ	CYRILLIC CAPITAL LETTER EN WITH LEFT HOOK	alpha	alnum	upper
+U+052a	Ԫ	CYRILLIC CAPITAL LETTER DZZHE	alpha	alnum	upper
+U+052c	Ԭ	CYRILLIC CAPITAL LETTER DCHE	alpha	alnum	upper
+U+052e	Ԯ	CYRILLIC CAPITAL LETTER EL WITH DESCENDER	alpha	alnum	upper
+U+0531	Ա	ARMENIAN CAPITAL LETTER AYB	alpha	alnum	upper
+U+0532	Բ	ARMENIAN CAPITAL LETTER BEN	alpha	alnum	upper
+U+0533	Գ	ARMENIAN CAPITAL LETTER GIM	alpha	alnum	upper
+U+0534	Դ	ARMENIAN CAPITAL LETTER DA	alpha	alnum	upper
+U+0535	Ե	ARMENIAN CAPITAL LETTER ECH	alpha	alnum	upper
+U+0536	Զ	ARMENIAN CAPITAL LETTER ZA	alpha	alnum	upper
+U+0537	Է	ARMENIAN CAPITAL LETTER EH	alpha	alnum	upper
+U+0538	Ը	ARMENIAN CAPITAL LETTER ET	alpha	alnum	upper
+U+0539	Թ	ARMENIAN CAPITAL LETTER TO	alpha	alnum	upper
+U+053a	Ժ	ARMENIAN CAPITAL LETTER ZHE	alpha	alnum	upper
+U+053b	Ի	ARMENIAN CAPITAL LETTER INI	alpha	alnum	upper
+U+053c	Լ	ARMENIAN CAPITAL LETTER LIWN	alpha	alnum	upper
+U+053d	Խ	ARMENIAN CAPITAL LETTER XEH	alpha	alnum	upper
+U+053e	Ծ	ARMENIAN CAPITAL LETTER CA	alpha	alnum	upper
+U+053f	Կ	ARMENIAN CAPITAL LETTER KEN	alpha	alnum	upper
+U+0540	Հ	ARMENIAN CAPITAL LETTER HO	alpha	alnum	upper
+U+0541	Ձ	ARMENIAN CAPITAL LETTER JA	alpha	alnum	upper
+U+0542	Ղ	ARMENIAN CAPITAL LETTER GHAD	alpha	alnum	upper
+U+0543	Ճ	ARMENIAN CAPITAL LETTER CHEH	alpha	alnum	upper
+U+0544	Մ	ARMENIAN CAPITAL LETTER MEN	alpha	alnum	upper
+U+0545	Յ	ARMENIAN CAPITAL LETTER YI	alpha	alnum	upper
+U+0546	Ն	ARMENIAN CAPITAL LETTER NOW	alpha	alnum	upper
+U+0547	Շ	ARMENIAN CAPITAL LETTER SHA	alpha	alnum	upper
+U+0548	Ո	ARMENIAN CAPITAL LETTER VO	alpha	alnum	upper
+U+0549	Չ	ARMENIAN CAPITAL LETTER CHA	alpha	alnum	upper
+U+054a	Պ	ARMENIAN CAPITAL LETTER PEH	alpha	alnum	upper
+U+054b	Ջ	ARMENIAN CAPITAL LETTER JHEH	alpha	alnum	upper
+U+054c	Ռ	ARMENIAN CAPITAL LETTER RA	alpha	alnum	upper
+U+054d	Ս	ARMENIAN CAPITAL LETTER SEH	alpha	alnum	upper
+U+054e	Վ	ARMENIAN CAPITAL LETTER VEW	alpha	alnum	upper
+U+054f	Տ	ARMENIAN CAPITAL LETTER TIWN	alpha	alnum	upper
+U+0550	Ր	ARMENIAN CAPITAL LETTER REH	alpha	alnum	upper
+U+0551	Ց	ARMENIAN CAPITAL LETTER CO	alpha	alnum	upper
+U+0552	Ւ	ARMENIAN CAPITAL LETTER YIWN	alpha	alnum	upper
+U+0553	Փ	ARMENIAN CAPITAL LETTER PIWR	alpha	alnum	upper
+U+0554	Ք	ARMENIAN CAPITAL LETTER KEH	alpha	alnum	upper
+U+0555	Օ	ARMENIAN CAPITAL LETTER OH	alpha	alnum	upper
+U+0556	Ֆ	ARMENIAN CAPITAL LETTER FEH	alpha	alnum	upper
+U+10a0	Ⴀ	GEORGIAN CAPITAL LETTER AN	alpha	alnum	upper
+U+10a1	Ⴁ	GEORGIAN CAPITAL LETTER BAN	alpha	alnum	upper
+U+10a2	Ⴂ	GEORGIAN CAPITAL LETTER GAN	alpha	alnum	upper
+U+10a3	Ⴃ	GEORGIAN CAPITAL LETTER DON	alpha	alnum	upper
+U+10a4	Ⴄ	GEORGIAN CAPITAL LETTER EN	alpha	alnum	upper
+U+10a5	Ⴅ	GEORGIAN CAPITAL LETTER VIN	alpha	alnum	upper
+U+10a6	Ⴆ	GEORGIAN CAPITAL LETTER ZEN	alpha	alnum	upper
+U+10a7	Ⴇ	GEORGIAN CAPITAL LETTER TAN	alpha	alnum	upper
+U+10a8	Ⴈ	GEORGIAN CAPITAL LETTER IN	alpha	alnum	upper
+U+10a9	Ⴉ	GEORGIAN CAPITAL LETTER KAN	alpha	alnum	upper
+U+10aa	Ⴊ	GEORGIAN CAPITAL LETTER LAS	alpha	alnum	upper
+U+10ab	Ⴋ	GEORGIAN CAPITAL LETTER MAN	alpha	alnum	upper
+U+10ac	Ⴌ	GEORGIAN CAPITAL LETTER NAR	alpha	alnum	upper
+U+10ad	Ⴍ	GEORGIAN CAPITAL LETTER ON	alpha	alnum	upper
+U+10ae	Ⴎ	GEORGIAN CAPITAL LETTER PAR	alpha	alnum	upper
+U+10af	Ⴏ	GEORGIAN CAPITAL LETTER ZHAR	alpha	alnum	upper
+U+10b0	Ⴐ	GEORGIAN CAPITAL LETTER RAE	alpha	alnum	upper
+U+10b1	Ⴑ	GEORGIAN CAPITAL LETTER SAN	alpha	alnum	upper
+U+10b2	Ⴒ	GEORGIAN CAPITAL LETTER TAR	alpha	alnum	upper
+U+10b3	Ⴓ	GEORGIAN CAPITAL LETTER UN	alpha	alnum	upper
+U+10b4	Ⴔ	GEORGIAN CAPITAL LETTER PHAR	alpha	alnum	upper
+U+10b5	Ⴕ	GEORGIAN CAPITAL LETTER KHAR	alpha	alnum	upper
+U+10b6	Ⴖ	GEORGIAN CAPITAL LETTER GHAN	alpha	alnum	upper
+U+10b7	Ⴗ	GEORGIAN CAPITAL LETTER QAR	alpha	alnum	upper
+U+10b8	Ⴘ	GEORGIAN CAPITAL LETTER SHIN	alpha	alnum	upper
+U+10b9	Ⴙ	GEORGIAN CAPITAL LETTER CHIN	alpha	alnum	upper
+U+10ba	Ⴚ	GEORGIAN CAPITAL LETTER CAN	alpha	alnum	upper
+U+10bb	Ⴛ	GEORGIAN CAPITAL LETTER JIL	alpha	alnum	upper
+U+10bc	Ⴜ	GEORGIAN CAPITAL LETTER CIL	alpha	alnum	upper
+U+10bd	Ⴝ	GEORGIAN CAPITAL LETTER CHAR	alpha	alnum	upper
+U+10be	Ⴞ	GEORGIAN CAPITAL LETTER XAN	alpha	alnum	upper
+U+10bf	Ⴟ	GEORGIAN CAPITAL LETTER JHAN	alpha	alnum	upper
+U+10c0	Ⴠ	GEORGIAN CAPITAL LETTER HAE	alpha	alnum	upper
+U+10c1	Ⴡ	GEORGIAN CAPITAL LETTER HE	alpha	alnum	upper
+U+10c2	Ⴢ	GEORGIAN CAPITAL LETTER HIE	alpha	alnum	upper
+U+10c3	Ⴣ	GEORGIAN CAPITAL LETTER WE	alpha	alnum	upper
+U+10c4	Ⴤ	GEORGIAN CAPITAL LETTER HAR	alpha	alnum	upper
+U+10c5	Ⴥ	GEORGIAN CAPITAL LETTER HOE	alpha	alnum	upper
+U+10c7	Ⴧ	GEORGIAN CAPITAL LETTER YN	alpha	alnum	upper
+U+10cd	Ⴭ	GEORGIAN CAPITAL LETTER AEN	alpha	alnum	upper
+U+13a0	Ꭰ	CHEROKEE LETTER A	alpha	alnum	upper
+U+13a1	Ꭱ	CHEROKEE LETTER E	alpha	alnum	upper
+U+13a2	Ꭲ	CHEROKEE LETTER I	alpha	alnum	upper
+U+13a3	Ꭳ	CHEROKEE LETTER O	alpha	alnum	upper
+U+13a4	Ꭴ	CHEROKEE LETTER U	alpha	alnum	upper
+U+13a5	Ꭵ	CHEROKEE LETTER V	alpha	alnum	upper
+U+13a6	Ꭶ	CHEROKEE LETTER GA	alpha	alnum	upper
+U+13a7	Ꭷ	CHEROKEE LETTER KA	alpha	alnum	upper
+U+13a8	Ꭸ	CHEROKEE LETTER GE	alpha	alnum	upper
+U+13a9	Ꭹ	CHEROKEE LETTER GI	alpha	alnum	upper
+U+13aa	Ꭺ	CHEROKEE LETTER GO	alpha	alnum	upper
+U+13ab	Ꭻ	CHEROKEE LETTER GU	alpha	alnum	upper
+U+13ac	Ꭼ	CHEROKEE LETTER GV	alpha	alnum	upper
+U+13ad	Ꭽ	CHEROKEE LETTER HA	alpha	alnum	upper
+U+13ae	Ꭾ	CHEROKEE LETTER HE	alpha	alnum	upper
+U+13af	Ꭿ	CHEROKEE LETTER HI	alpha	alnum	upper
+U+13b0	Ꮀ	CHEROKEE LETTER HO	alpha	alnum	upper
+U+13b1	Ꮁ	CHEROKEE LETTER HU	alpha	alnum	upper
+U+13b2	Ꮂ	CHEROKEE LETTER HV	alpha	alnum	upper
+U+13b3	Ꮃ	CHEROKEE LETTER LA	alpha	alnum	upper
+U+13b4	Ꮄ	CHEROKEE LETTER LE	alpha	alnum	upper
+U+13b5	Ꮅ	CHEROKEE LETTER LI	alpha	alnum	upper
+U+13b6	Ꮆ	CHEROKEE LETTER LO	alpha	alnum	upper
+U+13b7	Ꮇ	CHEROKEE LETTER LU	alpha	alnum	upper
+U+13b8	Ꮈ	CHEROKEE LETTER LV	alpha	alnum	upper
+U+13b9	Ꮉ	CHEROKEE LETTER MA	alpha	alnum	upper
+U+13ba	Ꮊ	CHEROKEE LETTER ME	alpha	alnum	upper
+U+13bb	Ꮋ	CHEROKEE LETTER MI	alpha	alnum	upper
+U+13bc	Ꮌ	CHEROKEE LETTER MO	alpha	alnum	upper
+U+13bd	Ꮍ	CHEROKEE LETTER MU	alpha	alnum	upper
+U+13be	Ꮎ	CHEROKEE LETTER NA	alpha	alnum	upper
+U+13bf	Ꮏ	CHEROKEE LETTER HNA	alpha	alnum	upper
+U+13c0	Ꮐ	CHEROKEE LETTER NAH	alpha	alnum	upper
+U+13c1	Ꮑ	CHEROKEE LETTER NE	alpha	alnum	upper
+U+13c2	Ꮒ	CHEROKEE LETTER NI	alpha	alnum	upper
+U+13c3	Ꮓ	CHEROKEE LETTER NO	alpha	alnum	upper
+U+13c4	Ꮔ	CHEROKEE LETTER NU	alpha	alnum	upper
+U+13c5	Ꮕ	CHEROKEE LETTER NV	alpha	alnum	upper
+U+13c6	Ꮖ	CHEROKEE LETTER QUA	alpha	alnum	upper
+U+13c7	Ꮗ	CHEROKEE LETTER QUE	alpha	alnum	upper
+U+13c8	Ꮘ	CHEROKEE LETTER QUI	alpha	alnum	upper
+U+13c9	Ꮙ	CHEROKEE LETTER QUO	alpha	alnum	upper
+U+13ca	Ꮚ	CHEROKEE LETTER QUU	alpha	alnum	upper
+U+13cb	Ꮛ	CHEROKEE LETTER QUV	alpha	alnum	upper
+U+13cc	Ꮜ	CHEROKEE LETTER SA	alpha	alnum	upper
+U+13cd	Ꮝ	CHEROKEE LETTER S	alpha	alnum	upper
+U+13ce	Ꮞ	CHEROKEE LETTER SE	alpha	alnum	upper
+U+13cf	Ꮟ	CHEROKEE LETTER SI	alpha	alnum	upper
+U+13d0	Ꮠ	CHEROKEE LETTER SO	alpha	alnum	upper
+U+13d1	Ꮡ	CHEROKEE LETTER SU	alpha	alnum	upper
+U+13d2	Ꮢ	CHEROKEE LETTER SV	alpha	alnum	upper
+U+13d3	Ꮣ	CHEROKEE LETTER DA	alpha	alnum	upper
+U+13d4	Ꮤ	CHEROKEE LETTER TA	alpha	alnum	upper
+U+13d5	Ꮥ	CHEROKEE LETTER DE	alpha	alnum	upper
+U+13d6	Ꮦ	CHEROKEE LETTER TE	alpha	alnum	upper
+U+13d7	Ꮧ	CHEROKEE LETTER DI	alpha	alnum	upper
+U+13d8	Ꮨ	CHEROKEE LETTER TI	alpha	alnum	upper
+U+13d9	Ꮩ	CHEROKEE LETTER DO	alpha	alnum	upper
+U+13da	Ꮪ	CHEROKEE LETTER DU	alpha	alnum	upper
+U+13db	Ꮫ	CHEROKEE LETTER DV	alpha	alnum	upper
+U+13dc	Ꮬ	CHEROKEE LETTER DLA	alpha	alnum	upper
+U+13dd	Ꮭ	CHEROKEE LETTER TLA	alpha	alnum	upper
+U+13de	Ꮮ	CHEROKEE LETTER TLE	alpha	alnum	upper
+U+13df	Ꮯ	CHEROKEE LETTER TLI	alpha	alnum	upper
+U+13e0	Ꮰ	CHEROKEE LETTER TLO	alpha	alnum	upper
+U+13e1	Ꮱ	CHEROKEE LETTER TLU	alpha	alnum	upper
+U+13e2	Ꮲ	CHEROKEE LETTER TLV	alpha	alnum	upper
+U+13e3	Ꮳ	CHEROKEE LETTER TSA	alpha	alnum	upper
+U+13e4	Ꮴ	CHEROKEE LETTER TSE	alpha	alnum	upper
+U+13e5	Ꮵ	CHEROKEE LETTER TSI	alpha	alnum	upper
+U+13e6	Ꮶ	CHEROKEE LETTER TSO	alpha	alnum	upper
+U+13e7	Ꮷ	CHEROKEE LETTER TSU	alpha	alnum	upper
+U+13e8	Ꮸ	CHEROKEE LETTER TSV	alpha	alnum	upper
+U+13e9	Ꮹ	CHEROKEE LETTER WA	alpha	alnum	upper
+U+13ea	Ꮺ	CHEROKEE LETTER WE	alpha	alnum	upper
+U+13eb	Ꮻ	CHEROKEE LETTER WI	alpha	alnum	upper
+U+13ec	Ꮼ	CHEROKEE LETTER WO	alpha	alnum	upper
+U+13ed	Ꮽ	CHEROKEE LETTER WU	alpha	alnum	upper
+U+13ee	Ꮾ	CHEROKEE LETTER WV	alpha	alnum	upper
+U+13ef	Ꮿ	CHEROKEE LETTER YA	alpha	alnum	upper
+U+13f0	Ᏸ	CHEROKEE LETTER YE	alpha	alnum	upper
+U+13f1	Ᏹ	CHEROKEE LETTER YI	alpha	alnum	upper
+U+13f2	Ᏺ	CHEROKEE LETTER YO	alpha	alnum	upper
+U+13f3	Ᏻ	CHEROKEE LETTER YU	alpha	alnum	upper
+U+13f4	Ᏼ	CHEROKEE LETTER YV	alpha	alnum	upper
+U+13f5	Ᏽ	CHEROKEE LETTER MV	alpha	alnum	upper
+U+1c90	Ა	GEORGIAN MTAVRULI CAPITAL LETTER AN	alpha	alnum	upper
+U+1c91	Ბ	GEORGIAN MTAVRULI CAPITAL LETTER BAN	alpha	alnum	upper
+U+1c92	Გ	GEORGIAN MTAVRULI CAPITAL LETTER GAN	alpha	alnum	upper
+U+1c93	Დ	GEORGIAN MTAVRULI CAPITAL LETTER DON	alpha	alnum	upper
+U+1c94	Ე	GEORGIAN MTAVRULI CAPITAL LETTER EN	alpha	alnum	upper
+U+1c95	Ვ	GEORGIAN MTAVRULI CAPITAL LETTER VIN	alpha	alnum	upper
+U+1c96	Ზ	GEORGIAN MTAVRULI CAPITAL LETTER ZEN	alpha	alnum	upper
+U+1c97	Თ	GEORGIAN MTAVRULI CAPITAL LETTER TAN	alpha	alnum	upper
+U+1c98	Ი	GEORGIAN MTAVRULI CAPITAL LETTER IN	alpha	alnum	upper
+U+1c99	Კ	GEORGIAN MTAVRULI CAPITAL LETTER KAN	alpha	alnum	upper
+U+1c9a	Ლ	GEORGIAN MTAVRULI CAPITAL LETTER LAS	alpha	alnum	upper
+U+1c9b	Მ	GEORGIAN MTAVRULI CAPITAL LETTER MAN	alpha	alnum	upper
+U+1c9c	Ნ	GEORGIAN MTAVRULI CAPITAL LETTER NAR	alpha	alnum	upper
+U+1c9d	Ო	GEORGIAN MTAVRULI CAPITAL LETTER ON	alpha	alnum	upper
+U+1c9e	Პ	GEORGIAN MTAVRULI CAPITAL LETTER PAR	alpha	alnum	upper
+U+1c9f	Ჟ	GEORGIAN MTAVRULI CAPITAL LETTER ZHAR	alpha	alnum	upper
+U+1ca0	Რ	GEORGIAN MTAVRULI CAPITAL LETTER RAE	alpha	alnum	upper
+U+1ca1	Ს	GEORGIAN MTAVRULI CAPITAL LETTER SAN	alpha	alnum	upper
+U+1ca2	Ტ	GEORGIAN MTAVRULI CAPITAL LETTER TAR	alpha	alnum	upper
+U+1ca3	Უ	GEORGIAN MTAVRULI CAPITAL LETTER UN	alpha	alnum	upper
+U+1ca4	Ფ	GEORGIAN MTAVRULI CAPITAL LETTER PHAR	alpha	alnum	upper
+U+1ca5	Ქ	GEORGIAN MTAVRULI CAPITAL LETTER KHAR	alpha	alnum	upper
+U+1ca6	Ღ	GEORGIAN MTAVRULI CAPITAL LETTER GHAN	alpha	alnum	upper
+U+1ca7	Ყ	GEORGIAN MTAVRULI CAPITAL LETTER QAR	alpha	alnum	upper
+U+1ca8	Შ	GEORGIAN MTAVRULI CAPITAL LETTER SHIN	alpha	alnum	upper
+U+1ca9	Ჩ	GEORGIAN MTAVRULI CAPITAL LETTER CHIN	alpha	alnum	upper
+U+1caa	Ც	GEORGIAN MTAVRULI CAPITAL LETTER CAN	alpha	alnum	upper
+U+1cab	Ძ	GEORGIAN MTAVRULI CAPITAL LETTER JIL	alpha	alnum	upper
+U+1cac	Წ	GEORGIAN MTAVRULI CAPITAL LETTER CIL	alpha	alnum	upper
+U+1cad	Ჭ	GEORGIAN MTAVRULI CAPITAL LETTER CHAR	alpha	alnum	upper
+U+1cae	Ხ	GEORGIAN MTAVRULI CAPITAL LETTER XAN	alpha	alnum	upper
+U+1caf	Ჯ	GEORGIAN MTAVRULI CAPITAL LETTER JHAN	alpha	alnum	upper
+U+1cb0	Ჰ	GEORGIAN MTAVRULI CAPITAL LETTER HAE	alpha	alnum	upper
+U+1cb1	Ჱ	GEORGIAN MTAVRULI CAPITAL LETTER HE	alpha	alnum	upper
+U+1cb2	Ჲ	GEORGIAN MTAVRULI CAPITAL LETTER HIE	alpha	alnum	upper
+U+1cb3	Ჳ	GEORGIAN MTAVRULI CAPITAL LETTER WE	alpha	alnum	upper
+U+1cb4	Ჴ	GEORGIAN MTAVRULI CAPITAL LETTER HAR	alpha	alnum	upper
+U+1cb5	Ჵ	GEORGIAN MTAVRULI CAPITAL LETTER HOE	alpha	alnum	upper
+U+1cb6	Ჶ	GEORGIAN MTAVRULI CAPITAL LETTER FI	alpha	alnum	upper
+U+1cb7	Ჷ	GEORGIAN MTAVRULI CAPITAL LETTER YN	alpha	alnum	upper
+U+1cb8	Ჸ	GEORGIAN MTAVRULI CAPITAL LETTER ELIFI	alpha	alnum	upper
+U+1cb9	Ჹ	GEORGIAN MTAVRULI CAPITAL LETTER TURNED GAN	alpha	alnum	upper
+U+1cba	Ჺ	GEORGIAN MTAVRULI CAPITAL LETTER AIN	alpha	alnum	upper
+U+1cbd	Ჽ	GEORGIAN MTAVRULI CAPITAL LETTER AEN	alpha	alnum	upper
+U+1cbe	Ჾ	GEORGIAN MTAVRULI CAPITAL LETTER HARD SIGN	alpha	alnum	upper
+U+1cbf	Ჿ	GEORGIAN MTAVRULI CAPITAL LETTER LABIAL SIGN	alpha	alnum	upper
+U+1e00	Ḁ	LATIN CAPITAL LETTER A WITH RING BELOW	alpha	alnum	upper
+U+1e02	Ḃ	LATIN CAPITAL LETTER B WITH DOT ABOVE	alpha	alnum	upper
+U+1e04	Ḅ	LATIN CAPITAL LETTER B WITH DOT BELOW	alpha	alnum	upper
+U+1e06	Ḇ	LATIN CAPITAL LETTER B WITH LINE BELOW	alpha	alnum	upper
+U+1e08	Ḉ	LATIN CAPITAL LETTER C WITH CEDILLA AND ACUTE	alpha	alnum	upper
+U+1e0a	Ḋ	LATIN CAPITAL LETTER D WITH DOT ABOVE	alpha	alnum	upper
+U+1e0c	Ḍ	LATIN CAPITAL LETTER D WITH DOT BELOW	alpha	alnum	upper
+U+1e0e	Ḏ	LATIN CAPITAL LETTER D WITH LINE BELOW	alpha	alnum	upper
+U+1e10	Ḑ	LATIN CAPITAL LETTER D WITH CEDILLA	alpha	alnum	upper
+U+1e12	Ḓ	LATIN CAPITAL LETTER D WITH CIRCUMFLEX BELOW	alpha	alnum	upper
+U+1e14	Ḕ	LATIN CAPITAL LETTER E WITH MACRON AND GRAVE	alpha	alnum	upper
+U+1e16	Ḗ	LATIN CAPITAL LETTER E WITH MACRON AND ACUTE	alpha	alnum	upper
+U+1e18	Ḙ	LATIN CAPITAL LETTER E WITH CIRCUMFLEX BELOW	alpha	alnum	upper
+U+1e1a	Ḛ	LATIN CAPITAL LETTER E WITH TILDE BELOW	alpha	alnum	upper
+U+1e1c	Ḝ	LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE	alpha	alnum	upper
+U+1e1e	Ḟ	LATIN CAPITAL LETTER F WITH DOT ABOVE	alpha	alnum	upper
+U+1e20	Ḡ	LATIN CAPITAL LETTER G WITH MACRON	alpha	alnum	upper
+U+1e22	Ḣ	LATIN CAPITAL LETTER H WITH DOT ABOVE	alpha	alnum	upper
+U+1e24	Ḥ	LATIN CAPITAL LETTER H WITH DOT BELOW	alpha	alnum	upper
+U+1e26	Ḧ	LATIN CAPITAL LETTER H WITH DIAERESIS	alpha	alnum	upper
+U+1e28	Ḩ	LATIN CAPITAL LETTER H WITH CEDILLA	alpha	alnum	upper
+U+1e2a	Ḫ	LATIN CAPITAL LETTER H WITH BREVE BELOW	alpha	alnum	upper
+U+1e2c	Ḭ	LATIN CAPITAL LETTER I WITH TILDE BELOW	alpha	alnum	upper
+U+1e2e	Ḯ	LATIN CAPITAL LETTER I WITH DIAERESIS AND ACUTE	alpha	alnum	upper
+U+1e30	Ḱ	LATIN CAPITAL LETTER K WITH ACUTE	alpha	alnum	upper
+U+1e32	Ḳ	LATIN CAPITAL LETTER K WITH DOT BELOW	alpha	alnum	upper
+U+1e34	Ḵ	LATIN CAPITAL LETTER K WITH LINE BELOW	alpha	alnum	upper
+U+1e36	Ḷ	LATIN CAPITAL LETTER L WITH DOT BELOW	alpha	alnum	upper
+U+1e38	Ḹ	LATIN CAPITAL LETTER L WITH DOT BELOW AND MACRON	alpha	alnum	upper
+U+1e3a	Ḻ	LATIN CAPITAL LETTER L WITH LINE BELOW	alpha	alnum	upper
+U+1e3c	Ḽ	LATIN CAPITAL LETTER L WITH CIRCUMFLEX BELOW	alpha	alnum	upper
+U+1e3e	Ḿ	LATIN CAPITAL LETTER M WITH ACUTE	alpha	alnum	upper
+U+1e40	Ṁ	LATIN CAPITAL LETTER M WITH DOT ABOVE	alpha	alnum	upper
+U+1e42	Ṃ	LATIN CAPITAL LETTER M WITH DOT BELOW	alpha	alnum	upper
+U+1e44	Ṅ	LATIN CAPITAL LETTER N WITH DOT ABOVE	alpha	alnum	upper
+U+1e46	Ṇ	LATIN CAPITAL LETTER N WITH DOT BELOW	alpha	alnum	upper
+U+1e48	Ṉ	LATIN CAPITAL LETTER N WITH LINE BELOW	alpha	alnum	upper
+U+1e4a	Ṋ	LATIN CAPITAL LETTER N WITH CIRCUMFLEX BELOW	alpha	alnum	upper
+U+1e4c	Ṍ	LATIN CAPITAL LETTER O WITH TILDE AND ACUTE	alpha	alnum	upper
+U+1e4e	Ṏ	LATIN CAPITAL LETTER O WITH TILDE AND DIAERESIS	alpha	alnum	upper
+U+1e50	Ṑ	LATIN CAPITAL LETTER O WITH MACRON AND GRAVE	alpha	alnum	upper
+U+1e52	Ṓ	LATIN CAPITAL LETTER O WITH MACRON AND ACUTE	alpha	alnum	upper
+U+1e54	Ṕ	LATIN CAPITAL LETTER P WITH ACUTE	alpha	alnum	upper
+U+1e56	Ṗ	LATIN CAPITAL LETTER P WITH DOT ABOVE	alpha	alnum	upper
+U+1e58	Ṙ	LATIN CAPITAL LETTER R WITH DOT ABOVE	alpha	alnum	upper
+U+1e5a	Ṛ	LATIN CAPITAL LETTER R WITH DOT BELOW	alpha	alnum	upper
+U+1e5c	Ṝ	LATIN CAPITAL LETTER R WITH DOT BELOW AND MACRON	alpha	alnum	upper
+U+1e5e	Ṟ	LATIN CAPITAL LETTER R WITH LINE BELOW	alpha	alnum	upper
+U+1e60	Ṡ	LATIN CAPITAL LETTER S WITH DOT ABOVE	alpha	alnum	upper
+U+1e62	Ṣ	LATIN CAPITAL LETTER S WITH DOT BELOW	alpha	alnum	upper
+U+1e64	Ṥ	LATIN CAPITAL LETTER S WITH ACUTE AND DOT ABOVE	alpha	alnum	upper
+U+1e66	Ṧ	LATIN CAPITAL LETTER S WITH CARON AND DOT ABOVE	alpha	alnum	upper
+U+1e68	Ṩ	LATIN CAPITAL LETTER S WITH DOT BELOW AND DOT ABOVE	alpha	alnum	upper
+U+1e6a	Ṫ	LATIN CAPITAL LETTER T WITH DOT ABOVE	alpha	alnum	upper
+U+1e6c	Ṭ	LATIN CAPITAL LETTER T WITH DOT BELOW	alpha	alnum	upper
+U+1e6e	Ṯ	LATIN CAPITAL LETTER T WITH LINE BELOW	alpha	alnum	upper
+U+1e70	Ṱ	LATIN CAPITAL LETTER T WITH CIRCUMFLEX BELOW	alpha	alnum	upper
+U+1e72	Ṳ	LATIN CAPITAL LETTER U WITH DIAERESIS BELOW	alpha	alnum	upper
+U+1e74	Ṵ	LATIN CAPITAL LETTER U WITH TILDE BELOW	alpha	alnum	upper
+U+1e76	Ṷ	LATIN CAPITAL LETTER U WITH CIRCUMFLEX BELOW	alpha	alnum	upper
+U+1e78	Ṹ	LATIN CAPITAL LETTER U WITH TILDE AND ACUTE	alpha	alnum	upper
+U+1e7a	Ṻ	LATIN CAPITAL LETTER U WITH MACRON AND DIAERESIS	alpha	alnum	upper
+U+1e7c	Ṽ	LATIN CAPITAL LETTER V WITH TILDE	alpha	alnum	upper
+U+1e7e	Ṿ	LATIN CAPITAL LETTER V WITH DOT BELOW	alpha	alnum	upper
+U+1e80	Ẁ	LATIN CAPITAL LETTER W WITH GRAVE	alpha	alnum	upper
+U+1e82	Ẃ	LATIN CAPITAL LETTER W WITH ACUTE	alpha	alnum	upper
+U+1e84	Ẅ	LATIN CAPITAL LETTER W WITH DIAERESIS	alpha	alnum	upper
+U+1e86	Ẇ	LATIN CAPITAL LETTER W WITH DOT ABOVE	alpha	alnum	upper
+U+1e88	Ẉ	LATIN CAPITAL LETTER W WITH DOT BELOW	alpha	alnum	upper
+U+1e8a	Ẋ	LATIN CAPITAL LETTER X WITH DOT ABOVE	alpha	alnum	upper
+U+1e8c	Ẍ	LATIN CAPITAL LETTER X WITH DIAERESIS	alpha	alnum	upper
+U+1e8e	Ẏ	LATIN CAPITAL LETTER Y WITH DOT ABOVE	alpha	alnum	upper
+U+1e90	Ẑ	LATIN CAPITAL LETTER Z WITH CIRCUMFLEX	alpha	alnum	upper
+U+1e92	Ẓ	LATIN CAPITAL LETTER Z WITH DOT BELOW	alpha	alnum	upper
+U+1e94	Ẕ	LATIN CAPITAL LETTER Z WITH LINE BELOW	alpha	alnum	upper
+U+1e9e	ẞ	LATIN CAPITAL LETTER SHARP S	alpha	alnum	upper
+U+1ea0	Ạ	LATIN CAPITAL LETTER A WITH DOT BELOW	alpha	alnum	upper
+U+1ea2	Ả	LATIN CAPITAL LETTER A WITH HOOK ABOVE	alpha	alnum	upper
+U+1ea4	Ấ	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND ACUTE	alpha	alnum	upper
+U+1ea6	Ầ	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND GRAVE	alpha	alnum	upper
+U+1ea8	Ẩ	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE	alpha	alnum	upper
+U+1eaa	Ẫ	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND TILDE	alpha	alnum	upper
+U+1eac	Ậ	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND DOT BELOW	alpha	alnum	upper
+U+1eae	Ắ	LATIN CAPITAL LETTER A WITH BREVE AND ACUTE	alpha	alnum	upper
+U+1eb0	Ằ	LATIN CAPITAL LETTER A WITH BREVE AND GRAVE	alpha	alnum	upper
+U+1eb2	Ẳ	LATIN CAPITAL LETTER A WITH BREVE AND HOOK ABOVE	alpha	alnum	upper
+U+1eb4	Ẵ	LATIN CAPITAL LETTER A WITH BREVE AND TILDE	alpha	alnum	upper
+U+1eb6	Ặ	LATIN CAPITAL LETTER A WITH BREVE AND DOT BELOW	alpha	alnum	upper
+U+1eb8	Ẹ	LATIN CAPITAL LETTER E WITH DOT BELOW	alpha	alnum	upper
+U+1eba	Ẻ	LATIN CAPITAL LETTER E WITH HOOK ABOVE	alpha	alnum	upper
+U+1ebc	Ẽ	LATIN CAPITAL LETTER E WITH TILDE	alpha	alnum	upper
+U+1ebe	Ế	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND ACUTE	alpha	alnum	upper
+U+1ec0	Ề	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND GRAVE	alpha	alnum	upper
+U+1ec2	Ể	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE	alpha	alnum	upper
+U+1ec4	Ễ	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND TILDE	alpha	alnum	upper
+U+1ec6	Ệ	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND DOT BELOW	alpha	alnum	upper
+U+1ec8	Ỉ	LATIN CAPITAL LETTER I WITH HOOK ABOVE	alpha	alnum	upper
+U+1eca	Ị	LATIN CAPITAL LETTER I WITH DOT BELOW	alpha	alnum	upper
+U+1ecc	Ọ	LATIN CAPITAL LETTER O WITH DOT BELOW	alpha	alnum	upper
+U+1ece	Ỏ	LATIN CAPITAL LETTER O WITH HOOK ABOVE	alpha	alnum	upper
+U+1ed0	Ố	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND ACUTE	alpha	alnum	upper
+U+1ed2	Ồ	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND GRAVE	alpha	alnum	upper
+U+1ed4	Ổ	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE	alpha	alnum	upper
+U+1ed6	Ỗ	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND TILDE	alpha	alnum	upper
+U+1ed8	Ộ	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND DOT BELOW	alpha	alnum	upper
+U+1eda	Ớ	LATIN CAPITAL LETTER O WITH HORN AND ACUTE	alpha	alnum	upper
+U+1edc	Ờ	LATIN CAPITAL LETTER O WITH HORN AND GRAVE	alpha	alnum	upper
+U+1ede	Ở	LATIN CAPITAL LETTER O WITH HORN AND HOOK ABOVE	alpha	alnum	upper
+U+1ee0	Ỡ	LATIN CAPITAL LETTER O WITH HORN AND TILDE	alpha	alnum	upper
+U+1ee2	Ợ	LATIN CAPITAL LETTER O WITH HORN AND DOT BELOW	alpha	alnum	upper
+U+1ee4	Ụ	LATIN CAPITAL LETTER U WITH DOT BELOW	alpha	alnum	upper
+U+1ee6	Ủ	LATIN CAPITAL LETTER U WITH HOOK ABOVE	alpha	alnum	upper
+U+1ee8	Ứ	LATIN CAPITAL LETTER U WITH HORN AND ACUTE	alpha	alnum	upper
+U+1eea	Ừ	LATIN CAPITAL LETTER U WITH HORN AND GRAVE	alpha	alnum	upper
+U+1eec	Ử	LATIN CAPITAL LETTER U WITH HORN AND HOOK ABOVE	alpha	alnum	upper
+U+1eee	Ữ	LATIN CAPITAL LETTER U WITH HORN AND TILDE	alpha	alnum	upper
+U+1ef0	Ự	LATIN CAPITAL LETTER U WITH HORN AND DOT BELOW	alpha	alnum	upper
+U+1ef2	Ỳ	LATIN CAPITAL LETTER Y WITH GRAVE	alpha	alnum	upper
+U+1ef4	Ỵ	LATIN CAPITAL LETTER Y WITH DOT BELOW	alpha	alnum	upper
+U+1ef6	Ỷ	LATIN CAPITAL LETTER Y WITH HOOK ABOVE	alpha	alnum	upper
+U+1ef8	Ỹ	LATIN CAPITAL LETTER Y WITH TILDE	alpha	alnum	upper
+U+1efa	Ỻ	LATIN CAPITAL LETTER MIDDLE-WELSH LL	alpha	alnum	upper
+U+1efc	Ỽ	LATIN CAPITAL LETTER MIDDLE-WELSH V	alpha	alnum	upper
+U+1efe	Ỿ	LATIN CAPITAL LETTER Y WITH LOOP	alpha	alnum	upper
+U+1f08	Ἀ	GREEK CAPITAL LETTER ALPHA WITH PSILI	alpha	alnum	upper
+U+1f09	Ἁ	GREEK CAPITAL LETTER ALPHA WITH DASIA	alpha	alnum	upper
+U+1f0a	Ἂ	GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA	alpha	alnum	upper
+U+1f0b	Ἃ	GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA	alpha	alnum	upper
+U+1f0c	Ἄ	GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA	alpha	alnum	upper
+U+1f0d	Ἅ	GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA	alpha	alnum	upper
+U+1f0e	Ἆ	GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI	alpha	alnum	upper
+U+1f0f	Ἇ	GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI	alpha	alnum	upper
+U+1f18	Ἐ	GREEK CAPITAL LETTER EPSILON WITH PSILI	alpha	alnum	upper
+U+1f19	Ἑ	GREEK CAPITAL LETTER EPSILON WITH DASIA	alpha	alnum	upper
+U+1f1a	Ἒ	GREEK CAPITAL LETTER EPSILON WITH PSILI AND VARIA	alpha	alnum	upper
+U+1f1b	Ἓ	GREEK CAPITAL LETTER EPSILON WITH DASIA AND VARIA	alpha	alnum	upper
+U+1f1c	Ἔ	GREEK CAPITAL LETTER EPSILON WITH PSILI AND OXIA	alpha	alnum	upper
+U+1f1d	Ἕ	GREEK CAPITAL LETTER EPSILON WITH DASIA AND OXIA	alpha	alnum	upper
+U+1f28	Ἠ	GREEK CAPITAL LETTER ETA WITH PSILI	alpha	alnum	upper
+U+1f29	Ἡ	GREEK CAPITAL LETTER ETA WITH DASIA	alpha	alnum	upper
+U+1f2a	Ἢ	GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA	alpha	alnum	upper
+U+1f2b	Ἣ	GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA	alpha	alnum	upper
+U+1f2c	Ἤ	GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA	alpha	alnum	upper
+U+1f2d	Ἥ	GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA	alpha	alnum	upper
+U+1f2e	Ἦ	GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI	alpha	alnum	upper
+U+1f2f	Ἧ	GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI	alpha	alnum	upper
+U+1f38	Ἰ	GREEK CAPITAL LETTER IOTA WITH PSILI	alpha	alnum	upper
+U+1f39	Ἱ	GREEK CAPITAL LETTER IOTA WITH DASIA	alpha	alnum	upper
+U+1f3a	Ἲ	GREEK CAPITAL LETTER IOTA WITH PSILI AND VARIA	alpha	alnum	upper
+U+1f3b	Ἳ	GREEK CAPITAL LETTER IOTA WITH DASIA AND VARIA	alpha	alnum	upper
+U+1f3c	Ἴ	GREEK CAPITAL LETTER IOTA WITH PSILI AND OXIA	alpha	alnum	upper
+U+1f3d	Ἵ	GREEK CAPITAL LETTER IOTA WITH DASIA AND OXIA	alpha	alnum	upper
+U+1f3e	Ἶ	GREEK CAPITAL LETTER IOTA WITH PSILI AND PERISPOMENI	alpha	alnum	upper
+U+1f3f	Ἷ	GREEK CAPITAL LETTER IOTA WITH DASIA AND PERISPOMENI	alpha	alnum	upper
+U+1f48	Ὀ	GREEK CAPITAL LETTER OMICRON WITH PSILI	alpha	alnum	upper
+U+1f49	Ὁ	GREEK CAPITAL LETTER OMICRON WITH DASIA	alpha	alnum	upper
+U+1f4a	Ὂ	GREEK CAPITAL LETTER OMICRON WITH PSILI AND VARIA	alpha	alnum	upper
+U+1f4b	Ὃ	GREEK CAPITAL LETTER OMICRON WITH DASIA AND VARIA	alpha	alnum	upper
+U+1f4c	Ὄ	GREEK CAPITAL LETTER OMICRON WITH PSILI AND OXIA	alpha	alnum	upper
+U+1f4d	Ὅ	GREEK CAPITAL LETTER OMICRON WITH DASIA AND OXIA	alpha	alnum	upper
+U+1f59	Ὑ	GREEK CAPITAL LETTER UPSILON WITH DASIA	alpha	alnum	upper
+U+1f5b	Ὓ	GREEK CAPITAL LETTER UPSILON WITH DASIA AND VARIA	alpha	alnum	upper
+U+1f5d	Ὕ	GREEK CAPITAL LETTER UPSILON WITH DASIA AND OXIA	alpha	alnum	upper
+U+1f5f	Ὗ	GREEK CAPITAL LETTER UPSILON WITH DASIA AND PERISPOMENI	alpha	alnum	upper
+U+1f68	Ὠ	GREEK CAPITAL LETTER OMEGA WITH PSILI	alpha	alnum	upper
+U+1f69	Ὡ	GREEK CAPITAL LETTER OMEGA WITH DASIA	alpha	alnum	upper
+U+1f6a	Ὢ	GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA	alpha	alnum	upper
+U+1f6b	Ὣ	GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA	alpha	alnum	upper
+U+1f6c	Ὤ	GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA	alpha	alnum	upper
+U+1f6d	Ὥ	GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA	alpha	alnum	upper
+U+1f6e	Ὦ	GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI	alpha	alnum	upper
+U+1f6f	Ὧ	GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI	alpha	alnum	upper
+U+1f88	ᾈ	GREEK CAPITAL LETTER ALPHA WITH PSILI AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1f89	ᾉ	GREEK CAPITAL LETTER ALPHA WITH DASIA AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1f8a	ᾊ	GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1f8b	ᾋ	GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1f8c	ᾌ	GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1f8d	ᾍ	GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1f8e	ᾎ	GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1f8f	ᾏ	GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1f98	ᾘ	GREEK CAPITAL LETTER ETA WITH PSILI AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1f99	ᾙ	GREEK CAPITAL LETTER ETA WITH DASIA AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1f9a	ᾚ	GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1f9b	ᾛ	GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1f9c	ᾜ	GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1f9d	ᾝ	GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1f9e	ᾞ	GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1f9f	ᾟ	GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1fa8	ᾨ	GREEK CAPITAL LETTER OMEGA WITH PSILI AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1fa9	ᾩ	GREEK CAPITAL LETTER OMEGA WITH DASIA AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1faa	ᾪ	GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1fab	ᾫ	GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1fac	ᾬ	GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1fad	ᾭ	GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1fae	ᾮ	GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1faf	ᾯ	GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI	alpha	alnum	upper
+U+1fb8	Ᾰ	GREEK CAPITAL LETTER ALPHA WITH VRACHY	alpha	alnum	upper
+U+1fb9	Ᾱ	GREEK CAPITAL LETTER ALPHA WITH MACRON	alpha	alnum	upper
+U+1fba	Ὰ	GREEK CAPITAL LETTER ALPHA WITH VARIA	alpha	alnum	upper
+U+1fbb	Ά	GREEK CAPITAL LETTER ALPHA WITH OXIA	alpha	alnum	upper
+U+1fbc	ᾼ	GREEK CAPITAL LETTER ALPHA WITH PROSGEGRAMMENI	alpha	alnum	upper
+U+1fc8	Ὲ	GREEK CAPITAL LETTER EPSILON WITH VARIA	alpha	alnum	upper
+U+1fc9	Έ	GREEK CAPITAL LETTER EPSILON WITH OXIA	alpha	alnum	upper
+U+1fca	Ὴ	GREEK CAPITAL LETTER ETA WITH VARIA	alpha	alnum	upper
+U+1fcb	Ή	GREEK CAPITAL LETTER ETA WITH OXIA	alpha	alnum	upper
+U+1fcc	ῌ	GREEK CAPITAL LETTER ETA WITH PROSGEGRAMMENI	alpha	alnum	upper
+U+1fd8	Ῐ	GREEK CAPITAL LETTER IOTA WITH VRACHY	alpha	alnum	upper
+U+1fd9	Ῑ	GREEK CAPITAL LETTER IOTA WITH MACRON	alpha	alnum	upper
+U+1fda	Ὶ	GREEK CAPITAL LETTER IOTA WITH VARIA	alpha	alnum	upper
+U+1fdb	Ί	GREEK CAPITAL LETTER IOTA WITH OXIA	alpha	alnum	upper
+U+1fe8	Ῠ	GREEK CAPITAL LETTER UPSILON WITH VRACHY	alpha	alnum	upper
+U+1fe9	Ῡ	GREEK CAPITAL LETTER UPSILON WITH MACRON	alpha	alnum	upper
+U+1fea	Ὺ	GREEK CAPITAL LETTER UPSILON WITH VARIA	alpha	alnum	upper
+U+1feb	Ύ	GREEK CAPITAL LETTER UPSILON WITH OXIA	alpha	alnum	upper
+U+1fec	Ῥ	GREEK CAPITAL LETTER RHO WITH DASIA	alpha	alnum	upper
+U+1ff8	Ὸ	GREEK CAPITAL LETTER OMICRON WITH VARIA	alpha	alnum	upper
+U+1ff9	Ό	GREEK CAPITAL LETTER OMICRON WITH OXIA	alpha	alnum	upper
+U+1ffa	Ὼ	GREEK CAPITAL LETTER OMEGA WITH VARIA	alpha	alnum	upper
+U+1ffb	Ώ	GREEK CAPITAL LETTER OMEGA WITH OXIA	alpha	alnum	upper
+U+1ffc	ῼ	GREEK CAPITAL LETTER OMEGA WITH PROSGEGRAMMENI	alpha	alnum	upper
+U+2102	ℂ	DOUBLE-STRUCK CAPITAL C	alpha	alnum	upper
+U+2107	ℇ	EULER CONSTANT	alpha	alnum	upper
+U+210b	ℋ	SCRIPT CAPITAL H	alpha	alnum	upper
+U+210c	ℌ	BLACK-LETTER CAPITAL H	alpha	alnum	upper
+U+210d	ℍ	DOUBLE-STRUCK CAPITAL H	alpha	alnum	upper
+U+2110	ℐ	SCRIPT CAPITAL I	alpha	alnum	upper
+U+2111	ℑ	BLACK-LETTER CAPITAL I	alpha	alnum	upper
+U+2112	ℒ	SCRIPT CAPITAL L	alpha	alnum	upper
+U+2115	ℕ	DOUBLE-STRUCK CAPITAL N	alpha	alnum	upper
+U+2119	ℙ	DOUBLE-STRUCK CAPITAL P	alpha	alnum	upper
+U+211a	ℚ	DOUBLE-STRUCK CAPITAL Q	alpha	alnum	upper
+U+211b	ℛ	SCRIPT CAPITAL R	alpha	alnum	upper
+U+211c	ℜ	BLACK-LETTER CAPITAL R	alpha	alnum	upper
+U+211d	ℝ	DOUBLE-STRUCK CAPITAL R	alpha	alnum	upper
+U+2124	ℤ	DOUBLE-STRUCK CAPITAL Z	alpha	alnum	upper
+U+2126	Ω	OHM SIGN	alpha	alnum	upper
+U+2128	ℨ	BLACK-LETTER CAPITAL Z	alpha	alnum	upper
+U+212a	K	KELVIN SIGN	alpha	alnum	upper
+U+212b	Å	ANGSTROM SIGN	alpha	alnum	upper
+U+212c	ℬ	SCRIPT CAPITAL B	alpha	alnum	upper
+U+212d	ℭ	BLACK-LETTER CAPITAL C	alpha	alnum	upper
+U+2130	ℰ	SCRIPT CAPITAL E	alpha	alnum	upper
+U+2131	ℱ	SCRIPT CAPITAL F	alpha	alnum	upper
+U+2132	Ⅎ	TURNED CAPITAL F	alpha	alnum	upper
+U+2133	ℳ	SCRIPT CAPITAL M	alpha	alnum	upper
+U+213e	ℾ	DOUBLE-STRUCK CAPITAL GAMMA	alpha	alnum	upper
+U+213f	ℿ	DOUBLE-STRUCK CAPITAL PI	alpha	alnum	upper
+U+2145	ⅅ	DOUBLE-STRUCK ITALIC CAPITAL D	alpha	alnum	upper
+U+2160	Ⅰ	ROMAN NUMERAL ONE	alpha	alnum	upper
+U+2161	Ⅱ	ROMAN NUMERAL TWO	alpha	alnum	upper
+U+2162	Ⅲ	ROMAN NUMERAL THREE	alpha	alnum	upper
+U+2163	Ⅳ	ROMAN NUMERAL FOUR	alpha	alnum	upper
+U+2164	Ⅴ	ROMAN NUMERAL FIVE	alpha	alnum	upper
+U+2165	Ⅵ	ROMAN NUMERAL SIX	alpha	alnum	upper
+U+2166	Ⅶ	ROMAN NUMERAL SEVEN	alpha	alnum	upper
+U+2167	Ⅷ	ROMAN NUMERAL EIGHT	alpha	alnum	upper
+U+2168	Ⅸ	ROMAN NUMERAL NINE	alpha	alnum	upper
+U+2169	Ⅹ	ROMAN NUMERAL TEN	alpha	alnum	upper
+U+216a	Ⅺ	ROMAN NUMERAL ELEVEN	alpha	alnum	upper
+U+216b	Ⅻ	ROMAN NUMERAL TWELVE	alpha	alnum	upper
+U+216c	Ⅼ	ROMAN NUMERAL FIFTY	alpha	alnum	upper
+U+216d	Ⅽ	ROMAN NUMERAL ONE HUNDRED	alpha	alnum	upper
+U+216e	Ⅾ	ROMAN NUMERAL FIVE HUNDRED	alpha	alnum	upper
+U+216f	Ⅿ	ROMAN NUMERAL ONE THOUSAND	alpha	alnum	upper
+U+2183	Ↄ	ROMAN NUMERAL REVERSED ONE HUNDRED	alpha	alnum	upper
+U+24b6	Ⓐ	CIRCLED LATIN CAPITAL LETTER A	alpha	alnum	upper
+U+24b7	Ⓑ	CIRCLED LATIN CAPITAL LETTER B	alpha	alnum	upper
+U+24b8	Ⓒ	CIRCLED LATIN CAPITAL LETTER C	alpha	alnum	upper
+U+24b9	Ⓓ	CIRCLED LATIN CAPITAL LETTER D	alpha	alnum	upper
+U+24ba	Ⓔ	CIRCLED LATIN CAPITAL LETTER E	alpha	alnum	upper
+U+24bb	Ⓕ	CIRCLED LATIN CAPITAL LETTER F	alpha	alnum	upper
+U+24bc	Ⓖ	CIRCLED LATIN CAPITAL LETTER G	alpha	alnum	upper
+U+24bd	Ⓗ	CIRCLED LATIN CAPITAL LETTER H	alpha	alnum	upper
+U+24be	Ⓘ	CIRCLED LATIN CAPITAL LETTER I	alpha	alnum	upper
+U+24bf	Ⓙ	CIRCLED LATIN CAPITAL LETTER J	alpha	alnum	upper
+U+24c0	Ⓚ	CIRCLED LATIN CAPITAL LETTER K	alpha	alnum	upper
+U+24c1	Ⓛ	CIRCLED LATIN CAPITAL LETTER L	alpha	alnum	upper
+U+24c2	Ⓜ	CIRCLED LATIN CAPITAL LETTER M	alpha	alnum	upper
+U+24c3	Ⓝ	CIRCLED LATIN CAPITAL LETTER N	alpha	alnum	upper
+U+24c4	Ⓞ	CIRCLED LATIN CAPITAL LETTER O	alpha	alnum	upper
+U+24c5	Ⓟ	CIRCLED LATIN CAPITAL LETTER P	alpha	alnum	upper
+U+24c6	Ⓠ	CIRCLED LATIN CAPITAL LETTER Q	alpha	alnum	upper
+U+24c7	Ⓡ	CIRCLED LATIN CAPITAL LETTER R	alpha	alnum	upper
+U+24c8	Ⓢ	CIRCLED LATIN CAPITAL LETTER S	alpha	alnum	upper
+U+24c9	Ⓣ	CIRCLED LATIN CAPITAL LETTER T	alpha	alnum	upper
+U+24ca	Ⓤ	CIRCLED LATIN CAPITAL LETTER U	alpha	alnum	upper
+U+24cb	Ⓥ	CIRCLED LATIN CAPITAL LETTER V	alpha	alnum	upper
+U+24cc	Ⓦ	CIRCLED LATIN CAPITAL LETTER W	alpha	alnum	upper
+U+24cd	Ⓧ	CIRCLED LATIN CAPITAL LETTER X	alpha	alnum	upper
+U+24ce	Ⓨ	CIRCLED LATIN CAPITAL LETTER Y	alpha	alnum	upper
+U+24cf	Ⓩ	CIRCLED LATIN CAPITAL LETTER Z	alpha	alnum	upper
+U+2c00	Ⰰ	GLAGOLITIC CAPITAL LETTER AZU	alpha	alnum	upper
+U+2c01	Ⰱ	GLAGOLITIC CAPITAL LETTER BUKY	alpha	alnum	upper
+U+2c02	Ⰲ	GLAGOLITIC CAPITAL LETTER VEDE	alpha	alnum	upper
+U+2c03	Ⰳ	GLAGOLITIC CAPITAL LETTER GLAGOLI	alpha	alnum	upper
+U+2c04	Ⰴ	GLAGOLITIC CAPITAL LETTER DOBRO	alpha	alnum	upper
+U+2c05	Ⰵ	GLAGOLITIC CAPITAL LETTER YESTU	alpha	alnum	upper
+U+2c06	Ⰶ	GLAGOLITIC CAPITAL LETTER ZHIVETE	alpha	alnum	upper
+U+2c07	Ⰷ	GLAGOLITIC CAPITAL LETTER DZELO	alpha	alnum	upper
+U+2c08	Ⰸ	GLAGOLITIC CAPITAL LETTER ZEMLJA	alpha	alnum	upper
+U+2c09	Ⰹ	GLAGOLITIC CAPITAL LETTER IZHE	alpha	alnum	upper
+U+2c0a	Ⰺ	GLAGOLITIC CAPITAL LETTER INITIAL IZHE	alpha	alnum	upper
+U+2c0b	Ⰻ	GLAGOLITIC CAPITAL LETTER I	alpha	alnum	upper
+U+2c0c	Ⰼ	GLAGOLITIC CAPITAL LETTER DJERVI	alpha	alnum	upper
+U+2c0d	Ⰽ	GLAGOLITIC CAPITAL LETTER KAKO	alpha	alnum	upper
+U+2c0e	Ⰾ	GLAGOLITIC CAPITAL LETTER LJUDIJE	alpha	alnum	upper
+U+2c0f	Ⰿ	GLAGOLITIC CAPITAL LETTER MYSLITE	alpha	alnum	upper
+U+2c10	Ⱀ	GLAGOLITIC CAPITAL LETTER NASHI	alpha	alnum	upper
+U+2c11	Ⱁ	GLAGOLITIC CAPITAL LETTER ONU	alpha	alnum	upper
+U+2c12	Ⱂ	GLAGOLITIC CAPITAL LETTER POKOJI	alpha	alnum	upper
+U+2c13	Ⱃ	GLAGOLITIC CAPITAL LETTER RITSI	alpha	alnum	upper
+U+2c14	Ⱄ	GLAGOLITIC CAPITAL LETTER SLOVO	alpha	alnum	upper
+U+2c15	Ⱅ	GLAGOLITIC CAPITAL LETTER TVRIDO	alpha	alnum	upper
+U+2c16	Ⱆ	GLAGOLITIC CAPITAL LETTER UKU	alpha	alnum	upper
+U+2c17	Ⱇ	GLAGOLITIC CAPITAL LETTER FRITU	alpha	alnum	upper
+U+2c18	Ⱈ	GLAGOLITIC CAPITAL LETTER HERU	alpha	alnum	upper
+U+2c19	Ⱉ	GLAGOLITIC CAPITAL LETTER OTU	alpha	alnum	upper
+U+2c1a	Ⱊ	GLAGOLITIC CAPITAL LETTER PE	alpha	alnum	upper
+U+2c1b	Ⱋ	GLAGOLITIC CAPITAL LETTER SHTA	alpha	alnum	upper
+U+2c1c	Ⱌ	GLAGOLITIC CAPITAL LETTER TSI	alpha	alnum	upper
+U+2c1d	Ⱍ	GLAGOLITIC CAPITAL LETTER CHRIVI	alpha	alnum	upper
+U+2c1e	Ⱎ	GLAGOLITIC CAPITAL LETTER SHA	alpha	alnum	upper
+U+2c1f	Ⱏ	GLAGOLITIC CAPITAL LETTER YERU	alpha	alnum	upper
+U+2c20	Ⱐ	GLAGOLITIC CAPITAL LETTER YERI	alpha	alnum	upper
+U+2c21	Ⱑ	GLAGOLITIC CAPITAL LETTER YATI	alpha	alnum	upper
+U+2c22	Ⱒ	GLAGOLITIC CAPITAL LETTER SPIDERY HA	alpha	alnum	upper
+U+2c23	Ⱓ	GLAGOLITIC CAPITAL LETTER YU	alpha	alnum	upper
+U+2c24	Ⱔ	GLAGOLITIC CAPITAL LETTER SMALL YUS	alpha	alnum	upper
+U+2c25	Ⱕ	GLAGOLITIC CAPITAL LETTER SMALL YUS WITH TAIL	alpha	alnum	upper
+U+2c26	Ⱖ	GLAGOLITIC CAPITAL LETTER YO	alpha	alnum	upper
+U+2c27	Ⱗ	GLAGOLITIC CAPITAL LETTER IOTATED SMALL YUS	alpha	alnum	upper
+U+2c28	Ⱘ	GLAGOLITIC CAPITAL LETTER BIG YUS	alpha	alnum	upper
+U+2c29	Ⱙ	GLAGOLITIC CAPITAL LETTER IOTATED BIG YUS	alpha	alnum	upper
+U+2c2a	Ⱚ	GLAGOLITIC CAPITAL LETTER FITA	alpha	alnum	upper
+U+2c2b	Ⱛ	GLAGOLITIC CAPITAL LETTER IZHITSA	alpha	alnum	upper
+U+2c2c	Ⱜ	GLAGOLITIC CAPITAL LETTER SHTAPIC	alpha	alnum	upper
+U+2c2d	Ⱝ	GLAGOLITIC CAPITAL LETTER TROKUTASTI A	alpha	alnum	upper
+U+2c2e	Ⱞ	GLAGOLITIC CAPITAL LETTER LATINATE MYSLITE	alpha	alnum	upper
+U+2c60	Ⱡ	LATIN CAPITAL LETTER L WITH DOUBLE BAR	alpha	alnum	upper
+U+2c62	Ɫ	LATIN CAPITAL LETTER L WITH MIDDLE TILDE	alpha	alnum	upper
+U+2c63	Ᵽ	LATIN CAPITAL LETTER P WITH STROKE	alpha	alnum	upper
+U+2c64	Ɽ	LATIN CAPITAL LETTER R WITH TAIL	alpha	alnum	upper
+U+2c67	Ⱨ	LATIN CAPITAL LETTER H WITH DESCENDER	alpha	alnum	upper
+U+2c69	Ⱪ	LATIN CAPITAL LETTER K WITH DESCENDER	alpha	alnum	upper
+U+2c6b	Ⱬ	LATIN CAPITAL LETTER Z WITH DESCENDER	alpha	alnum	upper
+U+2c6d	Ɑ	LATIN CAPITAL LETTER ALPHA	alpha	alnum	upper
+U+2c6e	Ɱ	LATIN CAPITAL LETTER M WITH HOOK	alpha	alnum	upper
+U+2c6f	Ɐ	LATIN CAPITAL LETTER TURNED A	alpha	alnum	upper
+U+2c70	Ɒ	LATIN CAPITAL LETTER TURNED ALPHA	alpha	alnum	upper
+U+2c72	Ⱳ	LATIN CAPITAL LETTER W WITH HOOK	alpha	alnum	upper
+U+2c75	Ⱶ	LATIN CAPITAL LETTER HALF H	alpha	alnum	upper
+U+2c7e	Ȿ	LATIN CAPITAL LETTER S WITH SWASH TAIL	alpha	alnum	upper
+U+2c7f	Ɀ	LATIN CAPITAL LETTER Z WITH SWASH TAIL	alpha	alnum	upper
+U+2c80	Ⲁ	COPTIC CAPITAL LETTER ALFA	alpha	alnum	upper
+U+2c82	Ⲃ	COPTIC CAPITAL LETTER VIDA	alpha	alnum	upper
+U+2c84	Ⲅ	COPTIC CAPITAL LETTER GAMMA	alpha	alnum	upper
+U+2c86	Ⲇ	COPTIC CAPITAL LETTER DALDA	alpha	alnum	upper
+U+2c88	Ⲉ	COPTIC CAPITAL LETTER EIE	alpha	alnum	upper
+U+2c8a	Ⲋ	COPTIC CAPITAL LETTER SOU	alpha	alnum	upper
+U+2c8c	Ⲍ	COPTIC CAPITAL LETTER ZATA	alpha	alnum	upper
+U+2c8e	Ⲏ	COPTIC CAPITAL LETTER HATE	alpha	alnum	upper
+U+2c90	Ⲑ	COPTIC CAPITAL LETTER THETHE	alpha	alnum	upper
+U+2c92	Ⲓ	COPTIC CAPITAL LETTER IAUDA	alpha	alnum	upper
+U+2c94	Ⲕ	COPTIC CAPITAL LETTER KAPA	alpha	alnum	upper
+U+2c96	Ⲗ	COPTIC CAPITAL LETTER LAULA	alpha	alnum	upper
+U+2c98	Ⲙ	COPTIC CAPITAL LETTER MI	alpha	alnum	upper
+U+2c9a	Ⲛ	COPTIC CAPITAL LETTER NI	alpha	alnum	upper
+U+2c9c	Ⲝ	COPTIC CAPITAL LETTER KSI	alpha	alnum	upper
+U+2c9e	Ⲟ	COPTIC CAPITAL LETTER O	alpha	alnum	upper
+U+2ca0	Ⲡ	COPTIC CAPITAL LETTER PI	alpha	alnum	upper
+U+2ca2	Ⲣ	COPTIC CAPITAL LETTER RO	alpha	alnum	upper
+U+2ca4	Ⲥ	COPTIC CAPITAL LETTER SIMA	alpha	alnum	upper
+U+2ca6	Ⲧ	COPTIC CAPITAL LETTER TAU	alpha	alnum	upper
+U+2ca8	Ⲩ	COPTIC CAPITAL LETTER UA	alpha	alnum	upper
+U+2caa	Ⲫ	COPTIC CAPITAL LETTER FI	alpha	alnum	upper
+U+2cac	Ⲭ	COPTIC CAPITAL LETTER KHI	alpha	alnum	upper
+U+2cae	Ⲯ	COPTIC CAPITAL LETTER PSI	alpha	alnum	upper
+U+2cb0	Ⲱ	COPTIC CAPITAL LETTER OOU	alpha	alnum	upper
+U+2cb2	Ⲳ	COPTIC CAPITAL LETTER DIALECT-P ALEF	alpha	alnum	upper
+U+2cb4	Ⲵ	COPTIC CAPITAL LETTER OLD COPTIC AIN	alpha	alnum	upper
+U+2cb6	Ⲷ	COPTIC CAPITAL LETTER CRYPTOGRAMMIC EIE	alpha	alnum	upper
+U+2cb8	Ⲹ	COPTIC CAPITAL LETTER DIALECT-P KAPA	alpha	alnum	upper
+U+2cba	Ⲻ	COPTIC CAPITAL LETTER DIALECT-P NI	alpha	alnum	upper
+U+2cbc	Ⲽ	COPTIC CAPITAL LETTER CRYPTOGRAMMIC NI	alpha	alnum	upper
+U+2cbe	Ⲿ	COPTIC CAPITAL LETTER OLD COPTIC OOU	alpha	alnum	upper
+U+2cc0	Ⳁ	COPTIC CAPITAL LETTER SAMPI	alpha	alnum	upper
+U+2cc2	Ⳃ	COPTIC CAPITAL LETTER CROSSED SHEI	alpha	alnum	upper
+U+2cc4	Ⳅ	COPTIC CAPITAL LETTER OLD COPTIC SHEI	alpha	alnum	upper
+U+2cc6	Ⳇ	COPTIC CAPITAL LETTER OLD COPTIC ESH	alpha	alnum	upper
+U+2cc8	Ⳉ	COPTIC CAPITAL LETTER AKHMIMIC KHEI	alpha	alnum	upper
+U+2cca	Ⳋ	COPTIC CAPITAL LETTER DIALECT-P HORI	alpha	alnum	upper
+U+2ccc	Ⳍ	COPTIC CAPITAL LETTER OLD COPTIC HORI	alpha	alnum	upper
+U+2cce	Ⳏ	COPTIC CAPITAL LETTER OLD COPTIC HA	alpha	alnum	upper
+U+2cd0	Ⳑ	COPTIC CAPITAL LETTER L-SHAPED HA	alpha	alnum	upper
+U+2cd2	Ⳓ	COPTIC CAPITAL LETTER OLD COPTIC HEI	alpha	alnum	upper
+U+2cd4	Ⳕ	COPTIC CAPITAL LETTER OLD COPTIC HAT	alpha	alnum	upper
+U+2cd6	Ⳗ	COPTIC CAPITAL LETTER OLD COPTIC GANGIA	alpha	alnum	upper
+U+2cd8	Ⳙ	COPTIC CAPITAL LETTER OLD COPTIC DJA	alpha	alnum	upper
+U+2cda	Ⳛ	COPTIC CAPITAL LETTER OLD COPTIC SHIMA	alpha	alnum	upper
+U+2cdc	Ⳝ	COPTIC CAPITAL LETTER OLD NUBIAN SHIMA	alpha	alnum	upper
+U+2cde	Ⳟ	COPTIC CAPITAL LETTER OLD NUBIAN NGI	alpha	alnum	upper
+U+2ce0	Ⳡ	COPTIC CAPITAL LETTER OLD NUBIAN NYI	alpha	alnum	upper
+U+2ce2	Ⳣ	COPTIC CAPITAL LETTER OLD NUBIAN WAU	alpha	alnum	upper
+U+2ceb	Ⳬ	COPTIC CAPITAL LETTER CRYPTOGRAMMIC SHEI	alpha	alnum	upper
+U+2ced	Ⳮ	COPTIC CAPITAL LETTER CRYPTOGRAMMIC GANGIA	alpha	alnum	upper
+U+2cf2	Ⳳ	COPTIC CAPITAL LETTER BOHAIRIC KHEI	alpha	alnum	upper
+U+a640	Ꙁ	CYRILLIC CAPITAL LETTER ZEMLYA	alpha	alnum	upper
+U+a642	Ꙃ	CYRILLIC CAPITAL LETTER DZELO	alpha	alnum	upper
+U+a644	Ꙅ	CYRILLIC CAPITAL LETTER REVERSED DZE	alpha	alnum	upper
+U+a646	Ꙇ	CYRILLIC CAPITAL LETTER IOTA	alpha	alnum	upper
+U+a648	Ꙉ	CYRILLIC CAPITAL LETTER DJERV	alpha	alnum	upper
+U+a64a	Ꙋ	CYRILLIC CAPITAL LETTER MONOGRAPH UK	alpha	alnum	upper
+U+a64c	Ꙍ	CYRILLIC CAPITAL LETTER BROAD OMEGA	alpha	alnum	upper
+U+a64e	Ꙏ	CYRILLIC CAPITAL LETTER NEUTRAL YER	alpha	alnum	upper
+U+a650	Ꙑ	CYRILLIC CAPITAL LETTER YERU WITH BACK YER	alpha	alnum	upper
+U+a652	Ꙓ	CYRILLIC CAPITAL LETTER IOTIFIED YAT	alpha	alnum	upper
+U+a654	Ꙕ	CYRILLIC CAPITAL LETTER REVERSED YU	alpha	alnum	upper
+U+a656	Ꙗ	CYRILLIC CAPITAL LETTER IOTIFIED A	alpha	alnum	upper
+U+a658	Ꙙ	CYRILLIC CAPITAL LETTER CLOSED LITTLE YUS	alpha	alnum	upper
+U+a65a	Ꙛ	CYRILLIC CAPITAL LETTER BLENDED YUS	alpha	alnum	upper
+U+a65c	Ꙝ	CYRILLIC CAPITAL LETTER IOTIFIED CLOSED LITTLE YUS	alpha	alnum	upper
+U+a65e	Ꙟ	CYRILLIC CAPITAL LETTER YN	alpha	alnum	upper
+U+a660	Ꙡ	CYRILLIC CAPITAL LETTER REVERSED TSE	alpha	alnum	upper
+U+a662	Ꙣ	CYRILLIC CAPITAL LETTER SOFT DE	alpha	alnum	upper
+U+a664	Ꙥ	CYRILLIC CAPITAL LETTER SOFT EL	alpha	alnum	upper
+U+a666	Ꙧ	CYRILLIC CAPITAL LETTER SOFT EM	alpha	alnum	upper
+U+a668	Ꙩ	CYRILLIC CAPITAL LETTER MONOCULAR O	alpha	alnum	upper
+U+a66a	Ꙫ	CYRILLIC CAPITAL LETTER BINOCULAR O	alpha	alnum	upper
+U+a66c	Ꙭ	CYRILLIC CAPITAL LETTER DOUBLE MONOCULAR O	alpha	alnum	upper
+U+a680	Ꚁ	CYRILLIC CAPITAL LETTER DWE	alpha	alnum	upper
+U+a682	Ꚃ	CYRILLIC CAPITAL LETTER DZWE	alpha	alnum	upper
+U+a684	Ꚅ	CYRILLIC CAPITAL LETTER ZHWE	alpha	alnum	upper
+U+a686	Ꚇ	CYRILLIC CAPITAL LETTER CCHE	alpha	alnum	upper
+U+a688	Ꚉ	CYRILLIC CAPITAL LETTER DZZE	alpha	alnum	upper
+U+a68a	Ꚋ	CYRILLIC CAPITAL LETTER TE WITH MIDDLE HOOK	alpha	alnum	upper
+U+a68c	Ꚍ	CYRILLIC CAPITAL LETTER TWE	alpha	alnum	upper
+U+a68e	Ꚏ	CYRILLIC CAPITAL LETTER TSWE	alpha	alnum	upper
+U+a690	Ꚑ	CYRILLIC CAPITAL LETTER TSSE	alpha	alnum	upper
+U+a692	Ꚓ	CYRILLIC CAPITAL LETTER TCHE	alpha	alnum	upper
+U+a694	Ꚕ	CYRILLIC CAPITAL LETTER HWE	alpha	alnum	upper
+U+a696	Ꚗ	CYRILLIC CAPITAL LETTER SHWE	alpha	alnum	upper
+U+a698	Ꚙ	CYRILLIC CAPITAL LETTER DOUBLE O	alpha	alnum	upper
+U+a69a	Ꚛ	CYRILLIC CAPITAL LETTER CROSSED O	alpha	alnum	upper
+U+a722	Ꜣ	LATIN CAPITAL LETTER EGYPTOLOGICAL ALEF	alpha	alnum	upper
+U+a724	Ꜥ	LATIN CAPITAL LETTER EGYPTOLOGICAL AIN	alpha	alnum	upper
+U+a726	Ꜧ	LATIN CAPITAL LETTER HENG	alpha	alnum	upper
+U+a728	Ꜩ	LATIN CAPITAL LETTER TZ	alpha	alnum	upper
+U+a72a	Ꜫ	LATIN CAPITAL LETTER TRESILLO	alpha	alnum	upper
+U+a72c	Ꜭ	LATIN CAPITAL LETTER CUATRILLO	alpha	alnum	upper
+U+a72e	Ꜯ	LATIN CAPITAL LETTER CUATRILLO WITH COMMA	alpha	alnum	upper
+U+a732	Ꜳ	LATIN CAPITAL LETTER AA	alpha	alnum	upper
+U+a734	Ꜵ	LATIN CAPITAL LETTER AO	alpha	alnum	upper
+U+a736	Ꜷ	LATIN CAPITAL LETTER AU	alpha	alnum	upper
+U+a738	Ꜹ	LATIN CAPITAL LETTER AV	alpha	alnum	upper
+U+a73a	Ꜻ	LATIN CAPITAL LETTER AV WITH HORIZONTAL BAR	alpha	alnum	upper
+U+a73c	Ꜽ	LATIN CAPITAL LETTER AY	alpha	alnum	upper
+U+a73e	Ꜿ	LATIN CAPITAL LETTER REVERSED C WITH DOT	alpha	alnum	upper
+U+a740	Ꝁ	LATIN CAPITAL LETTER K WITH STROKE	alpha	alnum	upper
+U+a742	Ꝃ	LATIN CAPITAL LETTER K WITH DIAGONAL STROKE	alpha	alnum	upper
+U+a744	Ꝅ	LATIN CAPITAL LETTER K WITH STROKE AND DIAGONAL STROKE	alpha	alnum	upper
+U+a746	Ꝇ	LATIN CAPITAL LETTER BROKEN L	alpha	alnum	upper
+U+a748	Ꝉ	LATIN CAPITAL LETTER L WITH HIGH STROKE	alpha	alnum	upper
+U+a74a	Ꝋ	LATIN CAPITAL LETTER O WITH LONG STROKE OVERLAY	alpha	alnum	upper
+U+a74c	Ꝍ	LATIN CAPITAL LETTER O WITH LOOP	alpha	alnum	upper
+U+a74e	Ꝏ	LATIN CAPITAL LETTER OO	alpha	alnum	upper
+U+a750	Ꝑ	LATIN CAPITAL LETTER P WITH STROKE THROUGH DESCENDER	alpha	alnum	upper
+U+a752	Ꝓ	LATIN CAPITAL LETTER P WITH FLOURISH	alpha	alnum	upper
+U+a754	Ꝕ	LATIN CAPITAL LETTER P WITH SQUIRREL TAIL	alpha	alnum	upper
+U+a756	Ꝗ	LATIN CAPITAL LETTER Q WITH STROKE THROUGH DESCENDER	alpha	alnum	upper
+U+a758	Ꝙ	LATIN CAPITAL LETTER Q WITH DIAGONAL STROKE	alpha	alnum	upper
+U+a75a	Ꝛ	LATIN CAPITAL LETTER R ROTUNDA	alpha	alnum	upper
+U+a75c	Ꝝ	LATIN CAPITAL LETTER RUM ROTUNDA	alpha	alnum	upper
+U+a75e	Ꝟ	LATIN CAPITAL LETTER V WITH DIAGONAL STROKE	alpha	alnum	upper
+U+a760	Ꝡ	LATIN CAPITAL LETTER VY	alpha	alnum	upper
+U+a762	Ꝣ	LATIN CAPITAL LETTER VISIGOTHIC Z	alpha	alnum	upper
+U+a764	Ꝥ	LATIN CAPITAL LETTER THORN WITH STROKE	alpha	alnum	upper
+U+a766	Ꝧ	LATIN CAPITAL LETTER THORN WITH STROKE THROUGH DESCENDER	alpha	alnum	upper
+U+a768	Ꝩ	LATIN CAPITAL LETTER VEND	alpha	alnum	upper
+U+a76a	Ꝫ	LATIN CAPITAL LETTER ET	alpha	alnum	upper
+U+a76c	Ꝭ	LATIN CAPITAL LETTER IS	alpha	alnum	upper
+U+a76e	Ꝯ	LATIN CAPITAL LETTER CON	alpha	alnum	upper
+U+a779	Ꝺ	LATIN CAPITAL LETTER INSULAR D	alpha	alnum	upper
+U+a77b	Ꝼ	LATIN CAPITAL LETTER INSULAR F	alpha	alnum	upper
+U+a77d	Ᵹ	LATIN CAPITAL LETTER INSULAR G	alpha	alnum	upper
+U+a77e	Ꝿ	LATIN CAPITAL LETTER TURNED INSULAR G	alpha	alnum	upper
+U+a780	Ꞁ	LATIN CAPITAL LETTER TURNED L	alpha	alnum	upper
+U+a782	Ꞃ	LATIN CAPITAL LETTER INSULAR R	alpha	alnum	upper
+U+a784	Ꞅ	LATIN CAPITAL LETTER INSULAR S	alpha	alnum	upper
+U+a786	Ꞇ	LATIN CAPITAL LETTER INSULAR T	alpha	alnum	upper
+U+a78b	Ꞌ	LATIN CAPITAL LETTER SALTILLO	alpha	alnum	upper
+U+a78d	Ɥ	LATIN CAPITAL LETTER TURNED H	alpha	alnum	upper
+U+a790	Ꞑ	LATIN CAPITAL LETTER N WITH DESCENDER	alpha	alnum	upper
+U+a792	Ꞓ	LATIN CAPITAL LETTER C WITH BAR	alpha	alnum	upper
+U+a796	Ꞗ	LATIN CAPITAL LETTER B WITH FLOURISH	alpha	alnum	upper
+U+a798	Ꞙ	LATIN CAPITAL LETTER F WITH STROKE	alpha	alnum	upper
+U+a79a	Ꞛ	LATIN CAPITAL LETTER VOLAPUK AE	alpha	alnum	upper
+U+a79c	Ꞝ	LATIN CAPITAL LETTER VOLAPUK OE	alpha	alnum	upper
+U+a79e	Ꞟ	LATIN CAPITAL LETTER VOLAPUK UE	alpha	alnum	upper
+U+a7a0	Ꞡ	LATIN CAPITAL LETTER G WITH OBLIQUE STROKE	alpha	alnum	upper
+U+a7a2	Ꞣ	LATIN CAPITAL LETTER K WITH OBLIQUE STROKE	alpha	alnum	upper
+U+a7a4	Ꞥ	LATIN CAPITAL LETTER N WITH OBLIQUE STROKE	alpha	alnum	upper
+U+a7a6	Ꞧ	LATIN CAPITAL LETTER R WITH OBLIQUE STROKE	alpha	alnum	upper
+U+a7a8	Ꞩ	LATIN CAPITAL LETTER S WITH OBLIQUE STROKE	alpha	alnum	upper
+U+a7aa	Ɦ	LATIN CAPITAL LETTER H WITH HOOK	alpha	alnum	upper
+U+a7ab	Ɜ	LATIN CAPITAL LETTER REVERSED OPEN E	alpha	alnum	upper
+U+a7ac	Ɡ	LATIN CAPITAL LETTER SCRIPT G	alpha	alnum	upper
+U+a7ad	Ɬ	LATIN CAPITAL LETTER L WITH BELT	alpha	alnum	upper
+U+a7ae	Ɪ	LATIN CAPITAL LETTER SMALL CAPITAL I	alpha	alnum	upper
+U+a7b0	Ʞ	LATIN CAPITAL LETTER TURNED K	alpha	alnum	upper
+U+a7b1	Ʇ	LATIN CAPITAL LETTER TURNED T	alpha	alnum	upper
+U+a7b2	Ʝ	LATIN CAPITAL LETTER J WITH CROSSED-TAIL	alpha	alnum	upper
+U+a7b3	Ꭓ	LATIN CAPITAL LETTER CHI	alpha	alnum	upper
+U+a7b4	Ꞵ	LATIN CAPITAL LETTER BETA	alpha	alnum	upper
+U+a7b6	Ꞷ	LATIN CAPITAL LETTER OMEGA	alpha	alnum	upper
+U+a7b8	Ꞹ	LATIN CAPITAL LETTER U WITH STROKE	alpha	alnum	upper
+U+a7ba	Ꞻ	LATIN CAPITAL LETTER GLOTTAL A	alpha	alnum	upper
+U+a7bc	Ꞽ	LATIN CAPITAL LETTER GLOTTAL I	alpha	alnum	upper
+U+a7be	Ꞿ	LATIN CAPITAL LETTER GLOTTAL U	alpha	alnum	upper
+U+a7c2	Ꟃ	LATIN CAPITAL LETTER ANGLICANA W	alpha	alnum	upper
+U+a7c4	Ꞔ	LATIN CAPITAL LETTER C WITH PALATAL HOOK	alpha	alnum	upper
+U+a7c5	Ʂ	LATIN CAPITAL LETTER S WITH HOOK	alpha	alnum	upper
+U+a7c6	Ᶎ	LATIN CAPITAL LETTER Z WITH PALATAL HOOK	alpha	alnum	upper
+U+ff21	Ａ	FULLWIDTH LATIN CAPITAL LETTER A	alpha	alnum	upper
+U+ff22	Ｂ	FULLWIDTH LATIN CAPITAL LETTER B	alpha	alnum	upper
+U+ff23	Ｃ	FULLWIDTH LATIN CAPITAL LETTER C	alpha	alnum	upper
+U+ff24	Ｄ	FULLWIDTH LATIN CAPITAL LETTER D	alpha	alnum	upper
+U+ff25	Ｅ	FULLWIDTH LATIN CAPITAL LETTER E	alpha	alnum	upper
+U+ff26	Ｆ	FULLWIDTH LATIN CAPITAL LETTER F	alpha	alnum	upper
+U+ff27	Ｇ	FULLWIDTH LATIN CAPITAL LETTER G	alpha	alnum	upper
+U+ff28	Ｈ	FULLWIDTH LATIN CAPITAL LETTER H	alpha	alnum	upper
+U+ff29	Ｉ	FULLWIDTH LATIN CAPITAL LETTER I	alpha	alnum	upper
+U+ff2a	Ｊ	FULLWIDTH LATIN CAPITAL LETTER J	alpha	alnum	upper
+U+ff2b	Ｋ	FULLWIDTH LATIN CAPITAL LETTER K	alpha	alnum	upper
+U+ff2c	Ｌ	FULLWIDTH LATIN CAPITAL LETTER L	alpha	alnum	upper
+U+ff2d	Ｍ	FULLWIDTH LATIN CAPITAL LETTER M	alpha	alnum	upper
+U+ff2e	Ｎ	FULLWIDTH LATIN CAPITAL LETTER N	alpha	alnum	upper
+U+ff2f	Ｏ	FULLWIDTH LATIN CAPITAL LETTER O	alpha	alnum	upper
+U+ff30	Ｐ	FULLWIDTH LATIN CAPITAL LETTER P	alpha	alnum	upper
+U+ff31	Ｑ	FULLWIDTH LATIN CAPITAL LETTER Q	alpha	alnum	upper
+U+ff32	Ｒ	FULLWIDTH LATIN CAPITAL LETTER R	alpha	alnum	upper
+U+ff33	Ｓ	FULLWIDTH LATIN CAPITAL LETTER S	alpha	alnum	upper
+U+ff34	Ｔ	FULLWIDTH LATIN CAPITAL LETTER T	alpha	alnum	upper
+U+ff35	Ｕ	FULLWIDTH LATIN CAPITAL LETTER U	alpha	alnum	upper
+U+ff36	Ｖ	FULLWIDTH LATIN CAPITAL LETTER V	alpha	alnum	upper
+U+ff37	Ｗ	FULLWIDTH LATIN CAPITAL LETTER W	alpha	alnum	upper
+U+ff38	Ｘ	FULLWIDTH LATIN CAPITAL LETTER X	alpha	alnum	upper
+U+ff39	Ｙ	FULLWIDTH LATIN CAPITAL LETTER Y	alpha	alnum	upper
+U+ff3a	Ｚ	FULLWIDTH LATIN CAPITAL LETTER Z	alpha	alnum	upper
+U+10400	𐐀	DESERET CAPITAL LETTER LONG I	alpha	alnum	upper
+U+10401	𐐁	DESERET CAPITAL LETTER LONG E	alpha	alnum	upper
+U+10402	𐐂	DESERET CAPITAL LETTER LONG A	alpha	alnum	upper
+U+10403	𐐃	DESERET CAPITAL LETTER LONG AH	alpha	alnum	upper
+U+10404	𐐄	DESERET CAPITAL LETTER LONG O	alpha	alnum	upper
+U+10405	𐐅	DESERET CAPITAL LETTER LONG OO	alpha	alnum	upper
+U+10406	𐐆	DESERET CAPITAL LETTER SHORT I	alpha	alnum	upper
+U+10407	𐐇	DESERET CAPITAL LETTER SHORT E	alpha	alnum	upper
+U+10408	𐐈	DESERET CAPITAL LETTER SHORT A	alpha	alnum	upper
+U+10409	𐐉	DESERET CAPITAL LETTER SHORT AH	alpha	alnum	upper
+U+1040a	𐐊	DESERET CAPITAL LETTER SHORT O	alpha	alnum	upper
+U+1040b	𐐋	DESERET CAPITAL LETTER SHORT OO	alpha	alnum	upper
+U+1040c	𐐌	DESERET CAPITAL LETTER AY	alpha	alnum	upper
+U+1040d	𐐍	DESERET CAPITAL LETTER OW	alpha	alnum	upper
+U+1040e	𐐎	DESERET CAPITAL LETTER WU	alpha	alnum	upper
+U+1040f	𐐏	DESERET CAPITAL LETTER YEE	alpha	alnum	upper
+U+10410	𐐐	DESERET CAPITAL LETTER H	alpha	alnum	upper
+U+10411	𐐑	DESERET CAPITAL LETTER PEE	alpha	alnum	upper
+U+10412	𐐒	DESERET CAPITAL LETTER BEE	alpha	alnum	upper
+U+10413	𐐓	DESERET CAPITAL LETTER TEE	alpha	alnum	upper
+U+10414	𐐔	DESERET CAPITAL LETTER DEE	alpha	alnum	upper
+U+10415	𐐕	DESERET CAPITAL LETTER CHEE	alpha	alnum	upper
+U+10416	𐐖	DESERET CAPITAL LETTER JEE	alpha	alnum	upper
+U+10417	𐐗	DESERET CAPITAL LETTER KAY	alpha	alnum	upper
+U+10418	𐐘	DESERET CAPITAL LETTER GAY	alpha	alnum	upper
+U+10419	𐐙	DESERET CAPITAL LETTER EF	alpha	alnum	upper
+U+1041a	𐐚	DESERET CAPITAL LETTER VEE	alpha	alnum	upper
+U+1041b	𐐛	DESERET CAPITAL LETTER ETH	alpha	alnum	upper
+U+1041c	𐐜	DESERET CAPITAL LETTER THEE	alpha	alnum	upper
+U+1041d	𐐝	DESERET CAPITAL LETTER ES	alpha	alnum	upper
+U+1041e	𐐞	DESERET CAPITAL LETTER ZEE	alpha	alnum	upper
+U+1041f	𐐟	DESERET CAPITAL LETTER ESH	alpha	alnum	upper
+U+10420	𐐠	DESERET CAPITAL LETTER ZHEE	alpha	alnum	upper
+U+10421	𐐡	DESERET CAPITAL LETTER ER	alpha	alnum	upper
+U+10422	𐐢	DESERET CAPITAL LETTER EL	alpha	alnum	upper
+U+10423	𐐣	DESERET CAPITAL LETTER EM	alpha	alnum	upper
+U+10424	𐐤	DESERET CAPITAL LETTER EN	alpha	alnum	upper
+U+10425	𐐥	DESERET CAPITAL LETTER ENG	alpha	alnum	upper
+U+10426	𐐦	DESERET CAPITAL LETTER OI	alpha	alnum	upper
+U+10427	𐐧	DESERET CAPITAL LETTER EW	alpha	alnum	upper
+U+104b0	𐒰	OSAGE CAPITAL LETTER A	alpha	alnum	upper
+U+104b1	𐒱	OSAGE CAPITAL LETTER AI	alpha	alnum	upper
+U+104b2	𐒲	OSAGE CAPITAL LETTER AIN	alpha	alnum	upper
+U+104b3	𐒳	OSAGE CAPITAL LETTER AH	alpha	alnum	upper
+U+104b4	𐒴	OSAGE CAPITAL LETTER BRA	alpha	alnum	upper
+U+104b5	𐒵	OSAGE CAPITAL LETTER CHA	alpha	alnum	upper
+U+104b6	𐒶	OSAGE CAPITAL LETTER EHCHA	alpha	alnum	upper
+U+104b7	𐒷	OSAGE CAPITAL LETTER E	alpha	alnum	upper
+U+104b8	𐒸	OSAGE CAPITAL LETTER EIN	alpha	alnum	upper
+U+104b9	𐒹	OSAGE CAPITAL LETTER HA	alpha	alnum	upper
+U+104ba	𐒺	OSAGE CAPITAL LETTER HYA	alpha	alnum	upper
+U+104bb	𐒻	OSAGE CAPITAL LETTER I	alpha	alnum	upper
+U+104bc	𐒼	OSAGE CAPITAL LETTER KA	alpha	alnum	upper
+U+104bd	𐒽	OSAGE CAPITAL LETTER EHKA	alpha	alnum	upper
+U+104be	𐒾	OSAGE CAPITAL LETTER KYA	alpha	alnum	upper
+U+104bf	𐒿	OSAGE CAPITAL LETTER LA	alpha	alnum	upper
+U+104c0	𐓀	OSAGE CAPITAL LETTER MA	alpha	alnum	upper
+U+104c1	𐓁	OSAGE CAPITAL LETTER NA	alpha	alnum	upper
+U+104c2	𐓂	OSAGE CAPITAL LETTER O	alpha	alnum	upper
+U+104c3	𐓃	OSAGE CAPITAL LETTER OIN	alpha	alnum	upper
+U+104c4	𐓄	OSAGE CAPITAL LETTER PA	alpha	alnum	upper
+U+104c5	𐓅	OSAGE CAPITAL LETTER EHPA	alpha	alnum	upper
+U+104c6	𐓆	OSAGE CAPITAL LETTER SA	alpha	alnum	upper
+U+104c7	𐓇	OSAGE CAPITAL LETTER SHA	alpha	alnum	upper
+U+104c8	𐓈	OSAGE CAPITAL LETTER TA	alpha	alnum	upper
+U+104c9	𐓉	OSAGE CAPITAL LETTER EHTA	alpha	alnum	upper
+U+104ca	𐓊	OSAGE CAPITAL LETTER TSA	alpha	alnum	upper
+U+104cb	𐓋	OSAGE CAPITAL LETTER EHTSA	alpha	alnum	upper
+U+104cc	𐓌	OSAGE CAPITAL LETTER TSHA	alpha	alnum	upper
+U+104cd	𐓍	OSAGE CAPITAL LETTER DHA	alpha	alnum	upper
+U+104ce	𐓎	OSAGE CAPITAL LETTER U	alpha	alnum	upper
+U+104cf	𐓏	OSAGE CAPITAL LETTER WA	alpha	alnum	upper
+U+104d0	𐓐	OSAGE CAPITAL LETTER KHA	alpha	alnum	upper
+U+104d1	𐓑	OSAGE CAPITAL LETTER GHA	alpha	alnum	upper
+U+104d2	𐓒	OSAGE CAPITAL LETTER ZA	alpha	alnum	upper
+U+104d3	𐓓	OSAGE CAPITAL LETTER ZHA	alpha	alnum	upper
+U+10c80	𐲀	OLD HUNGARIAN CAPITAL LETTER A	alpha	alnum	upper
+U+10c81	𐲁	OLD HUNGARIAN CAPITAL LETTER AA	alpha	alnum	upper
+U+10c82	𐲂	OLD HUNGARIAN CAPITAL LETTER EB	alpha	alnum	upper
+U+10c83	𐲃	OLD HUNGARIAN CAPITAL LETTER AMB	alpha	alnum	upper
+U+10c84	𐲄	OLD HUNGARIAN CAPITAL LETTER EC	alpha	alnum	upper
+U+10c85	𐲅	OLD HUNGARIAN CAPITAL LETTER ENC	alpha	alnum	upper
+U+10c86	𐲆	OLD HUNGARIAN CAPITAL LETTER ECS	alpha	alnum	upper
+U+10c87	𐲇	OLD HUNGARIAN CAPITAL LETTER ED	alpha	alnum	upper
+U+10c88	𐲈	OLD HUNGARIAN CAPITAL LETTER AND	alpha	alnum	upper
+U+10c89	𐲉	OLD HUNGARIAN CAPITAL LETTER E	alpha	alnum	upper
+U+10c8a	𐲊	OLD HUNGARIAN CAPITAL LETTER CLOSE E	alpha	alnum	upper
+U+10c8b	𐲋	OLD HUNGARIAN CAPITAL LETTER EE	alpha	alnum	upper
+U+10c8c	𐲌	OLD HUNGARIAN CAPITAL LETTER EF	alpha	alnum	upper
+U+10c8d	𐲍	OLD HUNGARIAN CAPITAL LETTER EG	alpha	alnum	upper
+U+10c8e	𐲎	OLD HUNGARIAN CAPITAL LETTER EGY	alpha	alnum	upper
+U+10c8f	𐲏	OLD HUNGARIAN CAPITAL LETTER EH	alpha	alnum	upper
+U+10c90	𐲐	OLD HUNGARIAN CAPITAL LETTER I	alpha	alnum	upper
+U+10c91	𐲑	OLD HUNGARIAN CAPITAL LETTER II	alpha	alnum	upper
+U+10c92	𐲒	OLD HUNGARIAN CAPITAL LETTER EJ	alpha	alnum	upper
+U+10c93	𐲓	OLD HUNGARIAN CAPITAL LETTER EK	alpha	alnum	upper
+U+10c94	𐲔	OLD HUNGARIAN CAPITAL LETTER AK	alpha	alnum	upper
+U+10c95	𐲕	OLD HUNGARIAN CAPITAL LETTER UNK	alpha	alnum	upper
+U+10c96	𐲖	OLD HUNGARIAN CAPITAL LETTER EL	alpha	alnum	upper
+U+10c97	𐲗	OLD HUNGARIAN CAPITAL LETTER ELY	alpha	alnum	upper
+U+10c98	𐲘	OLD HUNGARIAN CAPITAL LETTER EM	alpha	alnum	upper
+U+10c99	𐲙	OLD HUNGARIAN CAPITAL LETTER EN	alpha	alnum	upper
+U+10c9a	𐲚	OLD HUNGARIAN CAPITAL LETTER ENY	alpha	alnum	upper
+U+10c9b	𐲛	OLD HUNGARIAN CAPITAL LETTER O	alpha	alnum	upper
+U+10c9c	𐲜	OLD HUNGARIAN CAPITAL LETTER OO	alpha	alnum	upper
+U+10c9d	𐲝	OLD HUNGARIAN CAPITAL LETTER NIKOLSBURG OE	alpha	alnum	upper
+U+10c9e	𐲞	OLD HUNGARIAN CAPITAL LETTER RUDIMENTA OE	alpha	alnum	upper
+U+10c9f	𐲟	OLD HUNGARIAN CAPITAL LETTER OEE	alpha	alnum	upper
+U+10ca0	𐲠	OLD HUNGARIAN CAPITAL LETTER EP	alpha	alnum	upper
+U+10ca1	𐲡	OLD HUNGARIAN CAPITAL LETTER EMP	alpha	alnum	upper
+U+10ca2	𐲢	OLD HUNGARIAN CAPITAL LETTER ER	alpha	alnum	upper
+U+10ca3	𐲣	OLD HUNGARIAN CAPITAL LETTER SHORT ER	alpha	alnum	upper
+U+10ca4	𐲤	OLD HUNGARIAN CAPITAL LETTER ES	alpha	alnum	upper
+U+10ca5	𐲥	OLD HUNGARIAN CAPITAL LETTER ESZ	alpha	alnum	upper
+U+10ca6	𐲦	OLD HUNGARIAN CAPITAL LETTER ET	alpha	alnum	upper
+U+10ca7	𐲧	OLD HUNGARIAN CAPITAL LETTER ENT	alpha	alnum	upper
+U+10ca8	𐲨	OLD HUNGARIAN CAPITAL LETTER ETY	alpha	alnum	upper
+U+10ca9	𐲩	OLD HUNGARIAN CAPITAL LETTER ECH	alpha	alnum	upper
+U+10caa	𐲪	OLD HUNGARIAN CAPITAL LETTER U	alpha	alnum	upper
+U+10cab	𐲫	OLD HUNGARIAN CAPITAL LETTER UU	alpha	alnum	upper
+U+10cac	𐲬	OLD HUNGARIAN CAPITAL LETTER NIKOLSBURG UE	alpha	alnum	upper
+U+10cad	𐲭	OLD HUNGARIAN CAPITAL LETTER RUDIMENTA UE	alpha	alnum	upper
+U+10cae	𐲮	OLD HUNGARIAN CAPITAL LETTER EV	alpha	alnum	upper
+U+10caf	𐲯	OLD HUNGARIAN CAPITAL LETTER EZ	alpha	alnum	upper
+U+10cb0	𐲰	OLD HUNGARIAN CAPITAL LETTER EZS	alpha	alnum	upper
+U+10cb1	𐲱	OLD HUNGARIAN CAPITAL LETTER ENT-SHAPED SIGN	alpha	alnum	upper
+U+10cb2	𐲲	OLD HUNGARIAN CAPITAL LETTER US	alpha	alnum	upper
+U+118a0	𑢠	WARANG CITI CAPITAL LETTER NGAA	alpha	alnum	upper
+U+118a1	𑢡	WARANG CITI CAPITAL LETTER A	alpha	alnum	upper
+U+118a2	𑢢	WARANG CITI CAPITAL LETTER WI	alpha	alnum	upper
+U+118a3	𑢣	WARANG CITI CAPITAL LETTER YU	alpha	alnum	upper
+U+118a4	𑢤	WARANG CITI CAPITAL LETTER YA	alpha	alnum	upper
+U+118a5	𑢥	WARANG CITI CAPITAL LETTER YO	alpha	alnum	upper
+U+118a6	𑢦	WARANG CITI CAPITAL LETTER II	alpha	alnum	upper
+U+118a7	𑢧	WARANG CITI CAPITAL LETTER UU	alpha	alnum	upper
+U+118a8	𑢨	WARANG CITI CAPITAL LETTER E	alpha	alnum	upper
+U+118a9	𑢩	WARANG CITI CAPITAL LETTER O	alpha	alnum	upper
+U+118aa	𑢪	WARANG CITI CAPITAL LETTER ANG	alpha	alnum	upper
+U+118ab	𑢫	WARANG CITI CAPITAL LETTER GA	alpha	alnum	upper
+U+118ac	𑢬	WARANG CITI CAPITAL LETTER KO	alpha	alnum	upper
+U+118ad	𑢭	WARANG CITI CAPITAL LETTER ENY	alpha	alnum	upper
+U+118ae	𑢮	WARANG CITI CAPITAL LETTER YUJ	alpha	alnum	upper
+U+118af	𑢯	WARANG CITI CAPITAL LETTER UC	alpha	alnum	upper
+U+118b0	𑢰	WARANG CITI CAPITAL LETTER ENN	alpha	alnum	upper
+U+118b1	𑢱	WARANG CITI CAPITAL LETTER ODD	alpha	alnum	upper
+U+118b2	𑢲	WARANG CITI CAPITAL LETTER TTE	alpha	alnum	upper
+U+118b3	𑢳	WARANG CITI CAPITAL LETTER NUNG	alpha	alnum	upper
+U+118b4	𑢴	WARANG CITI CAPITAL LETTER DA	alpha	alnum	upper
+U+118b5	𑢵	WARANG CITI CAPITAL LETTER AT	alpha	alnum	upper
+U+118b6	𑢶	WARANG CITI CAPITAL LETTER AM	alpha	alnum	upper
+U+118b7	𑢷	WARANG CITI CAPITAL LETTER BU	alpha	alnum	upper
+U+118b8	𑢸	WARANG CITI CAPITAL LETTER PU	alpha	alnum	upper
+U+118b9	𑢹	WARANG CITI CAPITAL LETTER HIYO	alpha	alnum	upper
+U+118ba	𑢺	WARANG CITI CAPITAL LETTER HOLO	alpha	alnum	upper
+U+118bb	𑢻	WARANG CITI CAPITAL LETTER HORR	alpha	alnum	upper
+U+118bc	𑢼	WARANG CITI CAPITAL LETTER HAR	alpha	alnum	upper
+U+118bd	𑢽	WARANG CITI CAPITAL LETTER SSUU	alpha	alnum	upper
+U+118be	𑢾	WARANG CITI CAPITAL LETTER SII	alpha	alnum	upper
+U+118bf	𑢿	WARANG CITI CAPITAL LETTER VIYO	alpha	alnum	upper
+U+16e40	𖹀	MEDEFAIDRIN CAPITAL LETTER M	alpha	alnum	upper
+U+16e41	𖹁	MEDEFAIDRIN CAPITAL LETTER S	alpha	alnum	upper
+U+16e42	𖹂	MEDEFAIDRIN CAPITAL LETTER V	alpha	alnum	upper
+U+16e43	𖹃	MEDEFAIDRIN CAPITAL LETTER W	alpha	alnum	upper
+U+16e44	𖹄	MEDEFAIDRIN CAPITAL LETTER ATIU	alpha	alnum	upper
+U+16e45	𖹅	MEDEFAIDRIN CAPITAL LETTER Z	alpha	alnum	upper
+U+16e46	𖹆	MEDEFAIDRIN CAPITAL LETTER KP	alpha	alnum	upper
+U+16e47	𖹇	MEDEFAIDRIN CAPITAL LETTER P	alpha	alnum	upper
+U+16e48	𖹈	MEDEFAIDRIN CAPITAL LETTER T	alpha	alnum	upper
+U+16e49	𖹉	MEDEFAIDRIN CAPITAL LETTER G	alpha	alnum	upper
+U+16e4a	𖹊	MEDEFAIDRIN CAPITAL LETTER F	alpha	alnum	upper
+U+16e4b	𖹋	MEDEFAIDRIN CAPITAL LETTER I	alpha	alnum	upper
+U+16e4c	𖹌	MEDEFAIDRIN CAPITAL LETTER K	alpha	alnum	upper
+U+16e4d	𖹍	MEDEFAIDRIN CAPITAL LETTER A	alpha	alnum	upper
+U+16e4e	𖹎	MEDEFAIDRIN CAPITAL LETTER J	alpha	alnum	upper
+U+16e4f	𖹏	MEDEFAIDRIN CAPITAL LETTER E	alpha	alnum	upper
+U+16e50	𖹐	MEDEFAIDRIN CAPITAL LETTER B	alpha	alnum	upper
+U+16e51	𖹑	MEDEFAIDRIN CAPITAL LETTER C	alpha	alnum	upper
+U+16e52	𖹒	MEDEFAIDRIN CAPITAL LETTER U	alpha	alnum	upper
+U+16e53	𖹓	MEDEFAIDRIN CAPITAL LETTER YU	alpha	alnum	upper
+U+16e54	𖹔	MEDEFAIDRIN CAPITAL LETTER L	alpha	alnum	upper
+U+16e55	𖹕	MEDEFAIDRIN CAPITAL LETTER Q	alpha	alnum	upper
+U+16e56	𖹖	MEDEFAIDRIN CAPITAL LETTER HP	alpha	alnum	upper
+U+16e57	𖹗	MEDEFAIDRIN CAPITAL LETTER NY	alpha	alnum	upper
+U+16e58	𖹘	MEDEFAIDRIN CAPITAL LETTER X	alpha	alnum	upper
+U+16e59	𖹙	MEDEFAIDRIN CAPITAL LETTER D	alpha	alnum	upper
+U+16e5a	𖹚	MEDEFAIDRIN CAPITAL LETTER OE	alpha	alnum	upper
+U+16e5b	𖹛	MEDEFAIDRIN CAPITAL LETTER N	alpha	alnum	upper
+U+16e5c	𖹜	MEDEFAIDRIN CAPITAL LETTER R	alpha	alnum	upper
+U+16e5d	𖹝	MEDEFAIDRIN CAPITAL LETTER O	alpha	alnum	upper
+U+16e5e	𖹞	MEDEFAIDRIN CAPITAL LETTER AI	alpha	alnum	upper
+U+16e5f	𖹟	MEDEFAIDRIN CAPITAL LETTER Y	alpha	alnum	upper
+U+1d400	𝐀	MATHEMATICAL BOLD CAPITAL A	alpha	alnum	upper
+U+1d401	𝐁	MATHEMATICAL BOLD CAPITAL B	alpha	alnum	upper
+U+1d402	𝐂	MATHEMATICAL BOLD CAPITAL C	alpha	alnum	upper
+U+1d403	𝐃	MATHEMATICAL BOLD CAPITAL D	alpha	alnum	upper
+U+1d404	𝐄	MATHEMATICAL BOLD CAPITAL E	alpha	alnum	upper
+U+1d405	𝐅	MATHEMATICAL BOLD CAPITAL F	alpha	alnum	upper
+U+1d406	𝐆	MATHEMATICAL BOLD CAPITAL G	alpha	alnum	upper
+U+1d407	𝐇	MATHEMATICAL BOLD CAPITAL H	alpha	alnum	upper
+U+1d408	𝐈	MATHEMATICAL BOLD CAPITAL I	alpha	alnum	upper
+U+1d409	𝐉	MATHEMATICAL BOLD CAPITAL J	alpha	alnum	upper
+U+1d40a	𝐊	MATHEMATICAL BOLD CAPITAL K	alpha	alnum	upper
+U+1d40b	𝐋	MATHEMATICAL BOLD CAPITAL L	alpha	alnum	upper
+U+1d40c	𝐌	MATHEMATICAL BOLD CAPITAL M	alpha	alnum	upper
+U+1d40d	𝐍	MATHEMATICAL BOLD CAPITAL N	alpha	alnum	upper
+U+1d40e	𝐎	MATHEMATICAL BOLD CAPITAL O	alpha	alnum	upper
+U+1d40f	𝐏	MATHEMATICAL BOLD CAPITAL P	alpha	alnum	upper
+U+1d410	𝐐	MATHEMATICAL BOLD CAPITAL Q	alpha	alnum	upper
+U+1d411	𝐑	MATHEMATICAL BOLD CAPITAL R	alpha	alnum	upper
+U+1d412	𝐒	MATHEMATICAL BOLD CAPITAL S	alpha	alnum	upper
+U+1d413	𝐓	MATHEMATICAL BOLD CAPITAL T	alpha	alnum	upper
+U+1d414	𝐔	MATHEMATICAL BOLD CAPITAL U	alpha	alnum	upper
+U+1d415	𝐕	MATHEMATICAL BOLD CAPITAL V	alpha	alnum	upper
+U+1d416	𝐖	MATHEMATICAL BOLD CAPITAL W	alpha	alnum	upper
+U+1d417	𝐗	MATHEMATICAL BOLD CAPITAL X	alpha	alnum	upper
+U+1d418	𝐘	MATHEMATICAL BOLD CAPITAL Y	alpha	alnum	upper
+U+1d419	𝐙	MATHEMATICAL BOLD CAPITAL Z	alpha	alnum	upper
+U+1d434	𝐴	MATHEMATICAL ITALIC CAPITAL A	alpha	alnum	upper
+U+1d435	𝐵	MATHEMATICAL ITALIC CAPITAL B	alpha	alnum	upper
+U+1d436	𝐶	MATHEMATICAL ITALIC CAPITAL C	alpha	alnum	upper
+U+1d437	𝐷	MATHEMATICAL ITALIC CAPITAL D	alpha	alnum	upper
+U+1d438	𝐸	MATHEMATICAL ITALIC CAPITAL E	alpha	alnum	upper
+U+1d439	𝐹	MATHEMATICAL ITALIC CAPITAL F	alpha	alnum	upper
+U+1d43a	𝐺	MATHEMATICAL ITALIC CAPITAL G	alpha	alnum	upper
+U+1d43b	𝐻	MATHEMATICAL ITALIC CAPITAL H	alpha	alnum	upper
+U+1d43c	𝐼	MATHEMATICAL ITALIC CAPITAL I	alpha	alnum	upper
+U+1d43d	𝐽	MATHEMATICAL ITALIC CAPITAL J	alpha	alnum	upper
+U+1d43e	𝐾	MATHEMATICAL ITALIC CAPITAL K	alpha	alnum	upper
+U+1d43f	𝐿	MATHEMATICAL ITALIC CAPITAL L	alpha	alnum	upper
+U+1d440	𝑀	MATHEMATICAL ITALIC CAPITAL M	alpha	alnum	upper
+U+1d441	𝑁	MATHEMATICAL ITALIC CAPITAL N	alpha	alnum	upper
+U+1d442	𝑂	MATHEMATICAL ITALIC CAPITAL O	alpha	alnum	upper
+U+1d443	𝑃	MATHEMATICAL ITALIC CAPITAL P	alpha	alnum	upper
+U+1d444	𝑄	MATHEMATICAL ITALIC CAPITAL Q	alpha	alnum	upper
+U+1d445	𝑅	MATHEMATICAL ITALIC CAPITAL R	alpha	alnum	upper
+U+1d446	𝑆	MATHEMATICAL ITALIC CAPITAL S	alpha	alnum	upper
+U+1d447	𝑇	MATHEMATICAL ITALIC CAPITAL T	alpha	alnum	upper
+U+1d448	𝑈	MATHEMATICAL ITALIC CAPITAL U	alpha	alnum	upper
+U+1d449	𝑉	MATHEMATICAL ITALIC CAPITAL V	alpha	alnum	upper
+U+1d44a	𝑊	MATHEMATICAL ITALIC CAPITAL W	alpha	alnum	upper
+U+1d44b	𝑋	MATHEMATICAL ITALIC CAPITAL X	alpha	alnum	upper
+U+1d44c	𝑌	MATHEMATICAL ITALIC CAPITAL Y	alpha	alnum	upper
+U+1d44d	𝑍	MATHEMATICAL ITALIC CAPITAL Z	alpha	alnum	upper
+U+1d468	𝑨	MATHEMATICAL BOLD ITALIC CAPITAL A	alpha	alnum	upper
+U+1d469	𝑩	MATHEMATICAL BOLD ITALIC CAPITAL B	alpha	alnum	upper
+U+1d46a	𝑪	MATHEMATICAL BOLD ITALIC CAPITAL C	alpha	alnum	upper
+U+1d46b	𝑫	MATHEMATICAL BOLD ITALIC CAPITAL D	alpha	alnum	upper
+U+1d46c	𝑬	MATHEMATICAL BOLD ITALIC CAPITAL E	alpha	alnum	upper
+U+1d46d	𝑭	MATHEMATICAL BOLD ITALIC CAPITAL F	alpha	alnum	upper
+U+1d46e	𝑮	MATHEMATICAL BOLD ITALIC CAPITAL G	alpha	alnum	upper
+U+1d46f	𝑯	MATHEMATICAL BOLD ITALIC CAPITAL H	alpha	alnum	upper
+U+1d470	𝑰	MATHEMATICAL BOLD ITALIC CAPITAL I	alpha	alnum	upper
+U+1d471	𝑱	MATHEMATICAL BOLD ITALIC CAPITAL J	alpha	alnum	upper
+U+1d472	𝑲	MATHEMATICAL BOLD ITALIC CAPITAL K	alpha	alnum	upper
+U+1d473	𝑳	MATHEMATICAL BOLD ITALIC CAPITAL L	alpha	alnum	upper
+U+1d474	𝑴	MATHEMATICAL BOLD ITALIC CAPITAL M	alpha	alnum	upper
+U+1d475	𝑵	MATHEMATICAL BOLD ITALIC CAPITAL N	alpha	alnum	upper
+U+1d476	𝑶	MATHEMATICAL BOLD ITALIC CAPITAL O	alpha	alnum	upper
+U+1d477	𝑷	MATHEMATICAL BOLD ITALIC CAPITAL P	alpha	alnum	upper
+U+1d478	𝑸	MATHEMATICAL BOLD ITALIC CAPITAL Q	alpha	alnum	upper
+U+1d479	𝑹	MATHEMATICAL BOLD ITALIC CAPITAL R	alpha	alnum	upper
+U+1d47a	𝑺	MATHEMATICAL BOLD ITALIC CAPITAL S	alpha	alnum	upper
+U+1d47b	𝑻	MATHEMATICAL BOLD ITALIC CAPITAL T	alpha	alnum	upper
+U+1d47c	𝑼	MATHEMATICAL BOLD ITALIC CAPITAL U	alpha	alnum	upper
+U+1d47d	𝑽	MATHEMATICAL BOLD ITALIC CAPITAL V	alpha	alnum	upper
+U+1d47e	𝑾	MATHEMATICAL BOLD ITALIC CAPITAL W	alpha	alnum	upper
+U+1d47f	𝑿	MATHEMATICAL BOLD ITALIC CAPITAL X	alpha	alnum	upper
+U+1d480	𝒀	MATHEMATICAL BOLD ITALIC CAPITAL Y	alpha	alnum	upper
+U+1d481	𝒁	MATHEMATICAL BOLD ITALIC CAPITAL Z	alpha	alnum	upper
+U+1d49c	𝒜	MATHEMATICAL SCRIPT CAPITAL A	alpha	alnum	upper
+U+1d49e	𝒞	MATHEMATICAL SCRIPT CAPITAL C	alpha	alnum	upper
+U+1d49f	𝒟	MATHEMATICAL SCRIPT CAPITAL D	alpha	alnum	upper
+U+1d4a2	𝒢	MATHEMATICAL SCRIPT CAPITAL G	alpha	alnum	upper
+U+1d4a5	𝒥	MATHEMATICAL SCRIPT CAPITAL J	alpha	alnum	upper
+U+1d4a6	𝒦	MATHEMATICAL SCRIPT CAPITAL K	alpha	alnum	upper
+U+1d4a9	𝒩	MATHEMATICAL SCRIPT CAPITAL N	alpha	alnum	upper
+U+1d4aa	𝒪	MATHEMATICAL SCRIPT CAPITAL O	alpha	alnum	upper
+U+1d4ab	𝒫	MATHEMATICAL SCRIPT CAPITAL P	alpha	alnum	upper
+U+1d4ac	𝒬	MATHEMATICAL SCRIPT CAPITAL Q	alpha	alnum	upper
+U+1d4ae	𝒮	MATHEMATICAL SCRIPT CAPITAL S	alpha	alnum	upper
+U+1d4af	𝒯	MATHEMATICAL SCRIPT CAPITAL T	alpha	alnum	upper
+U+1d4b0	𝒰	MATHEMATICAL SCRIPT CAPITAL U	alpha	alnum	upper
+U+1d4b1	𝒱	MATHEMATICAL SCRIPT CAPITAL V	alpha	alnum	upper
+U+1d4b2	𝒲	MATHEMATICAL SCRIPT CAPITAL W	alpha	alnum	upper
+U+1d4b3	𝒳	MATHEMATICAL SCRIPT CAPITAL X	alpha	alnum	upper
+U+1d4b4	𝒴	MATHEMATICAL SCRIPT CAPITAL Y	alpha	alnum	upper
+U+1d4b5	𝒵	MATHEMATICAL SCRIPT CAPITAL Z	alpha	alnum	upper
+U+1d4d0	𝓐	MATHEMATICAL BOLD SCRIPT CAPITAL A	alpha	alnum	upper
+U+1d4d1	𝓑	MATHEMATICAL BOLD SCRIPT CAPITAL B	alpha	alnum	upper
+U+1d4d2	𝓒	MATHEMATICAL BOLD SCRIPT CAPITAL C	alpha	alnum	upper
+U+1d4d3	𝓓	MATHEMATICAL BOLD SCRIPT CAPITAL D	alpha	alnum	upper
+U+1d4d4	𝓔	MATHEMATICAL BOLD SCRIPT CAPITAL E	alpha	alnum	upper
+U+1d4d5	𝓕	MATHEMATICAL BOLD SCRIPT CAPITAL F	alpha	alnum	upper
+U+1d4d6	𝓖	MATHEMATICAL BOLD SCRIPT CAPITAL G	alpha	alnum	upper
+U+1d4d7	𝓗	MATHEMATICAL BOLD SCRIPT CAPITAL H	alpha	alnum	upper
+U+1d4d8	𝓘	MATHEMATICAL BOLD SCRIPT CAPITAL I	alpha	alnum	upper
+U+1d4d9	𝓙	MATHEMATICAL BOLD SCRIPT CAPITAL J	alpha	alnum	upper
+U+1d4da	𝓚	MATHEMATICAL BOLD SCRIPT CAPITAL K	alpha	alnum	upper
+U+1d4db	𝓛	MATHEMATICAL BOLD SCRIPT CAPITAL L	alpha	alnum	upper
+U+1d4dc	𝓜	MATHEMATICAL BOLD SCRIPT CAPITAL M	alpha	alnum	upper
+U+1d4dd	𝓝	MATHEMATICAL BOLD SCRIPT CAPITAL N	alpha	alnum	upper
+U+1d4de	𝓞	MATHEMATICAL BOLD SCRIPT CAPITAL O	alpha	alnum	upper
+U+1d4df	𝓟	MATHEMATICAL BOLD SCRIPT CAPITAL P	alpha	alnum	upper
+U+1d4e0	𝓠	MATHEMATICAL BOLD SCRIPT CAPITAL Q	alpha	alnum	upper
+U+1d4e1	𝓡	MATHEMATICAL BOLD SCRIPT CAPITAL R	alpha	alnum	upper
+U+1d4e2	𝓢	MATHEMATICAL BOLD SCRIPT CAPITAL S	alpha	alnum	upper
+U+1d4e3	𝓣	MATHEMATICAL BOLD SCRIPT CAPITAL T	alpha	alnum	upper
+U+1d4e4	𝓤	MATHEMATICAL BOLD SCRIPT CAPITAL U	alpha	alnum	upper
+U+1d4e5	𝓥	MATHEMATICAL BOLD SCRIPT CAPITAL V	alpha	alnum	upper
+U+1d4e6	𝓦	MATHEMATICAL BOLD SCRIPT CAPITAL W	alpha	alnum	upper
+U+1d4e7	𝓧	MATHEMATICAL BOLD SCRIPT CAPITAL X	alpha	alnum	upper
+U+1d4e8	𝓨	MATHEMATICAL BOLD SCRIPT CAPITAL Y	alpha	alnum	upper
+U+1d4e9	𝓩	MATHEMATICAL BOLD SCRIPT CAPITAL Z	alpha	alnum	upper
+U+1d504	𝔄	MATHEMATICAL FRAKTUR CAPITAL A	alpha	alnum	upper
+U+1d505	𝔅	MATHEMATICAL FRAKTUR CAPITAL B	alpha	alnum	upper
+U+1d507	𝔇	MATHEMATICAL FRAKTUR CAPITAL D	alpha	alnum	upper
+U+1d508	𝔈	MATHEMATICAL FRAKTUR CAPITAL E	alpha	alnum	upper
+U+1d509	𝔉	MATHEMATICAL FRAKTUR CAPITAL F	alpha	alnum	upper
+U+1d50a	𝔊	MATHEMATICAL FRAKTUR CAPITAL G	alpha	alnum	upper
+U+1d50d	𝔍	MATHEMATICAL FRAKTUR CAPITAL J	alpha	alnum	upper
+U+1d50e	𝔎	MATHEMATICAL FRAKTUR CAPITAL K	alpha	alnum	upper
+U+1d50f	𝔏	MATHEMATICAL FRAKTUR CAPITAL L	alpha	alnum	upper
+U+1d510	𝔐	MATHEMATICAL FRAKTUR CAPITAL M	alpha	alnum	upper
+U+1d511	𝔑	MATHEMATICAL FRAKTUR CAPITAL N	alpha	alnum	upper
+U+1d512	𝔒	MATHEMATICAL FRAKTUR CAPITAL O	alpha	alnum	upper
+U+1d513	𝔓	MATHEMATICAL FRAKTUR CAPITAL P	alpha	alnum	upper
+U+1d514	𝔔	MATHEMATICAL FRAKTUR CAPITAL Q	alpha	alnum	upper
+U+1d516	𝔖	MATHEMATICAL FRAKTUR CAPITAL S	alpha	alnum	upper
+U+1d517	𝔗	MATHEMATICAL FRAKTUR CAPITAL T	alpha	alnum	upper
+U+1d518	𝔘	MATHEMATICAL FRAKTUR CAPITAL U	alpha	alnum	upper
+U+1d519	𝔙	MATHEMATICAL FRAKTUR CAPITAL V	alpha	alnum	upper
+U+1d51a	𝔚	MATHEMATICAL FRAKTUR CAPITAL W	alpha	alnum	upper
+U+1d51b	𝔛	MATHEMATICAL FRAKTUR CAPITAL X	alpha	alnum	upper
+U+1d51c	𝔜	MATHEMATICAL FRAKTUR CAPITAL Y	alpha	alnum	upper
+U+1d538	𝔸	MATHEMATICAL DOUBLE-STRUCK CAPITAL A	alpha	alnum	upper
+U+1d539	𝔹	MATHEMATICAL DOUBLE-STRUCK CAPITAL B	alpha	alnum	upper
+U+1d53b	𝔻	MATHEMATICAL DOUBLE-STRUCK CAPITAL D	alpha	alnum	upper
+U+1d53c	𝔼	MATHEMATICAL DOUBLE-STRUCK CAPITAL E	alpha	alnum	upper
+U+1d53d	𝔽	MATHEMATICAL DOUBLE-STRUCK CAPITAL F	alpha	alnum	upper
+U+1d53e	𝔾	MATHEMATICAL DOUBLE-STRUCK CAPITAL G	alpha	alnum	upper
+U+1d540	𝕀	MATHEMATICAL DOUBLE-STRUCK CAPITAL I	alpha	alnum	upper
+U+1d541	𝕁	MATHEMATICAL DOUBLE-STRUCK CAPITAL J	alpha	alnum	upper
+U+1d542	𝕂	MATHEMATICAL DOUBLE-STRUCK CAPITAL K	alpha	alnum	upper
+U+1d543	𝕃	MATHEMATICAL DOUBLE-STRUCK CAPITAL L	alpha	alnum	upper
+U+1d544	𝕄	MATHEMATICAL DOUBLE-STRUCK CAPITAL M	alpha	alnum	upper
+U+1d546	𝕆	MATHEMATICAL DOUBLE-STRUCK CAPITAL O	alpha	alnum	upper
+U+1d54a	𝕊	MATHEMATICAL DOUBLE-STRUCK CAPITAL S	alpha	alnum	upper
+U+1d54b	𝕋	MATHEMATICAL DOUBLE-STRUCK CAPITAL T	alpha	alnum	upper
+U+1d54c	𝕌	MATHEMATICAL DOUBLE-STRUCK CAPITAL U	alpha	alnum	upper
+U+1d54d	𝕍	MATHEMATICAL DOUBLE-STRUCK CAPITAL V	alpha	alnum	upper
+U+1d54e	𝕎	MATHEMATICAL DOUBLE-STRUCK CAPITAL W	alpha	alnum	upper
+U+1d54f	𝕏	MATHEMATICAL DOUBLE-STRUCK CAPITAL X	alpha	alnum	upper
+U+1d550	𝕐	MATHEMATICAL DOUBLE-STRUCK CAPITAL Y	alpha	alnum	upper
+U+1d56c	𝕬	MATHEMATICAL BOLD FRAKTUR CAPITAL A	alpha	alnum	upper
+U+1d56d	𝕭	MATHEMATICAL BOLD FRAKTUR CAPITAL B	alpha	alnum	upper
+U+1d56e	𝕮	MATHEMATICAL BOLD FRAKTUR CAPITAL C	alpha	alnum	upper
+U+1d56f	𝕯	MATHEMATICAL BOLD FRAKTUR CAPITAL D	alpha	alnum	upper
+U+1d570	𝕰	MATHEMATICAL BOLD FRAKTUR CAPITAL E	alpha	alnum	upper
+U+1d571	𝕱	MATHEMATICAL BOLD FRAKTUR CAPITAL F	alpha	alnum	upper
+U+1d572	𝕲	MATHEMATICAL BOLD FRAKTUR CAPITAL G	alpha	alnum	upper
+U+1d573	𝕳	MATHEMATICAL BOLD FRAKTUR CAPITAL H	alpha	alnum	upper
+U+1d574	𝕴	MATHEMATICAL BOLD FRAKTUR CAPITAL I	alpha	alnum	upper
+U+1d575	𝕵	MATHEMATICAL BOLD FRAKTUR CAPITAL J	alpha	alnum	upper
+U+1d576	𝕶	MATHEMATICAL BOLD FRAKTUR CAPITAL K	alpha	alnum	upper
+U+1d577	𝕷	MATHEMATICAL BOLD FRAKTUR CAPITAL L	alpha	alnum	upper
+U+1d578	𝕸	MATHEMATICAL BOLD FRAKTUR CAPITAL M	alpha	alnum	upper
+U+1d579	𝕹	MATHEMATICAL BOLD FRAKTUR CAPITAL N	alpha	alnum	upper
+U+1d57a	𝕺	MATHEMATICAL BOLD FRAKTUR CAPITAL O	alpha	alnum	upper
+U+1d57b	𝕻	MATHEMATICAL BOLD FRAKTUR CAPITAL P	alpha	alnum	upper
+U+1d57c	𝕼	MATHEMATICAL BOLD FRAKTUR CAPITAL Q	alpha	alnum	upper
+U+1d57d	𝕽	MATHEMATICAL BOLD FRAKTUR CAPITAL R	alpha	alnum	upper
+U+1d57e	𝕾	MATHEMATICAL BOLD FRAKTUR CAPITAL S	alpha	alnum	upper
+U+1d57f	𝕿	MATHEMATICAL BOLD FRAKTUR CAPITAL T	alpha	alnum	upper
+U+1d580	𝖀	MATHEMATICAL BOLD FRAKTUR CAPITAL U	alpha	alnum	upper
+U+1d581	𝖁	MATHEMATICAL BOLD FRAKTUR CAPITAL V	alpha	alnum	upper
+U+1d582	𝖂	MATHEMATICAL BOLD FRAKTUR CAPITAL W	alpha	alnum	upper
+U+1d583	𝖃	MATHEMATICAL BOLD FRAKTUR CAPITAL X	alpha	alnum	upper
+U+1d584	𝖄	MATHEMATICAL BOLD FRAKTUR CAPITAL Y	alpha	alnum	upper
+U+1d585	𝖅	MATHEMATICAL BOLD FRAKTUR CAPITAL Z	alpha	alnum	upper
+U+1d5a0	𝖠	MATHEMATICAL SANS-SERIF CAPITAL A	alpha	alnum	upper
+U+1d5a1	𝖡	MATHEMATICAL SANS-SERIF CAPITAL B	alpha	alnum	upper
+U+1d5a2	𝖢	MATHEMATICAL SANS-SERIF CAPITAL C	alpha	alnum	upper
+U+1d5a3	𝖣	MATHEMATICAL SANS-SERIF CAPITAL D	alpha	alnum	upper
+U+1d5a4	𝖤	MATHEMATICAL SANS-SERIF CAPITAL E	alpha	alnum	upper
+U+1d5a5	𝖥	MATHEMATICAL SANS-SERIF CAPITAL F	alpha	alnum	upper
+U+1d5a6	𝖦	MATHEMATICAL SANS-SERIF CAPITAL G	alpha	alnum	upper
+U+1d5a7	𝖧	MATHEMATICAL SANS-SERIF CAPITAL H	alpha	alnum	upper
+U+1d5a8	𝖨	MATHEMATICAL SANS-SERIF CAPITAL I	alpha	alnum	upper
+U+1d5a9	𝖩	MATHEMATICAL SANS-SERIF CAPITAL J	alpha	alnum	upper
+U+1d5aa	𝖪	MATHEMATICAL SANS-SERIF CAPITAL K	alpha	alnum	upper
+U+1d5ab	𝖫	MATHEMATICAL SANS-SERIF CAPITAL L	alpha	alnum	upper
+U+1d5ac	𝖬	MATHEMATICAL SANS-SERIF CAPITAL M	alpha	alnum	upper
+U+1d5ad	𝖭	MATHEMATICAL SANS-SERIF CAPITAL N	alpha	alnum	upper
+U+1d5ae	𝖮	MATHEMATICAL SANS-SERIF CAPITAL O	alpha	alnum	upper
+U+1d5af	𝖯	MATHEMATICAL SANS-SERIF CAPITAL P	alpha	alnum	upper
+U+1d5b0	𝖰	MATHEMATICAL SANS-SERIF CAPITAL Q	alpha	alnum	upper
+U+1d5b1	𝖱	MATHEMATICAL SANS-SERIF CAPITAL R	alpha	alnum	upper
+U+1d5b2	𝖲	MATHEMATICAL SANS-SERIF CAPITAL S	alpha	alnum	upper
+U+1d5b3	𝖳	MATHEMATICAL SANS-SERIF CAPITAL T	alpha	alnum	upper
+U+1d5b4	𝖴	MATHEMATICAL SANS-SERIF CAPITAL U	alpha	alnum	upper
+U+1d5b5	𝖵	MATHEMATICAL SANS-SERIF CAPITAL V	alpha	alnum	upper
+U+1d5b6	𝖶	MATHEMATICAL SANS-SERIF CAPITAL W	alpha	alnum	upper
+U+1d5b7	𝖷	MATHEMATICAL SANS-SERIF CAPITAL X	alpha	alnum	upper
+U+1d5b8	𝖸	MATHEMATICAL SANS-SERIF CAPITAL Y	alpha	alnum	upper
+U+1d5b9	𝖹	MATHEMATICAL SANS-SERIF CAPITAL Z	alpha	alnum	upper
+U+1d5d4	𝗔	MATHEMATICAL SANS-SERIF BOLD CAPITAL A	alpha	alnum	upper
+U+1d5d5	𝗕	MATHEMATICAL SANS-SERIF BOLD CAPITAL B	alpha	alnum	upper
+U+1d5d6	𝗖	MATHEMATICAL SANS-SERIF BOLD CAPITAL C	alpha	alnum	upper
+U+1d5d7	𝗗	MATHEMATICAL SANS-SERIF BOLD CAPITAL D	alpha	alnum	upper
+U+1d5d8	𝗘	MATHEMATICAL SANS-SERIF BOLD CAPITAL E	alpha	alnum	upper
+U+1d5d9	𝗙	MATHEMATICAL SANS-SERIF BOLD CAPITAL F	alpha	alnum	upper
+U+1d5da	𝗚	MATHEMATICAL SANS-SERIF BOLD CAPITAL G	alpha	alnum	upper
+U+1d5db	𝗛	MATHEMATICAL SANS-SERIF BOLD CAPITAL H	alpha	alnum	upper
+U+1d5dc	𝗜	MATHEMATICAL SANS-SERIF BOLD CAPITAL I	alpha	alnum	upper
+U+1d5dd	𝗝	MATHEMATICAL SANS-SERIF BOLD CAPITAL J	alpha	alnum	upper
+U+1d5de	𝗞	MATHEMATICAL SANS-SERIF BOLD CAPITAL K	alpha	alnum	upper
+U+1d5df	𝗟	MATHEMATICAL SANS-SERIF BOLD CAPITAL L	alpha	alnum	upper
+U+1d5e0	𝗠	MATHEMATICAL SANS-SERIF BOLD CAPITAL M	alpha	alnum	upper
+U+1d5e1	𝗡	MATHEMATICAL SANS-SERIF BOLD CAPITAL N	alpha	alnum	upper
+U+1d5e2	𝗢	MATHEMATICAL SANS-SERIF BOLD CAPITAL O	alpha	alnum	upper
+U+1d5e3	𝗣	MATHEMATICAL SANS-SERIF BOLD CAPITAL P	alpha	alnum	upper
+U+1d5e4	𝗤	MATHEMATICAL SANS-SERIF BOLD CAPITAL Q	alpha	alnum	upper
+U+1d5e5	𝗥	MATHEMATICAL SANS-SERIF BOLD CAPITAL R	alpha	alnum	upper
+U+1d5e6	𝗦	MATHEMATICAL SANS-SERIF BOLD CAPITAL S	alpha	alnum	upper
+U+1d5e7	𝗧	MATHEMATICAL SANS-SERIF BOLD CAPITAL T	alpha	alnum	upper
+U+1d5e8	𝗨	MATHEMATICAL SANS-SERIF BOLD CAPITAL U	alpha	alnum	upper
+U+1d5e9	𝗩	MATHEMATICAL SANS-SERIF BOLD CAPITAL V	alpha	alnum	upper
+U+1d5ea	𝗪	MATHEMATICAL SANS-SERIF BOLD CAPITAL W	alpha	alnum	upper
+U+1d5eb	𝗫	MATHEMATICAL SANS-SERIF BOLD CAPITAL X	alpha	alnum	upper
+U+1d5ec	𝗬	MATHEMATICAL SANS-SERIF BOLD CAPITAL Y	alpha	alnum	upper
+U+1d5ed	𝗭	MATHEMATICAL SANS-SERIF BOLD CAPITAL Z	alpha	alnum	upper
+U+1d608	𝘈	MATHEMATICAL SANS-SERIF ITALIC CAPITAL A	alpha	alnum	upper
+U+1d609	𝘉	MATHEMATICAL SANS-SERIF ITALIC CAPITAL B	alpha	alnum	upper
+U+1d60a	𝘊	MATHEMATICAL SANS-SERIF ITALIC CAPITAL C	alpha	alnum	upper
+U+1d60b	𝘋	MATHEMATICAL SANS-SERIF ITALIC CAPITAL D	alpha	alnum	upper
+U+1d60c	𝘌	MATHEMATICAL SANS-SERIF ITALIC CAPITAL E	alpha	alnum	upper
+U+1d60d	𝘍	MATHEMATICAL SANS-SERIF ITALIC CAPITAL F	alpha	alnum	upper
+U+1d60e	𝘎	MATHEMATICAL SANS-SERIF ITALIC CAPITAL G	alpha	alnum	upper
+U+1d60f	𝘏	MATHEMATICAL SANS-SERIF ITALIC CAPITAL H	alpha	alnum	upper
+U+1d610	𝘐	MATHEMATICAL SANS-SERIF ITALIC CAPITAL I	alpha	alnum	upper
+U+1d611	𝘑	MATHEMATICAL SANS-SERIF ITALIC CAPITAL J	alpha	alnum	upper
+U+1d612	𝘒	MATHEMATICAL SANS-SERIF ITALIC CAPITAL K	alpha	alnum	upper
+U+1d613	𝘓	MATHEMATICAL SANS-SERIF ITALIC CAPITAL L	alpha	alnum	upper
+U+1d614	𝘔	MATHEMATICAL SANS-SERIF ITALIC CAPITAL M	alpha	alnum	upper
+U+1d615	𝘕	MATHEMATICAL SANS-SERIF ITALIC CAPITAL N	alpha	alnum	upper
+U+1d616	𝘖	MATHEMATICAL SANS-SERIF ITALIC CAPITAL O	alpha	alnum	upper
+U+1d617	𝘗	MATHEMATICAL SANS-SERIF ITALIC CAPITAL P	alpha	alnum	upper
+U+1d618	𝘘	MATHEMATICAL SANS-SERIF ITALIC CAPITAL Q	alpha	alnum	upper
+U+1d619	𝘙	MATHEMATICAL SANS-SERIF ITALIC CAPITAL R	alpha	alnum	upper
+U+1d61a	𝘚	MATHEMATICAL SANS-SERIF ITALIC CAPITAL S	alpha	alnum	upper
+U+1d61b	𝘛	MATHEMATICAL SANS-SERIF ITALIC CAPITAL T	alpha	alnum	upper
+U+1d61c	𝘜	MATHEMATICAL SANS-SERIF ITALIC CAPITAL U	alpha	alnum	upper
+U+1d61d	𝘝	MATHEMATICAL SANS-SERIF ITALIC CAPITAL V	alpha	alnum	upper
+U+1d61e	𝘞	MATHEMATICAL SANS-SERIF ITALIC CAPITAL W	alpha	alnum	upper
+U+1d61f	𝘟	MATHEMATICAL SANS-SERIF ITALIC CAPITAL X	alpha	alnum	upper
+U+1d620	𝘠	MATHEMATICAL SANS-SERIF ITALIC CAPITAL Y	alpha	alnum	upper
+U+1d621	𝘡	MATHEMATICAL SANS-SERIF ITALIC CAPITAL Z	alpha	alnum	upper
+U+1d63c	𝘼	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL A	alpha	alnum	upper
+U+1d63d	𝘽	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL B	alpha	alnum	upper
+U+1d63e	𝘾	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL C	alpha	alnum	upper
+U+1d63f	𝘿	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL D	alpha	alnum	upper
+U+1d640	𝙀	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL E	alpha	alnum	upper
+U+1d641	𝙁	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL F	alpha	alnum	upper
+U+1d642	𝙂	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL G	alpha	alnum	upper
+U+1d643	𝙃	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL H	alpha	alnum	upper
+U+1d644	𝙄	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL I	alpha	alnum	upper
+U+1d645	𝙅	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL J	alpha	alnum	upper
+U+1d646	𝙆	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL K	alpha	alnum	upper
+U+1d647	𝙇	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL L	alpha	alnum	upper
+U+1d648	𝙈	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL M	alpha	alnum	upper
+U+1d649	𝙉	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL N	alpha	alnum	upper
+U+1d64a	𝙊	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL O	alpha	alnum	upper
+U+1d64b	𝙋	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL P	alpha	alnum	upper
+U+1d64c	𝙌	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL Q	alpha	alnum	upper
+U+1d64d	𝙍	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL R	alpha	alnum	upper
+U+1d64e	𝙎	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL S	alpha	alnum	upper
+U+1d64f	𝙏	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL T	alpha	alnum	upper
+U+1d650	𝙐	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL U	alpha	alnum	upper
+U+1d651	𝙑	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL V	alpha	alnum	upper
+U+1d652	𝙒	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL W	alpha	alnum	upper
+U+1d653	𝙓	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL X	alpha	alnum	upper
+U+1d654	𝙔	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL Y	alpha	alnum	upper
+U+1d655	𝙕	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL Z	alpha	alnum	upper
+U+1d670	𝙰	MATHEMATICAL MONOSPACE CAPITAL A	alpha	alnum	upper
+U+1d671	𝙱	MATHEMATICAL MONOSPACE CAPITAL B	alpha	alnum	upper
+U+1d672	𝙲	MATHEMATICAL MONOSPACE CAPITAL C	alpha	alnum	upper
+U+1d673	𝙳	MATHEMATICAL MONOSPACE CAPITAL D	alpha	alnum	upper
+U+1d674	𝙴	MATHEMATICAL MONOSPACE CAPITAL E	alpha	alnum	upper
+U+1d675	𝙵	MATHEMATICAL MONOSPACE CAPITAL F	alpha	alnum	upper
+U+1d676	𝙶	MATHEMATICAL MONOSPACE CAPITAL G	alpha	alnum	upper
+U+1d677	𝙷	MATHEMATICAL MONOSPACE CAPITAL H	alpha	alnum	upper
+U+1d678	𝙸	MATHEMATICAL MONOSPACE CAPITAL I	alpha	alnum	upper
+U+1d679	𝙹	MATHEMATICAL MONOSPACE CAPITAL J	alpha	alnum	upper
+U+1d67a	𝙺	MATHEMATICAL MONOSPACE CAPITAL K	alpha	alnum	upper
+U+1d67b	𝙻	MATHEMATICAL MONOSPACE CAPITAL L	alpha	alnum	upper
+U+1d67c	𝙼	MATHEMATICAL MONOSPACE CAPITAL M	alpha	alnum	upper
+U+1d67d	𝙽	MATHEMATICAL MONOSPACE CAPITAL N	alpha	alnum	upper
+U+1d67e	𝙾	MATHEMATICAL MONOSPACE CAPITAL O	alpha	alnum	upper
+U+1d67f	𝙿	MATHEMATICAL MONOSPACE CAPITAL P	alpha	alnum	upper
+U+1d680	𝚀	MATHEMATICAL MONOSPACE CAPITAL Q	alpha	alnum	upper
+U+1d681	𝚁	MATHEMATICAL MONOSPACE CAPITAL R	alpha	alnum	upper
+U+1d682	𝚂	MATHEMATICAL MONOSPACE CAPITAL S	alpha	alnum	upper
+U+1d683	𝚃	MATHEMATICAL MONOSPACE CAPITAL T	alpha	alnum	upper
+U+1d684	𝚄	MATHEMATICAL MONOSPACE CAPITAL U	alpha	alnum	upper
+U+1d685	𝚅	MATHEMATICAL MONOSPACE CAPITAL V	alpha	alnum	upper
+U+1d686	𝚆	MATHEMATICAL MONOSPACE CAPITAL W	alpha	alnum	upper
+U+1d687	𝚇	MATHEMATICAL MONOSPACE CAPITAL X	alpha	alnum	upper
+U+1d688	𝚈	MATHEMATICAL MONOSPACE CAPITAL Y	alpha	alnum	upper
+U+1d689	𝚉	MATHEMATICAL MONOSPACE CAPITAL Z	alpha	alnum	upper
+U+1d6a8	𝚨	MATHEMATICAL BOLD CAPITAL ALPHA	alpha	alnum	upper
+U+1d6a9	𝚩	MATHEMATICAL BOLD CAPITAL BETA	alpha	alnum	upper
+U+1d6aa	𝚪	MATHEMATICAL BOLD CAPITAL GAMMA	alpha	alnum	upper
+U+1d6ab	𝚫	MATHEMATICAL BOLD CAPITAL DELTA	alpha	alnum	upper
+U+1d6ac	𝚬	MATHEMATICAL BOLD CAPITAL EPSILON	alpha	alnum	upper
+U+1d6ad	𝚭	MATHEMATICAL BOLD CAPITAL ZETA	alpha	alnum	upper
+U+1d6ae	𝚮	MATHEMATICAL BOLD CAPITAL ETA	alpha	alnum	upper
+U+1d6af	𝚯	MATHEMATICAL BOLD CAPITAL THETA	alpha	alnum	upper
+U+1d6b0	𝚰	MATHEMATICAL BOLD CAPITAL IOTA	alpha	alnum	upper
+U+1d6b1	𝚱	MATHEMATICAL BOLD CAPITAL KAPPA	alpha	alnum	upper
+U+1d6b2	𝚲	MATHEMATICAL BOLD CAPITAL LAMDA	alpha	alnum	upper
+U+1d6b3	𝚳	MATHEMATICAL BOLD CAPITAL MU	alpha	alnum	upper
+U+1d6b4	𝚴	MATHEMATICAL BOLD CAPITAL NU	alpha	alnum	upper
+U+1d6b5	𝚵	MATHEMATICAL BOLD CAPITAL XI	alpha	alnum	upper
+U+1d6b6	𝚶	MATHEMATICAL BOLD CAPITAL OMICRON	alpha	alnum	upper
+U+1d6b7	𝚷	MATHEMATICAL BOLD CAPITAL PI	alpha	alnum	upper
+U+1d6b8	𝚸	MATHEMATICAL BOLD CAPITAL RHO	alpha	alnum	upper
+U+1d6b9	𝚹	MATHEMATICAL BOLD CAPITAL THETA SYMBOL	alpha	alnum	upper
+U+1d6ba	𝚺	MATHEMATICAL BOLD CAPITAL SIGMA	alpha	alnum	upper
+U+1d6bb	𝚻	MATHEMATICAL BOLD CAPITAL TAU	alpha	alnum	upper
+U+1d6bc	𝚼	MATHEMATICAL BOLD CAPITAL UPSILON	alpha	alnum	upper
+U+1d6bd	𝚽	MATHEMATICAL BOLD CAPITAL PHI	alpha	alnum	upper
+U+1d6be	𝚾	MATHEMATICAL BOLD CAPITAL CHI	alpha	alnum	upper
+U+1d6bf	𝚿	MATHEMATICAL BOLD CAPITAL PSI	alpha	alnum	upper
+U+1d6c0	𝛀	MATHEMATICAL BOLD CAPITAL OMEGA	alpha	alnum	upper
+U+1d6e2	𝛢	MATHEMATICAL ITALIC CAPITAL ALPHA	alpha	alnum	upper
+U+1d6e3	𝛣	MATHEMATICAL ITALIC CAPITAL BETA	alpha	alnum	upper
+U+1d6e4	𝛤	MATHEMATICAL ITALIC CAPITAL GAMMA	alpha	alnum	upper
+U+1d6e5	𝛥	MATHEMATICAL ITALIC CAPITAL DELTA	alpha	alnum	upper
+U+1d6e6	𝛦	MATHEMATICAL ITALIC CAPITAL EPSILON	alpha	alnum	upper
+U+1d6e7	𝛧	MATHEMATICAL ITALIC CAPITAL ZETA	alpha	alnum	upper
+U+1d6e8	𝛨	MATHEMATICAL ITALIC CAPITAL ETA	alpha	alnum	upper
+U+1d6e9	𝛩	MATHEMATICAL ITALIC CAPITAL THETA	alpha	alnum	upper
+U+1d6ea	𝛪	MATHEMATICAL ITALIC CAPITAL IOTA	alpha	alnum	upper
+U+1d6eb	𝛫	MATHEMATICAL ITALIC CAPITAL KAPPA	alpha	alnum	upper
+U+1d6ec	𝛬	MATHEMATICAL ITALIC CAPITAL LAMDA	alpha	alnum	upper
+U+1d6ed	𝛭	MATHEMATICAL ITALIC CAPITAL MU	alpha	alnum	upper
+U+1d6ee	𝛮	MATHEMATICAL ITALIC CAPITAL NU	alpha	alnum	upper
+U+1d6ef	𝛯	MATHEMATICAL ITALIC CAPITAL XI	alpha	alnum	upper
+U+1d6f0	𝛰	MATHEMATICAL ITALIC CAPITAL OMICRON	alpha	alnum	upper
+U+1d6f1	𝛱	MATHEMATICAL ITALIC CAPITAL PI	alpha	alnum	upper
+U+1d6f2	𝛲	MATHEMATICAL ITALIC CAPITAL RHO	alpha	alnum	upper
+U+1d6f3	𝛳	MATHEMATICAL ITALIC CAPITAL THETA SYMBOL	alpha	alnum	upper
+U+1d6f4	𝛴	MATHEMATICAL ITALIC CAPITAL SIGMA	alpha	alnum	upper
+U+1d6f5	𝛵	MATHEMATICAL ITALIC CAPITAL TAU	alpha	alnum	upper
+U+1d6f6	𝛶	MATHEMATICAL ITALIC CAPITAL UPSILON	alpha	alnum	upper
+U+1d6f7	𝛷	MATHEMATICAL ITALIC CAPITAL PHI	alpha	alnum	upper
+U+1d6f8	𝛸	MATHEMATICAL ITALIC CAPITAL CHI	alpha	alnum	upper
+U+1d6f9	𝛹	MATHEMATICAL ITALIC CAPITAL PSI	alpha	alnum	upper
+U+1d6fa	𝛺	MATHEMATICAL ITALIC CAPITAL OMEGA	alpha	alnum	upper
+U+1d71c	𝜜	MATHEMATICAL BOLD ITALIC CAPITAL ALPHA	alpha	alnum	upper
+U+1d71d	𝜝	MATHEMATICAL BOLD ITALIC CAPITAL BETA	alpha	alnum	upper
+U+1d71e	𝜞	MATHEMATICAL BOLD ITALIC CAPITAL GAMMA	alpha	alnum	upper
+U+1d71f	𝜟	MATHEMATICAL BOLD ITALIC CAPITAL DELTA	alpha	alnum	upper
+U+1d720	𝜠	MATHEMATICAL BOLD ITALIC CAPITAL EPSILON	alpha	alnum	upper
+U+1d721	𝜡	MATHEMATICAL BOLD ITALIC CAPITAL ZETA	alpha	alnum	upper
+U+1d722	𝜢	MATHEMATICAL BOLD ITALIC CAPITAL ETA	alpha	alnum	upper
+U+1d723	𝜣	MATHEMATICAL BOLD ITALIC CAPITAL THETA	alpha	alnum	upper
+U+1d724	𝜤	MATHEMATICAL BOLD ITALIC CAPITAL IOTA	alpha	alnum	upper
+U+1d725	𝜥	MATHEMATICAL BOLD ITALIC CAPITAL KAPPA	alpha	alnum	upper
+U+1d726	𝜦	MATHEMATICAL BOLD ITALIC CAPITAL LAMDA	alpha	alnum	upper
+U+1d727	𝜧	MATHEMATICAL BOLD ITALIC CAPITAL MU	alpha	alnum	upper
+U+1d728	𝜨	MATHEMATICAL BOLD ITALIC CAPITAL NU	alpha	alnum	upper
+U+1d729	𝜩	MATHEMATICAL BOLD ITALIC CAPITAL XI	alpha	alnum	upper
+U+1d72a	𝜪	MATHEMATICAL BOLD ITALIC CAPITAL OMICRON	alpha	alnum	upper
+U+1d72b	𝜫	MATHEMATICAL BOLD ITALIC CAPITAL PI	alpha	alnum	upper
+U+1d72c	𝜬	MATHEMATICAL BOLD ITALIC CAPITAL RHO	alpha	alnum	upper
+U+1d72d	𝜭	MATHEMATICAL BOLD ITALIC CAPITAL THETA SYMBOL	alpha	alnum	upper
+U+1d72e	𝜮	MATHEMATICAL BOLD ITALIC CAPITAL SIGMA	alpha	alnum	upper
+U+1d72f	𝜯	MATHEMATICAL BOLD ITALIC CAPITAL TAU	alpha	alnum	upper
+U+1d730	𝜰	MATHEMATICAL BOLD ITALIC CAPITAL UPSILON	alpha	alnum	upper
+U+1d731	𝜱	MATHEMATICAL BOLD ITALIC CAPITAL PHI	alpha	alnum	upper
+U+1d732	𝜲	MATHEMATICAL BOLD ITALIC CAPITAL CHI	alpha	alnum	upper
+U+1d733	𝜳	MATHEMATICAL BOLD ITALIC CAPITAL PSI	alpha	alnum	upper
+U+1d734	𝜴	MATHEMATICAL BOLD ITALIC CAPITAL OMEGA	alpha	alnum	upper
+U+1d756	𝝖	MATHEMATICAL SANS-SERIF BOLD CAPITAL ALPHA	alpha	alnum	upper
+U+1d757	𝝗	MATHEMATICAL SANS-SERIF BOLD CAPITAL BETA	alpha	alnum	upper
+U+1d758	𝝘	MATHEMATICAL SANS-SERIF BOLD CAPITAL GAMMA	alpha	alnum	upper
+U+1d759	𝝙	MATHEMATICAL SANS-SERIF BOLD CAPITAL DELTA	alpha	alnum	upper
+U+1d75a	𝝚	MATHEMATICAL SANS-SERIF BOLD CAPITAL EPSILON	alpha	alnum	upper
+U+1d75b	𝝛	MATHEMATICAL SANS-SERIF BOLD CAPITAL ZETA	alpha	alnum	upper
+U+1d75c	𝝜	MATHEMATICAL SANS-SERIF BOLD CAPITAL ETA	alpha	alnum	upper
+U+1d75d	𝝝	MATHEMATICAL SANS-SERIF BOLD CAPITAL THETA	alpha	alnum	upper
+U+1d75e	𝝞	MATHEMATICAL SANS-SERIF BOLD CAPITAL IOTA	alpha	alnum	upper
+U+1d75f	𝝟	MATHEMATICAL SANS-SERIF BOLD CAPITAL KAPPA	alpha	alnum	upper
+U+1d760	𝝠	MATHEMATICAL SANS-SERIF BOLD CAPITAL LAMDA	alpha	alnum	upper
+U+1d761	𝝡	MATHEMATICAL SANS-SERIF BOLD CAPITAL MU	alpha	alnum	upper
+U+1d762	𝝢	MATHEMATICAL SANS-SERIF BOLD CAPITAL NU	alpha	alnum	upper
+U+1d763	𝝣	MATHEMATICAL SANS-SERIF BOLD CAPITAL XI	alpha	alnum	upper
+U+1d764	𝝤	MATHEMATICAL SANS-SERIF BOLD CAPITAL OMICRON	alpha	alnum	upper
+U+1d765	𝝥	MATHEMATICAL SANS-SERIF BOLD CAPITAL PI	alpha	alnum	upper
+U+1d766	𝝦	MATHEMATICAL SANS-SERIF BOLD CAPITAL RHO	alpha	alnum	upper
+U+1d767	𝝧	MATHEMATICAL SANS-SERIF BOLD CAPITAL THETA SYMBOL	alpha	alnum	upper
+U+1d768	𝝨	MATHEMATICAL SANS-SERIF BOLD CAPITAL SIGMA	alpha	alnum	upper
+U+1d769	𝝩	MATHEMATICAL SANS-SERIF BOLD CAPITAL TAU	alpha	alnum	upper
+U+1d76a	𝝪	MATHEMATICAL SANS-SERIF BOLD CAPITAL UPSILON	alpha	alnum	upper
+U+1d76b	𝝫	MATHEMATICAL SANS-SERIF BOLD CAPITAL PHI	alpha	alnum	upper
+U+1d76c	𝝬	MATHEMATICAL SANS-SERIF BOLD CAPITAL CHI	alpha	alnum	upper
+U+1d76d	𝝭	MATHEMATICAL SANS-SERIF BOLD CAPITAL PSI	alpha	alnum	upper
+U+1d76e	𝝮	MATHEMATICAL SANS-SERIF BOLD CAPITAL OMEGA	alpha	alnum	upper
+U+1d790	𝞐	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL ALPHA	alpha	alnum	upper
+U+1d791	𝞑	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL BETA	alpha	alnum	upper
+U+1d792	𝞒	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL GAMMA	alpha	alnum	upper
+U+1d793	𝞓	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL DELTA	alpha	alnum	upper
+U+1d794	𝞔	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL EPSILON	alpha	alnum	upper
+U+1d795	𝞕	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL ZETA	alpha	alnum	upper
+U+1d796	𝞖	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL ETA	alpha	alnum	upper
+U+1d797	𝞗	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL THETA	alpha	alnum	upper
+U+1d798	𝞘	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL IOTA	alpha	alnum	upper
+U+1d799	𝞙	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL KAPPA	alpha	alnum	upper
+U+1d79a	𝞚	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL LAMDA	alpha	alnum	upper
+U+1d79b	𝞛	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL MU	alpha	alnum	upper
+U+1d79c	𝞜	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL NU	alpha	alnum	upper
+U+1d79d	𝞝	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL XI	alpha	alnum	upper
+U+1d79e	𝞞	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL OMICRON	alpha	alnum	upper
+U+1d79f	𝞟	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL PI	alpha	alnum	upper
+U+1d7a0	𝞠	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL RHO	alpha	alnum	upper
+U+1d7a1	𝞡	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL THETA SYMBOL	alpha	alnum	upper
+U+1d7a2	𝞢	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL SIGMA	alpha	alnum	upper
+U+1d7a3	𝞣	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL TAU	alpha	alnum	upper
+U+1d7a4	𝞤	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL UPSILON	alpha	alnum	upper
+U+1d7a5	𝞥	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL PHI	alpha	alnum	upper
+U+1d7a6	𝞦	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL CHI	alpha	alnum	upper
+U+1d7a7	𝞧	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL PSI	alpha	alnum	upper
+U+1d7a8	𝞨	MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL OMEGA	alpha	alnum	upper
+U+1d7ca	𝟊	MATHEMATICAL BOLD CAPITAL DIGAMMA	alpha	alnum	upper
+U+1e900	𞤀	ADLAM CAPITAL LETTER ALIF	alpha	alnum	upper
+U+1e901	𞤁	ADLAM CAPITAL LETTER DAALI	alpha	alnum	upper
+U+1e902	𞤂	ADLAM CAPITAL LETTER LAAM	alpha	alnum	upper
+U+1e903	𞤃	ADLAM CAPITAL LETTER MIIM	alpha	alnum	upper
+U+1e904	𞤄	ADLAM CAPITAL LETTER BA	alpha	alnum	upper
+U+1e905	𞤅	ADLAM CAPITAL LETTER SINNYIIYHE	alpha	alnum	upper
+U+1e906	𞤆	ADLAM CAPITAL LETTER PE	alpha	alnum	upper
+U+1e907	𞤇	ADLAM CAPITAL LETTER BHE	alpha	alnum	upper
+U+1e908	𞤈	ADLAM CAPITAL LETTER RA	alpha	alnum	upper
+U+1e909	𞤉	ADLAM CAPITAL LETTER E	alpha	alnum	upper
+U+1e90a	𞤊	ADLAM CAPITAL LETTER FA	alpha	alnum	upper
+U+1e90b	𞤋	ADLAM CAPITAL LETTER I	alpha	alnum	upper
+U+1e90c	𞤌	ADLAM CAPITAL LETTER O	alpha	alnum	upper
+U+1e90d	𞤍	ADLAM CAPITAL LETTER DHA	alpha	alnum	upper
+U+1e90e	𞤎	ADLAM CAPITAL LETTER YHE	alpha	alnum	upper
+U+1e90f	𞤏	ADLAM CAPITAL LETTER WAW	alpha	alnum	upper
+U+1e910	𞤐	ADLAM CAPITAL LETTER NUN	alpha	alnum	upper
+U+1e911	𞤑	ADLAM CAPITAL LETTER KAF	alpha	alnum	upper
+U+1e912	𞤒	ADLAM CAPITAL LETTER YA	alpha	alnum	upper
+U+1e913	𞤓	ADLAM CAPITAL LETTER U	alpha	alnum	upper
+U+1e914	𞤔	ADLAM CAPITAL LETTER JIIM	alpha	alnum	upper
+U+1e915	𞤕	ADLAM CAPITAL LETTER CHI	alpha	alnum	upper
+U+1e916	𞤖	ADLAM CAPITAL LETTER HA	alpha	alnum	upper
+U+1e917	𞤗	ADLAM CAPITAL LETTER QAAF	alpha	alnum	upper
+U+1e918	𞤘	ADLAM CAPITAL LETTER GA	alpha	alnum	upper
+U+1e919	𞤙	ADLAM CAPITAL LETTER NYA	alpha	alnum	upper
+U+1e91a	𞤚	ADLAM CAPITAL LETTER TU	alpha	alnum	upper
+U+1e91b	𞤛	ADLAM CAPITAL LETTER NHA	alpha	alnum	upper
+U+1e91c	𞤜	ADLAM CAPITAL LETTER VA	alpha	alnum	upper
+U+1e91d	𞤝	ADLAM CAPITAL LETTER KHA	alpha	alnum	upper
+U+1e91e	𞤞	ADLAM CAPITAL LETTER GBE	alpha	alnum	upper
+U+1e91f	𞤟	ADLAM CAPITAL LETTER ZAL	alpha	alnum	upper
+U+1e920	𞤠	ADLAM CAPITAL LETTER KPO	alpha	alnum	upper
+U+1e921	𞤡	ADLAM CAPITAL LETTER SHA	alpha	alnum	upper
+U+1f130	🄰	SQUARED LATIN CAPITAL LETTER A	alpha	alnum	upper
+U+1f131	🄱	SQUARED LATIN CAPITAL LETTER B	alpha	alnum	upper
+U+1f132	🄲	SQUARED LATIN CAPITAL LETTER C	alpha	alnum	upper
+U+1f133	🄳	SQUARED LATIN CAPITAL LETTER D	alpha	alnum	upper
+U+1f134	🄴	SQUARED LATIN CAPITAL LETTER E	alpha	alnum	upper
+U+1f135	🄵	SQUARED LATIN CAPITAL LETTER F	alpha	alnum	upper
+U+1f136	🄶	SQUARED LATIN CAPITAL LETTER G	alpha	alnum	upper
+U+1f137	🄷	SQUARED LATIN CAPITAL LETTER H	alpha	alnum	upper
+U+1f138	🄸	SQUARED LATIN CAPITAL LETTER I	alpha	alnum	upper
+U+1f139	🄹	SQUARED LATIN CAPITAL LETTER J	alpha	alnum	upper
+U+1f13a	🄺	SQUARED LATIN CAPITAL LETTER K	alpha	alnum	upper
+U+1f13b	🄻	SQUARED LATIN CAPITAL LETTER L	alpha	alnum	upper
+U+1f13c	🄼	SQUARED LATIN CAPITAL LETTER M	alpha	alnum	upper
+U+1f13d	🄽	SQUARED LATIN CAPITAL LETTER N	alpha	alnum	upper
+U+1f13e	🄾	SQUARED LATIN CAPITAL LETTER O	alpha	alnum	upper
+U+1f13f	🄿	SQUARED LATIN CAPITAL LETTER P	alpha	alnum	upper
+U+1f140	🅀	SQUARED LATIN CAPITAL LETTER Q	alpha	alnum	upper
+U+1f141	🅁	SQUARED LATIN CAPITAL LETTER R	alpha	alnum	upper
+U+1f142	🅂	SQUARED LATIN CAPITAL LETTER S	alpha	alnum	upper
+U+1f143	🅃	SQUARED LATIN CAPITAL LETTER T	alpha	alnum	upper
+U+1f144	🅄	SQUARED LATIN CAPITAL LETTER U	alpha	alnum	upper
+U+1f145	🅅	SQUARED LATIN CAPITAL LETTER V	alpha	alnum	upper
+U+1f146	🅆	SQUARED LATIN CAPITAL LETTER W	alpha	alnum	upper
+U+1f147	🅇	SQUARED LATIN CAPITAL LETTER X	alpha	alnum	upper
+U+1f148	🅈	SQUARED LATIN CAPITAL LETTER Y	alpha	alnum	upper
+U+1f149	🅉	SQUARED LATIN CAPITAL LETTER Z	alpha	alnum	upper
+U+1f150	🅐	NEGATIVE CIRCLED LATIN CAPITAL LETTER A	alpha	alnum	upper
+U+1f151	🅑	NEGATIVE CIRCLED LATIN CAPITAL LETTER B	alpha	alnum	upper
+U+1f152	🅒	NEGATIVE CIRCLED LATIN CAPITAL LETTER C	alpha	alnum	upper
+U+1f153	🅓	NEGATIVE CIRCLED LATIN CAPITAL LETTER D	alpha	alnum	upper
+U+1f154	🅔	NEGATIVE CIRCLED LATIN CAPITAL LETTER E	alpha	alnum	upper
+U+1f155	🅕	NEGATIVE CIRCLED LATIN CAPITAL LETTER F	alpha	alnum	upper
+U+1f156	🅖	NEGATIVE CIRCLED LATIN CAPITAL LETTER G	alpha	alnum	upper
+U+1f157	🅗	NEGATIVE CIRCLED LATIN CAPITAL LETTER H	alpha	alnum	upper
+U+1f158	🅘	NEGATIVE CIRCLED LATIN CAPITAL LETTER I	alpha	alnum	upper
+U+1f159	🅙	NEGATIVE CIRCLED LATIN CAPITAL LETTER J	alpha	alnum	upper
+U+1f15a	🅚	NEGATIVE CIRCLED LATIN CAPITAL LETTER K	alpha	alnum	upper
+U+1f15b	🅛	NEGATIVE CIRCLED LATIN CAPITAL LETTER L	alpha	alnum	upper
+U+1f15c	🅜	NEGATIVE CIRCLED LATIN CAPITAL LETTER M	alpha	alnum	upper
+U+1f15d	🅝	NEGATIVE CIRCLED LATIN CAPITAL LETTER N	alpha	alnum	upper
+U+1f15e	🅞	NEGATIVE CIRCLED LATIN CAPITAL LETTER O	alpha	alnum	upper
+U+1f15f	🅟	NEGATIVE CIRCLED LATIN CAPITAL LETTER P	alpha	alnum	upper
+U+1f160	🅠	NEGATIVE CIRCLED LATIN CAPITAL LETTER Q	alpha	alnum	upper
+U+1f161	🅡	NEGATIVE CIRCLED LATIN CAPITAL LETTER R	alpha	alnum	upper
+U+1f162	🅢	NEGATIVE CIRCLED LATIN CAPITAL LETTER S	alpha	alnum	upper
+U+1f163	🅣	NEGATIVE CIRCLED LATIN CAPITAL LETTER T	alpha	alnum	upper
+U+1f164	🅤	NEGATIVE CIRCLED LATIN CAPITAL LETTER U	alpha	alnum	upper
+U+1f165	🅥	NEGATIVE CIRCLED LATIN CAPITAL LETTER V	alpha	alnum	upper
+U+1f166	🅦	NEGATIVE CIRCLED LATIN CAPITAL LETTER W	alpha	alnum	upper
+U+1f167	🅧	NEGATIVE CIRCLED LATIN CAPITAL LETTER X	alpha	alnum	upper
+U+1f168	🅨	NEGATIVE CIRCLED LATIN CAPITAL LETTER Y	alpha	alnum	upper
+U+1f169	🅩	NEGATIVE CIRCLED LATIN CAPITAL LETTER Z	alpha	alnum	upper
+U+1f170	🅰	NEGATIVE SQUARED LATIN CAPITAL LETTER A	alpha	alnum	upper
+U+1f171	🅱	NEGATIVE SQUARED LATIN CAPITAL LETTER B	alpha	alnum	upper
+U+1f172	🅲	NEGATIVE SQUARED LATIN CAPITAL LETTER C	alpha	alnum	upper
+U+1f173	🅳	NEGATIVE SQUARED LATIN CAPITAL LETTER D	alpha	alnum	upper
+U+1f174	🅴	NEGATIVE SQUARED LATIN CAPITAL LETTER E	alpha	alnum	upper
+U+1f175	🅵	NEGATIVE SQUARED LATIN CAPITAL LETTER F	alpha	alnum	upper
+U+1f176	🅶	NEGATIVE SQUARED LATIN CAPITAL LETTER G	alpha	alnum	upper
+U+1f177	🅷	NEGATIVE SQUARED LATIN CAPITAL LETTER H	alpha	alnum	upper
+U+1f178	🅸	NEGATIVE SQUARED LATIN CAPITAL LETTER I	alpha	alnum	upper
+U+1f179	🅹	NEGATIVE SQUARED LATIN CAPITAL LETTER J	alpha	alnum	upper
+U+1f17a	🅺	NEGATIVE SQUARED LATIN CAPITAL LETTER K	alpha	alnum	upper
+U+1f17b	🅻	NEGATIVE SQUARED LATIN CAPITAL LETTER L	alpha	alnum	upper
+U+1f17c	🅼	NEGATIVE SQUARED LATIN CAPITAL LETTER M	alpha	alnum	upper
+U+1f17d	🅽	NEGATIVE SQUARED LATIN CAPITAL LETTER N	alpha	alnum	upper
+U+1f17e	🅾	NEGATIVE SQUARED LATIN CAPITAL LETTER O	alpha	alnum	upper
+U+1f17f	🅿	NEGATIVE SQUARED LATIN CAPITAL LETTER P	alpha	alnum	upper
+U+1f180	🆀	NEGATIVE SQUARED LATIN CAPITAL LETTER Q	alpha	alnum	upper
+U+1f181	🆁	NEGATIVE SQUARED LATIN CAPITAL LETTER R	alpha	alnum	upper
+U+1f182	🆂	NEGATIVE SQUARED LATIN CAPITAL LETTER S	alpha	alnum	upper
+U+1f183	🆃	NEGATIVE SQUARED LATIN CAPITAL LETTER T	alpha	alnum	upper
+U+1f184	🆄	NEGATIVE SQUARED LATIN CAPITAL LETTER U	alpha	alnum	upper
+U+1f185	🆅	NEGATIVE SQUARED LATIN CAPITAL LETTER V	alpha	alnum	upper
+U+1f186	🆆	NEGATIVE SQUARED LATIN CAPITAL LETTER W	alpha	alnum	upper
+U+1f187	🆇	NEGATIVE SQUARED LATIN CAPITAL LETTER X	alpha	alnum	upper
+U+1f188	🆈	NEGATIVE SQUARED LATIN CAPITAL LETTER Y	alpha	alnum	upper
+U+1f189	🆉	NEGATIVE SQUARED LATIN CAPITAL LETTER Z	alpha	alnum	upper

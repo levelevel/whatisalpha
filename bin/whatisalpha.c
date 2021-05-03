@@ -18,7 +18,7 @@ const char UnicodeData2[] = "UnicodeData_ext.csv";
 
 #define BUFLEN 1024
 #define DELIM   ';'
-// UnicodeData.txtから1行分を読み込む
+// UnicodeData.txtから1行分を読み込む。
 int read_line(FILE *fp, UnicodeData_t *udata) {
     static char buf[BUFLEN];
     char *p = buf;
@@ -36,17 +36,16 @@ int read_line(FILE *fp, UnicodeData_t *udata) {
     return 1;
 }
 
-int write_line(wchar_t wc) {
+// 1文字分のクラス情報を出力する。
+int write_line(const char *name, wchar_t wc) {
     int match = 0;
     char buf[8];
-    if (wctomb(buf, wc)<0) {
-        printf("U+%04x\tillegal\n", wc);
-        return 0;
-    }
+    assert(wctomb(buf, wc)>=0);
 
     printf("U+%04x\t", wc);
     if (iswcntrl(wc)) printf("0x%x", wc);
     else              printf("%C", wc);
+    printf("\t%s", name);
     if (iswalpha (wc)) { fputs("\talpha", stdout); match = 1; }
     if (iswalnum (wc)) { fputs("\talnum", stdout); match = 1; }
     if (iswupper (wc)) { fputs("\tupper", stdout); match = 1; }
@@ -64,8 +63,8 @@ int write_line(wchar_t wc) {
     return 1;
 }
 
-// UnicodeData_ext.txtに1行分を書き込む
-// 2項目目に該当する文字をUTF-8で追加する。
+// UnicodeData2に1行分を書き込む。
+// 第2項目に文字をUTF-8で追加する。
 void write_udata(FILE *fp2, UnicodeData_t *udata) {
     fputs(udata->data[0], fp2);
     if (iswcntrl(udata->wc)) fprintf(fp2, ";");
@@ -73,6 +72,8 @@ void write_udata(FILE *fp2, UnicodeData_t *udata) {
     for (int i=1; i<DATSIZE; i++) fprintf(fp2, ";%s", udata->data[i]);
 }
 
+//UnicodeDataを入力し、第2項目に文字をUTF-8で追加してUnicodeData2を出力する。
+//標準出力にクラス情報を出力する。
 int main(void) {
     setlocale(LC_ALL, "ja_JP.UTF-8");
     UnicodeData_t udata;
@@ -89,19 +90,33 @@ int main(void) {
 
     while (read_line(fp, &udata)) {
         wchar_t wc = udata.wc;
+        char *name = udata.data[1];
         write_udata(fp2, &udata);
+
+        //3400;<CJK Ideograph Extension A, First>;Lo;0;L;;;;;N;;;;;
+        //4DBF;<CJK Ideograph Extension A, Last>;Lo;0;L;;;;;N;;;;;
         if (strstr(udata.data[1], ", First>")) {
             wchar_t st, en;
             st = wc;
             read_line(fp, &udata);
+            assert(strstr(udata.data[1], ", Last>"));
             en = udata.wc;
-            if (st>=L'\xF0000' && strstr(udata.data[1], "Private Use")) {
-                write_line(st);
-                write_line(en);
+            //D800;<Non Private Use High Surrogate, First>;Cs;0;L;;;;;N;;;;;
+            //DB7F;<Non Private Use High Surrogate, Last>;Cs;0;L;;;;;N;;;;;
+            if (strstr(udata.data[1], "Private Use") ||
+                strstr(udata.data[1], "Surrogate")) {
+                continue;
             } else {
-                for (wc=st; wc<=en; wc++) write_line(wc);
+                name++;     //'<'をスキップ
+                char *q = strchr(name, ',');
+                if (q) *q = '\0';  //','以降を除外
+                for (wc=st; wc<=en; wc++) write_line(name, wc);
             }
-        } else write_line(wc);
+        } else {
+            //0000;<control>;Cc;0;BN;;;;;N;NULL;;;;
+            if (strcmp(name, "<control>")==0) name = udata.data[10];
+            write_line(name, wc);
+        }
     }
     return 0;
 }

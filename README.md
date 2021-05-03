@@ -3,8 +3,7 @@
 Unicodeの[全文字](http://www.unicode.org/Public/UCD/latest/ucd/UnicodeData.txt)に対してどれがアルファベットでどれが数値なのかを調べてみた。
 
 glibcの[iswxxxxx](https://linuxjm.osdn.jp/html/LDP_man-pages/man3/iswctype.3.html#lbAI)の結果で分類すると各クラスの総数は以下のようになる。
-(Noneはどのクラスにも属さないもの。
-ただし[wctomb](https://linuxjm.osdn.jp/html/LDP_man-pages/man3/wctomb.3.html)関数が-1を返す文字は母数から除外してある。）
+Noneはどのクラスにも属さないもの。
 
 ```text
 alpha 127876
@@ -30,14 +29,13 @@ None 5930
 ## サンプル
 
 ```text
-U+03a3	Σ	alpha	alnum	upper
-U+03b2	β	alpha	alnum	lower
-U+3041	ぁ	alpha	alnum
-U+3042	あ	alpha	alnum
-U+767e	百	alpha	alnum
-U+ff10	０	alpha	alnum
-U+ff11	１	alpha	alnum
-U+ff21	Ａ	alpha	alnum	upper
-U+1f600	😀	punct
-U+1f601	😁	punct
+U+03a3	Σ	GREEK CAPITAL LETTER SIGMA	alpha	alnum	upper
+U+03b2	β	GREEK SMALL LETTER BETA	alpha	alnum	lower
+U+3041	ぁ	HIRAGANA LETTER SMALL A	alpha	alnum
+U+3042	あ	HIRAGANA LETTER A	alpha	alnum
+U+767e	百	CJK Ideograph	alpha	alnum
+U+ff11	１	FULLWIDTH DIGIT ONE	alpha	alnum
+U+ff21	Ａ	FULLWIDTH LATIN CAPITAL LETTER A	alpha	alnum	upper
+U+ff41	ａ	FULLWIDTH LATIN SMALL LETTER A	alpha	alnum	lower
+U+1f600	😀	GRINNING FACE	punct
 ```

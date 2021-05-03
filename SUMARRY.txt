@@ -4,7 +4,7 @@ upper 1939
 lower 2344
 digit 10
 xdigit 22
-punct 16431
+punct 10027
 blank 15
 space 21
 cntrl 67
