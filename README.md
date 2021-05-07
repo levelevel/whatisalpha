@@ -30,12 +30,12 @@ None 5930
 
 UTF-8のテキストファイルだが、タブ区切りのcsvとして扱うことができる。
 
-|カラム|内容|
-|----|----|
-|1|文字コード|
-|2|文字|
-|3|character name|
-|4以降|該当する文字クラス|
+|カラム|内容|例|
+|----|----|----|
+|1|文字コード|U+3042|
+|2|文字|あ|
+|3|character name|HIRAGANA LETTER A|
+|4以降|属する文字クラス|alpha	alnum|
 
 ### サンプル
 
@@ -58,4 +58,4 @@ U+1f600	😀	GRINNING FACE	punct
 
 区切り文字はオリジナルを踏襲して;のままとした。
 
-UnicodeData.txtの仕様は[tr44/#UnicodeData.txt](http://www.unicode.org/reports/tr44/#UnicodeData.txt)にある。
+UnicodeData.txtの仕様は[UAX #44: Unicode Character Database](http://www.unicode.org/reports/tr44/#UnicodeData.txt)にある。
